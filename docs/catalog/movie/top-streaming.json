@@ -41,16 +41,6 @@
       "background": "https://image.tmdb.org/t/p/w500/aHhHRz6nOpwkqJs5ASeRGAdK2dt.jpg"
     },
     {
-      "id": "tt26657236",
-      "type": "movie",
-      "name": "Backrooms",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26657236.jpg",
-      "description": "A strange doorway appears in the basement of a furniture showroom.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.0",
-      "background": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg"
-    },
-    {
       "id": "tt29355505",
       "type": "movie",
       "name": "Toy Story 5",
@@ -101,26 +91,6 @@
       "background": "https://image.tmdb.org/t/p/w500/uwMKWjcNID0D9jjplsjkQS2OrB4.jpg"
     },
     {
-      "id": "tt1312221",
-      "type": "movie",
-      "name": "Frankenstein",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1312221.jpg",
-      "description": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
-      "releaseInfo": "2025",
-      "imdbRating": "7.6",
-      "background": "https://image.tmdb.org/t/p/w500/g4JtvGlQO7DByTI6frUobqvSL3R.jpg"
-    },
-    {
-      "id": "tt33296751",
-      "type": "movie",
-      "name": "Tuner",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33296751.jpg",
-      "description": "A gifted piano tuner's meticulous skills for tuning pianos lead him to discover an unexpected aptitude for cracking safes, turning his life upside down.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.6",
-      "background": "https://image.tmdb.org/t/p/w500/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg"
-    },
-    {
       "id": "tt31193180",
       "type": "movie",
       "name": "Sinners",
@@ -131,16 +101,6 @@
       "background": "https://image.tmdb.org/t/p/w500/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg"
     },
     {
-      "id": "tt20969586",
-      "type": "movie",
-      "name": "Thunderbolts*",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt20969586.jpg",
-      "description": "After finding themselves ensnared in a death trap, seven disillusioned castoffs must embark on a dangerous mission that will force them to confront the darkest corners of their pasts.",
-      "releaseInfo": "2025",
-      "imdbRating": "7.3",
-      "background": "https://image.tmdb.org/t/p/w500/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg"
-    },
-    {
       "id": "tt5950044",
       "type": "movie",
       "name": "Superman",
@@ -149,6 +109,66 @@
       "releaseInfo": "2025",
       "imdbRating": "7.3",
       "background": "https://image.tmdb.org/t/p/w500/ldyfo0BKmz5rWtJJKCvwaNS4cJT.jpg"
+    },
+    {
+      "id": "tt32547691",
+      "type": "movie",
+      "name": "Pressure",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32547691.jpg",
+      "description": "In the tense 72 hours before D-Day, and the fate of the free world hanging in the balance, General Dwight D. Eisenhower and Captain James Stagg face an impossible choice\u2014launch the largest and most dangerous seaborne invasion in history or risk losing the war altogether.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.7",
+      "background": "https://image.tmdb.org/t/p/w500/gFjEggtrejCN79r6SXRjM269OtG.jpg"
+    },
+    {
+      "id": "tt1312221",
+      "type": "movie",
+      "name": "Frankenstein",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1312221.jpg",
+      "description": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.6",
+      "background": "https://image.tmdb.org/t/p/w500/g4JtvGlQO7DByTI6frUobqvSL3R.jpg"
+    },
+    {
+      "id": "tt0427340",
+      "type": "movie",
+      "name": "Masters of the Universe",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0427340.jpg",
+      "description": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man \u2014 the most powerful man in the universe.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.1",
+      "background": "https://image.tmdb.org/t/p/w500/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg"
+    },
+    {
+      "id": "tt28650488",
+      "type": "movie",
+      "name": "The Super Mario Galaxy Movie",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt28650488.jpg",
+      "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.2",
+      "background": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
+    },
+    {
+      "id": "tt26443597",
+      "type": "movie",
+      "name": "Zootopia 2",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26443597.jpg",
+      "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.7",
+      "background": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
+    },
+    {
+      "id": "tt20969586",
+      "type": "movie",
+      "name": "Thunderbolts*",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt20969586.jpg",
+      "description": "After finding themselves ensnared in a death trap, seven disillusioned castoffs must embark on a dangerous mission that will force them to confront the darkest corners of their pasts.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.3",
+      "background": "https://image.tmdb.org/t/p/w500/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg"
     },
     {
       "id": "tt26443597",
@@ -211,34 +231,44 @@
       "background": "https://image.tmdb.org/t/p/w500/cWsBscZzwu5brg9YjNkGewRUvJX.jpg"
     },
     {
-      "id": "tt0427340",
+      "id": "tt30825738",
       "type": "movie",
-      "name": "Masters of the Universe",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0427340.jpg",
-      "description": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man \u2014 the most powerful man in the universe.",
+      "name": "The Mandalorian and Grogu",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt30825738.jpg",
+      "description": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
       "releaseInfo": "2026",
-      "imdbRating": "7.1",
-      "background": "https://image.tmdb.org/t/p/w500/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg"
+      "imdbRating": "7.5",
+      "background": "https://image.tmdb.org/t/p/w500/uwMKWjcNID0D9jjplsjkQS2OrB4.jpg"
     },
     {
-      "id": "tt1757678",
+      "id": "tt33296751",
       "type": "movie",
-      "name": "Avatar: Fire and Ash",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1757678.jpg",
-      "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
-      "releaseInfo": "2025",
+      "name": "Tuner",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33296751.jpg",
+      "description": "A gifted piano tuner's meticulous skills for tuning pianos lead him to discover an unexpected aptitude for cracking safes, turning his life upside down.",
+      "releaseInfo": "2026",
       "imdbRating": "7.6",
-      "background": "https://image.tmdb.org/t/p/w500/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg"
+      "background": "https://image.tmdb.org/t/p/w500/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg"
     },
     {
-      "id": "tt33612209",
+      "id": "tt32916440",
       "type": "movie",
-      "name": "The Devil Wears Prada 2",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33612209.jpg",
-      "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
+      "name": "Marty Supreme",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32916440.jpg",
+      "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.4",
+      "background": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
+    },
+    {
+      "id": "tt31195136",
+      "type": "movie",
+      "name": "Normal",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31195136.jpg",
+      "description": "An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more explosive.",
       "releaseInfo": "2026",
-      "imdbRating": "7.0",
-      "background": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg"
+      "imdbRating": "7.3",
+      "background": "https://image.tmdb.org/t/p/w500/t13MdGCKRZvkmrFW2A7Vih3QjwD.jpg"
     },
     {
       "id": "tt31227572",
