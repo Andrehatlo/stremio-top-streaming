@@ -1,0 +1,18 @@
+{
+  "id": "no.jeanette.topstreaming",
+  "version": "1.0.0",
+  "name": "Top on Streaming",
+  "description": "Daily top shows and movies across streaming services (TMDB).",
+  "resources": ["catalog"],
+  "types": ["series", "movie"],
+  "idPrefixes": ["tt"],
+  "catalogs": [
+    {"type": "series", "id": "top-streaming", "name": "Top Series on Streaming"},
+    {"type": "movie",  "id": "top-streaming", "name": "Top Movies on Streaming"},
+    {"type": "series", "id": "new-streaming", "name": "New on Streaming"},
+    {"type": "movie",  "id": "new-streaming", "name": "New Movies on Streaming"},
+    {"type": "series", "id": "toprated-streaming", "name": "Top Rated Series"},
+    {"type": "movie",  "id": "toprated-streaming", "name": "Top Rated Movies"}
+  ],
+  "behaviorHints": {"configurable": false}
+}

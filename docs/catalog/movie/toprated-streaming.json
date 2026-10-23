@@ -1,0 +1,405 @@
+{
+  "metas": [
+    {
+      "id": "tt29552248",
+      "type": "movie",
+      "name": "Swapped",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt29552248.jpg",
+      "description": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat\u2014one that could endanger not only their species, but the entire valley they call home.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.8",
+      "background": "https://image.tmdb.org/t/p/w500/tHhxWxge06goXU6ZQH1hj7vK8Hd.jpg"
+    },
+    {
+      "id": "tt32820897",
+      "type": "movie",
+      "name": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32820897.jpg",
+      "description": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
+      "releaseInfo": "2025",
+      "imdbRating": "8.8",
+      "background": "https://image.tmdb.org/t/p/w500/fWVSwgjpT2D78VUh6X8UBd2rorW.jpg"
+    },
+    {
+      "id": "tt12042730",
+      "type": "movie",
+      "name": "Project Hail Mary",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt12042730.jpg",
+      "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.6",
+      "background": "https://image.tmdb.org/t/p/w500/iOb2fjXLbpJgyQXe46n1WtGCnaa.jpg"
+    },
+    {
+      "id": "tt22084616",
+      "type": "movie",
+      "name": "Spider-Man: Brand New Day",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt22084616.jpg",
+      "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.5",
+      "background": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg"
+    },
+    {
+      "id": "tt29623480",
+      "type": "movie",
+      "name": "The Wild Robot",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt29623480.jpg",
+      "description": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+      "releaseInfo": "2024",
+      "imdbRating": "8.3",
+      "background": "https://image.tmdb.org/t/p/w500/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg"
+    },
+    {
+      "id": "tt29355505",
+      "type": "movie",
+      "name": "Toy Story 5",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt29355505.jpg",
+      "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.3",
+      "background": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg"
+    },
+    {
+      "id": "tt36042156",
+      "type": "movie",
+      "name": "The Punisher: One Last Kill",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36042156.jpg",
+      "description": "As Frank Castle searches for meaning beyond revenge, an unexpected force pulls him back into the fight.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.3",
+      "background": "https://image.tmdb.org/t/p/w500/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg"
+    },
+    {
+      "id": "tt28650488",
+      "type": "movie",
+      "name": "The Super Mario Galaxy Movie",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt28650488.jpg",
+      "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.2",
+      "background": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
+    },
+    {
+      "id": "tt15239678",
+      "type": "movie",
+      "name": "Dune: Part Two",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt15239678.jpg",
+      "description": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
+      "releaseInfo": "2024",
+      "imdbRating": "8.1",
+      "background": "https://image.tmdb.org/t/p/w500/6izwz7rsy95ARzTR3poZ8H6c5pp.jpg"
+    },
+    {
+      "id": "tt26443616",
+      "type": "movie",
+      "name": "Hoppers",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26443616.jpg",
+      "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.1",
+      "background": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg"
+    },
+    {
+      "id": "tt14205554",
+      "type": "movie",
+      "name": "KPop Demon Hunters",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt14205554.jpg",
+      "description": "When K-pop superstars Rumi, Mira and Zoey aren't selling out stadiums, they're using their secret powers to protect their fans from supernatural threats.",
+      "releaseInfo": "2025",
+      "imdbRating": "8.0",
+      "background": "https://image.tmdb.org/t/p/w500/zT7Lhw3BhJbMkRqm9Zlx2YGMsY0.jpg"
+    },
+    {
+      "id": "tt16277242",
+      "type": "movie",
+      "name": "Society of the Snow",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt16277242.jpg",
+      "description": "On October 13, 1972, Uruguayan Air Force Flight 571, chartered to take a rugby team to Chile, crashes into a glacier in the heart of the Andes.",
+      "releaseInfo": "2023",
+      "imdbRating": "8.0",
+      "background": "https://image.tmdb.org/t/p/w500/2e853FDVSIso600RqAMunPxiZjq.jpg"
+    },
+    {
+      "id": "tt26743210",
+      "type": "movie",
+      "name": "How to Train Your Dragon",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26743210.jpg",
+      "description": "On the rugged isle of Berk, where Vikings and dragons have been bitter enemies for generations, Hiccup stands apart, defying centuries of tradition when he befriends Toothless, a feared Night Fury dragon. Their unlikely bond reveals the true nature of dragons, challenging the very foundations of Viking society.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.9",
+      "background": "https://image.tmdb.org/t/p/w500/53dsJ3oEnBhTBVMigWJ9tkA5bzJ.jpg"
+    },
+    {
+      "id": "tt32565993",
+      "type": "movie",
+      "name": "The Sheep Detectives",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32565993.jpg",
+      "description": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.9",
+      "background": "https://image.tmdb.org/t/p/w500/iKy5460GdsoknM8ppmGlJbKxAKa.jpg"
+    },
+    {
+      "id": "tt31227572",
+      "type": "movie",
+      "name": "Predator: Badlands",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31227572.jpg",
+      "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.8",
+      "background": "https://image.tmdb.org/t/p/w500/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg"
+    },
+    {
+      "id": "tt16311594",
+      "type": "movie",
+      "name": "F1",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt16311594.jpg",
+      "description": "Racing legend Sonny Hayes is coaxed out of retirement to lead a struggling Formula 1 team\u2014and mentor a young hotshot driver\u2014while chasing one more chance at glory.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.8",
+      "background": "https://image.tmdb.org/t/p/w500/9PXZIUsSDh4alB80jheWX4fhZmy.jpg"
+    },
+    {
+      "id": "tt32612507",
+      "type": "movie",
+      "name": "Lee Cronin's The Mummy",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32612507.jpg",
+      "description": "The young daughter of a journalist disappears into the desert without a trace\u2014eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.8",
+      "background": "https://image.tmdb.org/t/p/w500/1q308iixueCU4pFtSYugNOevtNx.jpg"
+    },
+    {
+      "id": "tt17490712",
+      "type": "movie",
+      "name": "Mortal Kombat II",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt17490712.jpg",
+      "description": "The fan favorite champions\u2014now joined by Johnny Cage himself\u2014are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.8",
+      "background": "https://image.tmdb.org/t/p/w500/hwRdDFIhaEmpRgoki805YvyyjZf.jpg"
+    },
+    {
+      "id": "tt32357218",
+      "type": "movie",
+      "name": "Shelter",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32357218.jpg",
+      "description": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.7",
+      "background": "https://image.tmdb.org/t/p/w500/cv7DeQQ7TOozPoTCBdNJIvWKhU1.jpg"
+    },
+    {
+      "id": "tt14905854",
+      "type": "movie",
+      "name": "Hamnet",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt14905854.jpg",
+      "description": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.7",
+      "background": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
+    },
+    {
+      "id": "tt13654226",
+      "type": "movie",
+      "name": "The Gorge",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt13654226.jpg",
+      "description": "Two highly trained operatives grow close from a distance after being sent to guard opposite sides of a mysterious gorge. When an evil below emerges, they must work together to survive what lies within.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.7",
+      "background": "https://image.tmdb.org/t/p/w500/7iMBZzVZtG0oBug4TfqDb9ZxAOa.jpg"
+    },
+    {
+      "id": "tt26443597",
+      "type": "movie",
+      "name": "Zootopia 2",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26443597.jpg",
+      "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.7",
+      "background": "https://image.tmdb.org/t/p/w500/oJ7g2CifqpStmoYQyaLQgEU32qO.jpg"
+    },
+    {
+      "id": "tt1757678",
+      "type": "movie",
+      "name": "Avatar: Fire and Ash",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1757678.jpg",
+      "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.6",
+      "background": "https://image.tmdb.org/t/p/w500/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg"
+    },
+    {
+      "id": "tt14230458",
+      "type": "movie",
+      "name": "Poor Things",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt14230458.jpg",
+      "description": "Brought back to life by an unorthodox scientist, a young woman runs off with a lawyer on a whirlwind adventure across the continents. Free from the prejudices of her times, she grows steadfast in her purpose to stand for equality and liberation.",
+      "releaseInfo": "2023",
+      "imdbRating": "7.6",
+      "background": "https://image.tmdb.org/t/p/w500/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg"
+    },
+    {
+      "id": "tt23289160",
+      "type": "movie",
+      "name": "Godzilla Minus One",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt23289160.jpg",
+      "description": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
+      "releaseInfo": "2023",
+      "imdbRating": "7.6",
+      "background": "https://image.tmdb.org/t/p/w500/2E2WTX0TJEflAged6kzErwqX1kt.jpg"
+    },
+    {
+      "id": "tt1312221",
+      "type": "movie",
+      "name": "Frankenstein",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1312221.jpg",
+      "description": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.6",
+      "background": "https://image.tmdb.org/t/p/w500/g4JtvGlQO7DByTI6frUobqvSL3R.jpg"
+    },
+    {
+      "id": "tt18259086",
+      "type": "movie",
+      "name": "Sonic the Hedgehog 3",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt18259086.jpg",
+      "description": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.",
+      "releaseInfo": "2024",
+      "imdbRating": "7.6",
+      "background": "https://image.tmdb.org/t/p/w500/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg"
+    },
+    {
+      "id": "tt29567915",
+      "type": "movie",
+      "name": "Nuremberg",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt29567915.jpg",
+      "description": "In postwar Germany, an American psychiatrist must determine whether Nazi prisoners are fit to go on trial for war crimes, and finds himself in a complex battle of intellect and ethics with Hermann G\u00f6ring, Hitler's right-hand man.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.6",
+      "background": "https://image.tmdb.org/t/p/w500/xthXNYltOOm80vW5Kxjzxx5gvQ6.jpg"
+    },
+    {
+      "id": "tt6263850",
+      "type": "movie",
+      "name": "Deadpool & Wolverine",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6263850.jpg",
+      "description": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
+      "releaseInfo": "2024",
+      "imdbRating": "7.6",
+      "background": "https://image.tmdb.org/t/p/w500/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg"
+    },
+    {
+      "id": "tt22022452",
+      "type": "movie",
+      "name": "Inside Out 2",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt22022452.jpg",
+      "description": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who\u2019ve long been running a successful operation by all accounts, aren\u2019t sure how to feel when Anxiety shows up. And it looks like she\u2019s not alone.",
+      "releaseInfo": "2024",
+      "imdbRating": "7.5",
+      "background": "https://image.tmdb.org/t/p/w500/vpnVM9B6NMmQpWeZvzLvDESb2QY.jpg"
+    },
+    {
+      "id": "tt33978029",
+      "type": "movie",
+      "name": "Ready or Not: Here I Come",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33978029.jpg",
+      "description": "Moments after surviving an all-out attack from the Le Domas family, Grace discovers she\u2019s reached the next level of the nightmarish game \u2014 and this time with her estranged sister Faith at her side. Grace has one chance to survive, keep her sister alive, and claim the High Seat of the Council that controls the world. Four rival families are hunting her for the throne, and whoever wins rules it all.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.5",
+      "background": "https://image.tmdb.org/t/p/w500/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg"
+    },
+    {
+      "id": "tt15940132",
+      "type": "movie",
+      "name": "War Machine",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt15940132.jpg",
+      "description": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.5",
+      "background": "https://image.tmdb.org/t/p/w500/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg"
+    },
+    {
+      "id": "tt31193180",
+      "type": "movie",
+      "name": "Sinners",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31193180.jpg",
+      "description": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.5",
+      "background": "https://image.tmdb.org/t/p/w500/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg"
+    },
+    {
+      "id": "tt30825738",
+      "type": "movie",
+      "name": "The Mandalorian and Grogu",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt30825738.jpg",
+      "description": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.5",
+      "background": "https://image.tmdb.org/t/p/w500/uwMKWjcNID0D9jjplsjkQS2OrB4.jpg"
+    },
+    {
+      "id": "tt32916440",
+      "type": "movie",
+      "name": "Marty Supreme",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32916440.jpg",
+      "description": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.4",
+      "background": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg"
+    },
+    {
+      "id": "tt30144839",
+      "type": "movie",
+      "name": "One Battle After Another",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt30144839.jpg",
+      "description": "Washed-up revolutionary Bob exists in a state of stoned paranoia, surviving off-grid with his spirited, self-reliant daughter, Willa. When his evil nemesis resurfaces after 16 years and she goes missing, the former radical scrambles to find her, father and daughter both battling the consequences of his past.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.3",
+      "background": "https://image.tmdb.org/t/p/w500/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg"
+    },
+    {
+      "id": "tt5950044",
+      "type": "movie",
+      "name": "Superman",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5950044.jpg",
+      "description": "Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.3",
+      "background": "https://image.tmdb.org/t/p/w500/ldyfo0BKmz5rWtJJKCvwaNS4cJT.jpg"
+    },
+    {
+      "id": "tt32246771",
+      "type": "movie",
+      "name": "Bring Her Back",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32246771.jpg",
+      "description": "Following the death of their father, a brother and sister are sent to live with a foster mother, only to learn that she is hiding a terrifying secret.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.3",
+      "background": "https://image.tmdb.org/t/p/w500/1Q3GlCXGYWELifxANYZ5OVMRVZl.jpg"
+    },
+    {
+      "id": "tt12300742",
+      "type": "movie",
+      "name": "Bugonia",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt12300742.jpg",
+      "description": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.3",
+      "background": "https://image.tmdb.org/t/p/w500/rSdOua3wKMEaFWDcKAYWRjXQWOt.jpg"
+    },
+    {
+      "id": "tt20969586",
+      "type": "movie",
+      "name": "Thunderbolts*",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt20969586.jpg",
+      "description": "After finding themselves ensnared in a death trap, seven disillusioned castoffs must embark on a dangerous mission that will force them to confront the darkest corners of their pasts.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.3",
+      "background": "https://image.tmdb.org/t/p/w500/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg"
+    }
+  ],
+  "cacheMaxAge": 3600
+}

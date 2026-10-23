@@ -1,0 +1,6 @@
+.env
+PROMPT.md
+backup/
+__pycache__/
+*.pyc
+shots/
