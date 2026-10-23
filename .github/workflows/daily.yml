@@ -28,13 +28,31 @@ jobs:
         run: python build.py
 
       - name: Commit and push if changed
+        id: commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add docs/catalog
           if git diff --cached --quiet; then
             echo "No changes, skipping commit."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
           else
             git commit -m "daily: $(date -u +%Y-%m-%d)"
             git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
+
+      # jsDelivr (not GitHub Pages - see README) caches aggressively, so
+      # force it to pick up today's files immediately after pushing.
+      - name: Purge jsDelivr cache
+        if: steps.commit.outputs.changed == 'true'
+        run: |
+          for f in docs/manifest.json \
+                   docs/catalog/series/top-streaming.json \
+                   docs/catalog/movie/top-streaming.json \
+                   docs/catalog/series/new-streaming.json \
+                   docs/catalog/movie/new-streaming.json \
+                   docs/catalog/series/toprated-streaming.json \
+                   docs/catalog/movie/toprated-streaming.json; do
+            curl -s "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/$f" > /dev/null
+          done
