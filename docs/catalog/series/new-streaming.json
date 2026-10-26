@@ -11,16 +11,6 @@
       "background": "https://image.tmdb.org/t/p/w500/xK27l5uwaVyZSlENWnmLlWwDQNS.jpg"
     },
     {
-      "id": "tt23148340",
-      "type": "series",
-      "name": "Crystal Lake",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt23148340.jpg",
-      "description": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
-      "releaseInfo": "2026",
-      "imdbRating": "8.7",
-      "background": "https://image.tmdb.org/t/p/w500/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg"
-    },
-    {
       "id": "tt11540908",
       "type": "series",
       "name": "Carrie",
@@ -29,6 +19,16 @@
       "releaseInfo": "2026",
       "imdbRating": "8.3",
       "background": "https://image.tmdb.org/t/p/w500/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg"
+    },
+    {
+      "id": "tt23148340",
+      "type": "series",
+      "name": "Crystal Lake",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt23148340.jpg",
+      "description": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
+      "releaseInfo": "2026",
+      "imdbRating": "8.6",
+      "background": "https://image.tmdb.org/t/p/w500/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg"
     },
     {
       "id": "tt35854736",
@@ -41,16 +41,6 @@
       "background": "https://image.tmdb.org/t/p/w500/u62d0BPqsdv2TUDifcMmoePbHPL.jpg"
     },
     {
-      "id": "tt37180305",
-      "type": "series",
-      "name": "Friends Sex and Games",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37180305.jpg",
-      "description": "A group of friends starts a daring game. Everyone throws their keys into a bowl\u2014whoever picks one spends the night with the owner of that key.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.8",
-      "background": "https://image.tmdb.org/t/p/w500/zijeb3WqqTIYJm3mmp1sb0uNGUj.jpg"
-    },
-    {
       "id": "tt42576855",
       "type": "series",
       "name": "Where the Mask Ends",
@@ -61,13 +51,23 @@
       "background": "https://image.tmdb.org/t/p/w500/cE9Og0lCCRCP2RArarzJXmu6xEB.jpg"
     },
     {
+      "id": "tt37180305",
+      "type": "series",
+      "name": "Friends Sex and Games",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37180305.jpg",
+      "description": "A group of friends starts a daring game. Everyone throws their keys into a bowl\u2014whoever picks one spends the night with the owner of that key.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.5",
+      "background": "https://image.tmdb.org/t/p/w500/zijeb3WqqTIYJm3mmp1sb0uNGUj.jpg"
+    },
+    {
       "id": "tt45246384",
       "type": "series",
       "name": "Love in Disguise",
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt45246384.jpg",
       "description": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
       "releaseInfo": "2026",
-      "imdbRating": "8.4",
+      "imdbRating": "8.6",
       "background": "https://image.tmdb.org/t/p/w500/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg"
     },
     {
@@ -97,7 +97,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt21097264.jpg",
       "description": "In the early 1900s, a fiercely independent woman drives a rift between two brothers, igniting a saga that unfolds across two generations.",
       "releaseInfo": "2026",
-      "imdbRating": "7.9",
+      "imdbRating": "8.0",
       "background": "https://image.tmdb.org/t/p/w500/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg"
     },
     {
@@ -111,6 +111,16 @@
       "background": "https://image.tmdb.org/t/p/w500/ecRrKGXfflZmDZBD4irdkybClT.jpg"
     },
     {
+      "id": "tt39201866",
+      "type": "series",
+      "name": "100 Days of Deception",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39201866.jpg",
+      "description": "Hoping for freedom, Gyeongseong's top pickpocket infiltrates the Japanese colonial government to steal secrets \u2014 only to fall for her target's son.",
+      "releaseInfo": "2026",
+      "imdbRating": "9.4",
+      "background": "https://image.tmdb.org/t/p/w500/bZHEU42QynnMrHUWK1Hhvj2cdPA.jpg"
+    },
+    {
       "id": "tt36064406",
       "type": "series",
       "name": "Coven Academy",
@@ -121,6 +131,16 @@
       "background": "https://image.tmdb.org/t/p/w500/f4R4YGeMQrXEu6jm3oAbSPeGC3M.jpg"
     },
     {
+      "id": "tt21952924",
+      "type": "series",
+      "name": "Phony",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt21952924.jpg",
+      "description": "After waking up from a freak car accident, Sonny discovers that his mother has been replaced by an impostor.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.5",
+      "background": "https://image.tmdb.org/t/p/w500/iCyQc8cSSHkxUHbkvzbC77owALt.jpg"
+    },
+    {
       "id": "tt38937897",
       "type": "series",
       "name": "Merry Berry Love",
@@ -129,26 +149,6 @@
       "releaseInfo": "2026",
       "imdbRating": "9.8",
       "background": "https://image.tmdb.org/t/p/w500/av7wQdYaicBCCUFQ6jRlm9ylZx4.jpg"
-    },
-    {
-      "id": "tt21952924",
-      "type": "series",
-      "name": "Phony",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt21952924.jpg",
-      "description": "After waking up from a freak car accident, Sonny discovers that his mother has been replaced by an impostor.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.2",
-      "background": "https://image.tmdb.org/t/p/w500/iCyQc8cSSHkxUHbkvzbC77owALt.jpg"
-    },
-    {
-      "id": "tt39201866",
-      "type": "series",
-      "name": "100 Days of Deception",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39201866.jpg",
-      "description": "Hoping for freedom, Gyeongseong's top pickpocket infiltrates the Japanese colonial government to steal secrets \u2014 only to fall for her target's son.",
-      "releaseInfo": "2026",
-      "imdbRating": "9.3",
-      "background": "https://image.tmdb.org/t/p/w500/bZHEU42QynnMrHUWK1Hhvj2cdPA.jpg"
     },
     {
       "id": "tt33406999",
@@ -171,16 +171,6 @@
       "background": "https://image.tmdb.org/t/p/w500/3tjZspkqquE24iK1rc0nvnJwdEZ.jpg"
     },
     {
-      "id": "tt44757191",
-      "type": "series",
-      "name": "The Seven Knights of the Marronnier Kingdom",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44757191.jpg",
-      "description": "At the heart of a continent of eight kingdoms lies the Marronnier Kingdom. Its general, Baribara, has seven sons, each with a unique gift and serving as a knight commander. Bound by a single noble cause of heroically rescuing a princess someday, the brothers set out as goodwill ambassadors to the seven neighboring kingdoms. What encounters, trials, and destinies await them in these unknown lands?",
-      "releaseInfo": "2026",
-      "imdbRating": "8.0",
-      "background": "https://image.tmdb.org/t/p/w500/rYB2YdEaZKL08Bi91uZfZnCq8vv.jpg"
-    },
-    {
       "id": "tt35673115",
       "type": "series",
       "name": "Hollywood Arts",
@@ -189,6 +179,16 @@
       "releaseInfo": "2026",
       "imdbRating": "7.7",
       "background": "https://image.tmdb.org/t/p/w500/xsL1ig6Tyi0j9AZPt23yZprslGS.jpg"
+    },
+    {
+      "id": "tt44757191",
+      "type": "series",
+      "name": "The Seven Knights of the Marronnier Kingdom",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44757191.jpg",
+      "description": "At the heart of a continent of eight kingdoms lies the Marronnier Kingdom. Its general, Baribara, has seven sons, each with a unique gift and serving as a knight commander. Bound by a single noble cause of heroically rescuing a princess someday, the brothers set out as goodwill ambassadors to the seven neighboring kingdoms. What encounters, trials, and destinies await them in these unknown lands?",
+      "releaseInfo": "2026",
+      "imdbRating": "8.0",
+      "background": "https://image.tmdb.org/t/p/w500/rYB2YdEaZKL08Bi91uZfZnCq8vv.jpg"
     },
     {
       "id": "tt38337376",
@@ -207,28 +207,8 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt41538904.jpg",
       "description": "The Straw Hats hit the high seas in a two-part LEGO special! Join Luffy, Nami, Usopp and the crew on their epic journey, fully reimagined brick by brick.",
       "releaseInfo": "2026",
-      "imdbRating": "7.8",
+      "imdbRating": "7.9",
       "background": "https://image.tmdb.org/t/p/w500/hTUHZ337JzqPvRXBQ3lu0GBkOvz.jpg"
-    },
-    {
-      "id": "tt35051210",
-      "type": "series",
-      "name": "TYSON",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35051210.jpg",
-      "description": "Explore the explosive life of Mike Tyson \u2014 one of the most feared and fascinating figures in sports history.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.5",
-      "background": "https://image.tmdb.org/t/p/w500/mdtpJEWW1j5Ns7bIcbw1UeIdvhp.jpg"
-    },
-    {
-      "id": "tt37819415",
-      "type": "series",
-      "name": "Irreplaceable",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37819415.jpg",
-      "description": "After witnessing her mother's suicide following a divorce, Xu Chi defies her tragic fate by rising from an ordinary graduate to a sharp-witted top consultant. Drawn into the covert revenge scheme of seasoned partner Ye Xinzhi, who mentors her while navigating their growing mutual attraction, the duo confronts a crossroads when professional upheavals collide with their evolving bond.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.4",
-      "background": "https://image.tmdb.org/t/p/w500/uvdFDRZUUZarJirBQAjYk2yIkMi.jpg"
     },
     {
       "id": "tt46658083",
@@ -237,8 +217,18 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt46658083.jpg",
       "description": "In this modern reimagining of the infamous study, 30 people enter a real prison for two weeks and shifting power dynamics expose what they're capable of.",
       "releaseInfo": "2026",
-      "imdbRating": "7.5",
+      "imdbRating": "7.1",
       "background": "https://image.tmdb.org/t/p/w500/heoESrHAdmPeYECs2B7R8RIqLyN.jpg"
+    },
+    {
+      "id": "tt49692512",
+      "type": "series",
+      "name": "Final Table",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt49692512.jpg",
+      "description": "The Table: K-Chef 2026 brings together Korea's top chefs to compete for the title of the country's best chef. Mysterious world-renowned chef Chris K., also known as Kang Han, Song-yi, who is fighting to save her restaurant, perfectionist star chef Woo-jin, and chefs with stories of their own face off in a fierce culinary battle. More than a competition, they find comfort in food and one another.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.7",
+      "background": "https://image.tmdb.org/t/p/w500/uaMjtALuvZC7dGkYllGKKWEWW1J.jpg"
     },
     {
       "id": "tt36743307",
@@ -251,14 +241,34 @@
       "background": "https://image.tmdb.org/t/p/w500/3JpnP8fYVb9B9FuvdGT4ZkRRYZJ.jpg"
     },
     {
+      "id": "tt37819415",
+      "type": "series",
+      "name": "Irreplaceable",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37819415.jpg",
+      "description": "After witnessing her mother's suicide following a divorce, Xu Chi defies her tragic fate by rising from an ordinary graduate to a sharp-witted top consultant. Drawn into the covert revenge scheme of seasoned partner Ye Xinzhi, who mentors her while navigating their growing mutual attraction, the duo confronts a crossroads when professional upheavals collide with their evolving bond.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.4",
+      "background": "https://image.tmdb.org/t/p/w500/uvdFDRZUUZarJirBQAjYk2yIkMi.jpg"
+    },
+    {
       "id": "tt31841438",
       "type": "series",
       "name": "I Would Rather Die",
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31841438.jpg",
       "description": "One cold night, misfit Archie gets bitten by a zombie and after briefly considering ending his life, he decides he's going to figure out what the hell is happening to his body. So, with the help of his only friend and his lifelong crush, Archie sets out to find a cure before he turns into a full-blown monster and kills everyone.",
       "releaseInfo": "2026",
-      "imdbRating": "8.2",
+      "imdbRating": "8.3",
       "background": "https://image.tmdb.org/t/p/w500/1HehlJEDVfHf9nt36Ygq8apTWQD.jpg"
+    },
+    {
+      "id": "tt35051210",
+      "type": "series",
+      "name": "TYSON",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35051210.jpg",
+      "description": "Explore the explosive life of Mike Tyson \u2014 one of the most feared and fascinating figures in sports history.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.5",
+      "background": "https://image.tmdb.org/t/p/w500/mdtpJEWW1j5Ns7bIcbw1UeIdvhp.jpg"
     },
     {
       "id": "tt46683025",
@@ -271,14 +281,14 @@
       "background": "https://image.tmdb.org/t/p/w500/aSD3YkLuTBnoYgyTCXtZRAxezNP.jpg"
     },
     {
-      "id": "tt38674953",
+      "id": "tt48313964",
       "type": "series",
-      "name": "#Love",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38674953.jpg",
-      "description": "The pragmatic creator of a dating app and her adventurous competitor test their theories about love in a 60-day challenge to find their ideal partner.",
+      "name": "The Flores Massacre",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt48313964.jpg",
+      "description": "The story of Mat\u00edas Bagnato, the sole survivor of the Flores Massacre, one of the most shocking criminal cases in Argentine history.",
       "releaseInfo": "2026",
-      "imdbRating": "8.7",
-      "background": "https://image.tmdb.org/t/p/w500/cyJKP6Fsg8ds4O4g1Q1SCOKJQdn.jpg"
+      "imdbRating": "7.0",
+      "background": "https://image.tmdb.org/t/p/w500/6LZBleoBdvT02XHAaHKzPJIEVx9.jpg"
     },
     {
       "id": "tt48356732",
@@ -291,14 +301,14 @@
       "background": "https://image.tmdb.org/t/p/w500/oW8Bz7jYpJ6Z7IktvXMym9hdgci.jpg"
     },
     {
-      "id": "tt48313964",
+      "id": "tt38674953",
       "type": "series",
-      "name": "The Flores Massacre",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt48313964.jpg",
-      "description": "The story of Mat\u00edas Bagnato, the sole survivor of the Flores Massacre, one of the most shocking criminal cases in Argentine history.",
+      "name": "#Love",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38674953.jpg",
+      "description": "The pragmatic creator of a dating app and her adventurous competitor test their theories about love in a 60-day challenge to find their ideal partner.",
       "releaseInfo": "2026",
-      "imdbRating": "7.0",
-      "background": "https://image.tmdb.org/t/p/w500/6LZBleoBdvT02XHAaHKzPJIEVx9.jpg"
+      "imdbRating": "8.7",
+      "background": "https://image.tmdb.org/t/p/w500/cyJKP6Fsg8ds4O4g1Q1SCOKJQdn.jpg"
     },
     {
       "id": "tt38234547",
@@ -311,26 +321,6 @@
       "background": "https://image.tmdb.org/t/p/w500/j4vVFsUJMeCNewBipXsxshrvxS3.jpg"
     },
     {
-      "id": "tt43638526",
-      "type": "series",
-      "name": "The Good Spirit: Behind the Doors of the Opus Dei",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt43638526.jpg",
-      "description": "Fourteen men of all ages from eleven different countries recount their personal experiences within Opus Dei. Many of them held leadership positions while others were called to support the institution from the highest levels of their professional careers to expand Opus Dei. Some were sent as teenagers to countries from which they never returned.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.5",
-      "background": "https://image.tmdb.org/t/p/w500/5Ntpab9lfKzYLI7mTJEDS9IAPo9.jpg"
-    },
-    {
-      "id": "tt45124639",
-      "type": "series",
-      "name": "Chilean Mine Rescue: Race Against Time",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt45124639.jpg",
-      "description": "Following a mining accident in northern Chile, 33 miners are trapped deep underground. As the search for them begins, the men are fighting for their lives under extreme conditions.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.2",
-      "background": "https://image.tmdb.org/t/p/w500/b0AQ9aCyRtiTEKhl1au78kksSgN.jpg"
-    },
-    {
       "id": "tt45584297",
       "type": "series",
       "name": "Africa Earth's Wild Home",
@@ -339,6 +329,16 @@
       "releaseInfo": "2026",
       "imdbRating": "9.0",
       "background": "https://image.tmdb.org/t/p/w500/wik5FpIY4XvVR29sZGnqseLGKN8.jpg"
+    },
+    {
+      "id": "tt43706317",
+      "type": "series",
+      "name": "Unmasking a Monster: Aileen Wuornos",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt43706317.jpg",
+      "description": "A three-part docuseries examining the life and crimes of notorious American serial killer Aileen Wuornos, who shot and killed seven male clients while working as a prostitute in Florida in 1989 and 1990. She was arrested in 1991 and spent around 10 years on death row before being executed in 2002.",
+      "releaseInfo": "2026",
+      "imdbRating": "9.5",
+      "background": "https://image.tmdb.org/t/p/w500/fkl2huQPv3lc9vE82wAA5uhbBoD.jpg"
     },
     {
       "id": "tt43702035",
@@ -351,14 +351,14 @@
       "background": "https://image.tmdb.org/t/p/w500/g4XB3hmoPC75AtjsRtFhRdbDxhe.jpg"
     },
     {
-      "id": "tt43706317",
+      "id": "tt46066662",
       "type": "series",
-      "name": "Unmasking a Monster: Aileen Wuornos",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt43706317.jpg",
-      "description": "A three-part docuseries examining the life and crimes of notorious American serial killer Aileen Wuornos, who shot and killed seven male clients while working as a prostitute in Florida in 1989 and 1990. She was arrested in 1991 and spent around 10 years on death row before being executed in 2002.",
+      "name": "The Serial Killer Connection",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt46066662.jpg",
+      "description": "The series investigates serial killer Richard \u201cMarc\u201d Evonitz, who kidnapped, assaulted, and murdered multiple young girls (including Sofia Marlene Silva, Kristin Michelle Lisk, and Kathryn Nicole Lisk",
       "releaseInfo": "2026",
-      "imdbRating": "9.5",
-      "background": "https://image.tmdb.org/t/p/w500/fkl2huQPv3lc9vE82wAA5uhbBoD.jpg"
+      "imdbRating": "8.0",
+      "background": "https://image.tmdb.org/t/p/w500/2QVTk55dw9tMUHDlG4027cOTNOv.jpg"
     },
     {
       "id": "tt20737440",
@@ -381,16 +381,6 @@
       "background": "https://image.tmdb.org/t/p/w500/aYQDNPmBifsiNdLFrvWLT19lb6w.jpg"
     },
     {
-      "id": "tt46066662",
-      "type": "series",
-      "name": "The Serial Killer Connection",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt46066662.jpg",
-      "description": "The series investigates serial killer Richard \u201cMarc\u201d Evonitz, who kidnapped, assaulted, and murdered multiple young girls (including Sofia Marlene Silva, Kristin Michelle Lisk, and Kathryn Nicole Lisk",
-      "releaseInfo": "2026",
-      "imdbRating": "8.0",
-      "background": "https://image.tmdb.org/t/p/w500/2QVTk55dw9tMUHDlG4027cOTNOv.jpg"
-    },
-    {
       "id": "tt39395275",
       "type": "series",
       "name": "Dragon Ball Super: Beerus",
@@ -399,6 +389,16 @@
       "releaseInfo": "2026",
       "imdbRating": "9.7",
       "background": "https://image.tmdb.org/t/p/w500/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg"
+    },
+    {
+      "id": "tt37972251",
+      "type": "series",
+      "name": "WAR",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37972251.jpg",
+      "description": "An anthology series set in the elite world of London law following two rival firms, Cathcarts and Taylor & Byrne, as they face off in a different headline-making legal battle each season.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.4",
+      "background": "https://image.tmdb.org/t/p/w500/AtCR5LMuvwepTi1kipKq878Rbuq.jpg"
     }
   ],
   "cacheMaxAge": 3600

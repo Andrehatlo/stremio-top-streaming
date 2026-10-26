@@ -31,16 +31,6 @@
       "background": "https://image.tmdb.org/t/p/w500/iOb2fjXLbpJgyQXe46n1WtGCnaa.jpg"
     },
     {
-      "id": "tt22084616",
-      "type": "movie",
-      "name": "Spider-Man: Brand New Day",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt22084616.jpg",
-      "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him\u2014and the pressure of seeing his old friends move on without him\u2014sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.5",
-      "background": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg"
-    },
-    {
       "id": "tt29623480",
       "type": "movie",
       "name": "The Wild Robot",
@@ -181,16 +171,6 @@
       "background": "https://image.tmdb.org/t/p/w500/hwRdDFIhaEmpRgoki805YvyyjZf.jpg"
     },
     {
-      "id": "tt32357218",
-      "type": "movie",
-      "name": "Shelter",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32357218.jpg",
-      "description": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.7",
-      "background": "https://image.tmdb.org/t/p/w500/cv7DeQQ7TOozPoTCBdNJIvWKhU1.jpg"
-    },
-    {
       "id": "tt14905854",
       "type": "movie",
       "name": "Hamnet",
@@ -199,6 +179,16 @@
       "releaseInfo": "2025",
       "imdbRating": "7.7",
       "background": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg"
+    },
+    {
+      "id": "tt32357218",
+      "type": "movie",
+      "name": "Shelter",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32357218.jpg",
+      "description": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.7",
+      "background": "https://image.tmdb.org/t/p/w500/cv7DeQQ7TOozPoTCBdNJIvWKhU1.jpg"
     },
     {
       "id": "tt13654226",
@@ -381,6 +371,16 @@
       "background": "https://image.tmdb.org/t/p/w500/1Q3GlCXGYWELifxANYZ5OVMRVZl.jpg"
     },
     {
+      "id": "tt20969586",
+      "type": "movie",
+      "name": "Thunderbolts*",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt20969586.jpg",
+      "description": "After finding themselves ensnared in a death trap, seven disillusioned castoffs must embark on a dangerous mission that will force them to confront the darkest corners of their pasts.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.3",
+      "background": "https://image.tmdb.org/t/p/w500/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg"
+    },
+    {
       "id": "tt12300742",
       "type": "movie",
       "name": "Bugonia",
@@ -391,14 +391,14 @@
       "background": "https://image.tmdb.org/t/p/w500/rSdOua3wKMEaFWDcKAYWRjXQWOt.jpg"
     },
     {
-      "id": "tt20969586",
+      "id": "tt19864802",
       "type": "movie",
-      "name": "Thunderbolts*",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt20969586.jpg",
-      "description": "After finding themselves ensnared in a death trap, seven disillusioned castoffs must embark on a dangerous mission that will force them to confront the darkest corners of their pasts.",
-      "releaseInfo": "2025",
+      "name": "Land of Bad",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt19864802.jpg",
+      "description": "When a Delta Force special ops mission goes terribly wrong, Air Force drone pilot Reaper has 48 hours to remedy what has devolved into a wild rescue operation. With no weapons and no communication other than the drone above, the ground mission suddenly becomes a full-scale battle when the team is discovered by the enemy.",
+      "releaseInfo": "2024",
       "imdbRating": "7.3",
-      "background": "https://image.tmdb.org/t/p/w500/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg"
+      "background": "https://image.tmdb.org/t/p/w500/h3jYanWMEJq6JJsCopy1h7cT2Hs.jpg"
     }
   ],
   "cacheMaxAge": 3600
