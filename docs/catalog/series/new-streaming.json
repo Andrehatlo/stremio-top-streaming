@@ -7,8 +7,18 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt23112594.jpg",
       "description": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
       "releaseInfo": "2026",
-      "imdbRating": "8.8",
+      "imdbRating": "8.7",
       "background": "https://image.tmdb.org/t/p/w500/xK27l5uwaVyZSlENWnmLlWwDQNS.jpg"
+    },
+    {
+      "id": "tt23148340",
+      "type": "series",
+      "name": "Crystal Lake",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt23148340.jpg",
+      "description": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
+      "releaseInfo": "2026",
+      "imdbRating": "8.7",
+      "background": "https://image.tmdb.org/t/p/w500/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg"
     },
     {
       "id": "tt11540908",
@@ -21,16 +31,6 @@
       "background": "https://image.tmdb.org/t/p/w500/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg"
     },
     {
-      "id": "tt23148340",
-      "type": "series",
-      "name": "Crystal Lake",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt23148340.jpg",
-      "description": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
-      "releaseInfo": "2026",
-      "imdbRating": "8.6",
-      "background": "https://image.tmdb.org/t/p/w500/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg"
-    },
-    {
       "id": "tt35854736",
       "type": "series",
       "name": "Avatar: Seven Havens",
@@ -39,16 +39,6 @@
       "releaseInfo": "2026",
       "imdbRating": "9.1",
       "background": "https://image.tmdb.org/t/p/w500/u62d0BPqsdv2TUDifcMmoePbHPL.jpg"
-    },
-    {
-      "id": "tt42576855",
-      "type": "series",
-      "name": "Where the Mask Ends",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt42576855.jpg",
-      "description": "An ambitious street urchin seizes the chance to impersonate a noblewoman and becomes a warlord's bride, but when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.2",
-      "background": "https://image.tmdb.org/t/p/w500/cE9Og0lCCRCP2RArarzJXmu6xEB.jpg"
     },
     {
       "id": "tt37180305",
@@ -61,13 +51,23 @@
       "background": "https://image.tmdb.org/t/p/w500/zijeb3WqqTIYJm3mmp1sb0uNGUj.jpg"
     },
     {
+      "id": "tt42576855",
+      "type": "series",
+      "name": "Where the Mask Ends",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt42576855.jpg",
+      "description": "An ambitious street urchin seizes the chance to impersonate a noblewoman and becomes a warlord's bride, but when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.2",
+      "background": "https://image.tmdb.org/t/p/w500/cE9Og0lCCRCP2RArarzJXmu6xEB.jpg"
+    },
+    {
       "id": "tt45246384",
       "type": "series",
       "name": "Love in Disguise",
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt45246384.jpg",
       "description": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
       "releaseInfo": "2026",
-      "imdbRating": "8.6",
+      "imdbRating": "8.8",
       "background": "https://image.tmdb.org/t/p/w500/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg"
     },
     {
@@ -87,7 +87,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39328047.jpg",
       "description": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives \u2014 taking on seemingly impossible cases amid fierce opposition.",
       "releaseInfo": "2026",
-      "imdbRating": "9.5",
+      "imdbRating": "9.4",
       "background": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg"
     },
     {
@@ -107,7 +107,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37737331.jpg",
       "description": "A corporate heir with an artificial heart meets a woman who's literally electric. They strike a deal that makes his heart beat \u2014 in more ways than one.",
       "releaseInfo": "2026",
-      "imdbRating": "8.9",
+      "imdbRating": "8.8",
       "background": "https://image.tmdb.org/t/p/w500/ecRrKGXfflZmDZBD4irdkybClT.jpg"
     },
     {
@@ -131,14 +131,14 @@
       "background": "https://image.tmdb.org/t/p/w500/f4R4YGeMQrXEu6jm3oAbSPeGC3M.jpg"
     },
     {
-      "id": "tt21952924",
+      "id": "tt49692512",
       "type": "series",
-      "name": "Phony",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt21952924.jpg",
-      "description": "After waking up from a freak car accident, Sonny discovers that his mother has been replaced by an impostor.",
+      "name": "Final Table",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt49692512.jpg",
+      "description": "The Table: K-Chef 2026 brings together Korea's top chefs to compete for the title of the country's best chef. Mysterious world-renowned chef Chris K., also known as Kang Han, Song-yi, who is fighting to save her restaurant, perfectionist star chef Woo-jin, and chefs with stories of their own face off in a fierce culinary battle. More than a competition, they find comfort in food and one another.",
       "releaseInfo": "2026",
-      "imdbRating": "7.5",
-      "background": "https://image.tmdb.org/t/p/w500/iCyQc8cSSHkxUHbkvzbC77owALt.jpg"
+      "imdbRating": "8.2",
+      "background": "https://image.tmdb.org/t/p/w500/uaMjtALuvZC7dGkYllGKKWEWW1J.jpg"
     },
     {
       "id": "tt38937897",
@@ -149,6 +149,16 @@
       "releaseInfo": "2026",
       "imdbRating": "9.8",
       "background": "https://image.tmdb.org/t/p/w500/av7wQdYaicBCCUFQ6jRlm9ylZx4.jpg"
+    },
+    {
+      "id": "tt21952924",
+      "type": "series",
+      "name": "Phony",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt21952924.jpg",
+      "description": "After waking up from a freak car accident, Sonny discovers that his mother has been replaced by an impostor.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.4",
+      "background": "https://image.tmdb.org/t/p/w500/iCyQc8cSSHkxUHbkvzbC77owALt.jpg"
     },
     {
       "id": "tt33406999",
@@ -177,18 +187,8 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35673115.jpg",
       "description": "Class is in session at Hollywood Arts! Self-proclaimed icon Trina Vega returns to steer gifted teens toward stardom, status and hilarious havoc.",
       "releaseInfo": "2026",
-      "imdbRating": "7.7",
+      "imdbRating": "7.2",
       "background": "https://image.tmdb.org/t/p/w500/xsL1ig6Tyi0j9AZPt23yZprslGS.jpg"
-    },
-    {
-      "id": "tt44757191",
-      "type": "series",
-      "name": "The Seven Knights of the Marronnier Kingdom",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44757191.jpg",
-      "description": "At the heart of a continent of eight kingdoms lies the Marronnier Kingdom. Its general, Baribara, has seven sons, each with a unique gift and serving as a knight commander. Bound by a single noble cause of heroically rescuing a princess someday, the brothers set out as goodwill ambassadors to the seven neighboring kingdoms. What encounters, trials, and destinies await them in these unknown lands?",
-      "releaseInfo": "2026",
-      "imdbRating": "8.0",
-      "background": "https://image.tmdb.org/t/p/w500/rYB2YdEaZKL08Bi91uZfZnCq8vv.jpg"
     },
     {
       "id": "tt38337376",
@@ -201,6 +201,26 @@
       "background": "https://image.tmdb.org/t/p/w500/4zNytZ6R4awYY9vFBNdENkT4hPC.jpg"
     },
     {
+      "id": "tt31841438",
+      "type": "series",
+      "name": "I Would Rather Die",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31841438.jpg",
+      "description": "One cold night, misfit Archie gets bitten by a zombie and after briefly considering ending his life, he decides he's going to figure out what the hell is happening to his body. So, with the help of his only friend and his lifelong crush, Archie sets out to find a cure before he turns into a full-blown monster and kills everyone.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.3",
+      "background": "https://image.tmdb.org/t/p/w500/1HehlJEDVfHf9nt36Ygq8apTWQD.jpg"
+    },
+    {
+      "id": "tt44757191",
+      "type": "series",
+      "name": "The Seven Knights of the Marronnier Kingdom",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44757191.jpg",
+      "description": "At the heart of a continent of eight kingdoms lies the Marronnier Kingdom. Its general, Baribara, has seven sons, each with a unique gift and serving as a knight commander. Bound by a single noble cause of heroically rescuing a princess someday, the brothers set out as goodwill ambassadors to the seven neighboring kingdoms. What encounters, trials, and destinies await them in these unknown lands?",
+      "releaseInfo": "2026",
+      "imdbRating": "8.0",
+      "background": "https://image.tmdb.org/t/p/w500/rYB2YdEaZKL08Bi91uZfZnCq8vv.jpg"
+    },
+    {
       "id": "tt41538904",
       "type": "series",
       "name": "LEGO ONE PIECE",
@@ -211,6 +231,16 @@
       "background": "https://image.tmdb.org/t/p/w500/hTUHZ337JzqPvRXBQ3lu0GBkOvz.jpg"
     },
     {
+      "id": "tt35051210",
+      "type": "series",
+      "name": "TYSON",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35051210.jpg",
+      "description": "Explore the explosive life of Mike Tyson \u2014 one of the most feared and fascinating figures in sports history.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.6",
+      "background": "https://image.tmdb.org/t/p/w500/mdtpJEWW1j5Ns7bIcbw1UeIdvhp.jpg"
+    },
+    {
       "id": "tt46658083",
       "type": "series",
       "name": "The New Stanford Prison Experiment",
@@ -219,16 +249,6 @@
       "releaseInfo": "2026",
       "imdbRating": "7.1",
       "background": "https://image.tmdb.org/t/p/w500/heoESrHAdmPeYECs2B7R8RIqLyN.jpg"
-    },
-    {
-      "id": "tt49692512",
-      "type": "series",
-      "name": "Final Table",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt49692512.jpg",
-      "description": "The Table: K-Chef 2026 brings together Korea's top chefs to compete for the title of the country's best chef. Mysterious world-renowned chef Chris K., also known as Kang Han, Song-yi, who is fighting to save her restaurant, perfectionist star chef Woo-jin, and chefs with stories of their own face off in a fierce culinary battle. More than a competition, they find comfort in food and one another.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.7",
-      "background": "https://image.tmdb.org/t/p/w500/uaMjtALuvZC7dGkYllGKKWEWW1J.jpg"
     },
     {
       "id": "tt36743307",
@@ -251,24 +271,14 @@
       "background": "https://image.tmdb.org/t/p/w500/uvdFDRZUUZarJirBQAjYk2yIkMi.jpg"
     },
     {
-      "id": "tt31841438",
+      "id": "tt48313964",
       "type": "series",
-      "name": "I Would Rather Die",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31841438.jpg",
-      "description": "One cold night, misfit Archie gets bitten by a zombie and after briefly considering ending his life, he decides he's going to figure out what the hell is happening to his body. So, with the help of his only friend and his lifelong crush, Archie sets out to find a cure before he turns into a full-blown monster and kills everyone.",
+      "name": "The Flores Massacre",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt48313964.jpg",
+      "description": "The story of Mat\u00edas Bagnato, the sole survivor of the Flores Massacre, one of the most shocking criminal cases in Argentine history.",
       "releaseInfo": "2026",
-      "imdbRating": "8.3",
-      "background": "https://image.tmdb.org/t/p/w500/1HehlJEDVfHf9nt36Ygq8apTWQD.jpg"
-    },
-    {
-      "id": "tt35051210",
-      "type": "series",
-      "name": "TYSON",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35051210.jpg",
-      "description": "Explore the explosive life of Mike Tyson \u2014 one of the most feared and fascinating figures in sports history.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.5",
-      "background": "https://image.tmdb.org/t/p/w500/mdtpJEWW1j5Ns7bIcbw1UeIdvhp.jpg"
+      "imdbRating": "7.0",
+      "background": "https://image.tmdb.org/t/p/w500/6LZBleoBdvT02XHAaHKzPJIEVx9.jpg"
     },
     {
       "id": "tt46683025",
@@ -279,16 +289,6 @@
       "releaseInfo": "2026",
       "imdbRating": "7.2",
       "background": "https://image.tmdb.org/t/p/w500/aSD3YkLuTBnoYgyTCXtZRAxezNP.jpg"
-    },
-    {
-      "id": "tt48313964",
-      "type": "series",
-      "name": "The Flores Massacre",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt48313964.jpg",
-      "description": "The story of Mat\u00edas Bagnato, the sole survivor of the Flores Massacre, one of the most shocking criminal cases in Argentine history.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.0",
-      "background": "https://image.tmdb.org/t/p/w500/6LZBleoBdvT02XHAaHKzPJIEVx9.jpg"
     },
     {
       "id": "tt48356732",
@@ -387,7 +387,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39395275.jpg",
       "description": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
       "releaseInfo": "2026",
-      "imdbRating": "9.7",
+      "imdbRating": "9.6",
       "background": "https://image.tmdb.org/t/p/w500/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg"
     },
     {

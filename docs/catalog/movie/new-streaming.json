@@ -21,6 +21,16 @@
       "background": "https://image.tmdb.org/t/p/w500/5xmXVd7nCK3tAo34XkO58SxUCip.jpg"
     },
     {
+      "id": "tt31049299",
+      "type": "movie",
+      "name": "Animals",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31049299.jpg",
+      "description": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.0",
+      "background": "https://image.tmdb.org/t/p/w500/iISM36voS1E8gX9BM0DVK0kgi3E.jpg"
+    },
+    {
       "id": "tt6262770",
       "type": "movie",
       "name": "Tenzing",
@@ -39,6 +49,16 @@
       "releaseInfo": "2026",
       "imdbRating": "7.0",
       "background": "https://image.tmdb.org/t/p/w500/xVabS4lTi6IMscr2FOucxydE6ZD.jpg"
+    },
+    {
+      "id": "tt49317723",
+      "type": "movie",
+      "name": "Hot Wheels Let's Race: Attack of the T-Rex",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt49317723.jpg",
+      "description": "When a giant T-Rex threatens Hot Wheels City, it's up to Coop and his friends to race to the rescue and save the day.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.4",
+      "background": "https://image.tmdb.org/t/p/w500/iIc0OkYnf06kv5Zp0IYVwuvffgh.jpg"
     },
     {
       "id": "tt37027309",
@@ -71,6 +91,16 @@
       "background": "https://image.tmdb.org/t/p/w500/4IuQIUgqyLpbD7R7zmPp9A08rsQ.jpg"
     },
     {
+      "id": "tt39453404",
+      "type": "movie",
+      "name": "Schumacher \u201994 \u2013 The Birth of a Legend",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39453404.jpg",
+      "description": "Michael Schumacher's first World Championship win roars to life through personal interviews and archival footage of the legendary 1994 Formula 1 season.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.6",
+      "background": "https://image.tmdb.org/t/p/w500/em19DrMkLSinf04NEhiRxTnVupI.jpg"
+    },
+    {
       "id": "tt44822485",
       "type": "movie",
       "name": "Norm: The Tale of Norm Macdonald",
@@ -91,26 +121,6 @@
       "background": "https://image.tmdb.org/t/p/w500/y07DF84TR67NVAevJR6JMydIL5H.jpg"
     },
     {
-      "id": "tt49317723",
-      "type": "movie",
-      "name": "Hot Wheels Let's Race: Attack of the T-Rex",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt49317723.jpg",
-      "description": "When a giant T-Rex threatens Hot Wheels City, it's up to Coop and his friends to race to the rescue and save the day.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.9",
-      "background": "https://image.tmdb.org/t/p/w500/iIc0OkYnf06kv5Zp0IYVwuvffgh.jpg"
-    },
-    {
-      "id": "tt39453404",
-      "type": "movie",
-      "name": "Schumacher \u201994 \u2013 The Birth of a Legend",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39453404.jpg",
-      "description": "Michael Schumacher's first World Championship win roars to life through personal interviews and archival footage of the legendary 1994 Formula 1 season.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.6",
-      "background": "https://image.tmdb.org/t/p/w500/em19DrMkLSinf04NEhiRxTnVupI.jpg"
-    },
-    {
       "id": "tt46078866",
       "type": "movie",
       "name": "CMA Presents I Will Always Love You: A Celebration of Dolly Parton",
@@ -121,16 +131,6 @@
       "background": "https://image.tmdb.org/t/p/w500/tlNqQwhyta5j1oJDISCPFId15EX.jpg"
     },
     {
-      "id": "tt46062767",
-      "type": "movie",
-      "name": "Kate Berlant: Parmesan",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt46062767.jpg",
-      "description": "Seamlessly weaving through personal stories and stream-of-consciousness epiphanies, Kate Berlant offers up reflections on everything from the moon, to her destructive relationship to technology, to the evolving nature of sexuality.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.0",
-      "background": "https://image.tmdb.org/t/p/w500/t4dw7pBmcs0JkB8h4CLSix88EEM.jpg"
-    },
-    {
       "id": "tt46060457",
       "type": "movie",
       "name": "The Swan: Behind the Mirror",
@@ -139,6 +139,16 @@
       "releaseInfo": "2026",
       "imdbRating": "7.2",
       "background": "https://image.tmdb.org/t/p/w500/hCALD2uCetzUjj40k8TUMnsA397.jpg"
+    },
+    {
+      "id": "tt46062767",
+      "type": "movie",
+      "name": "Kate Berlant: Parmesan",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt46062767.jpg",
+      "description": "Seamlessly weaving through personal stories and stream-of-consciousness epiphanies, Kate Berlant offers up reflections on everything from the moon, to her destructive relationship to technology, to the evolving nature of sexuality.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.0",
+      "background": "https://image.tmdb.org/t/p/w500/t4dw7pBmcs0JkB8h4CLSix88EEM.jpg"
     },
     {
       "id": "tt46066368",

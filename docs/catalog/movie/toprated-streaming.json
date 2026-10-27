@@ -167,7 +167,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt17490712.jpg",
       "description": "The fan favorite champions\u2014now joined by Johnny Cage himself\u2014are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
       "releaseInfo": "2026",
-      "imdbRating": "7.8",
+      "imdbRating": "7.7",
       "background": "https://image.tmdb.org/t/p/w500/hwRdDFIhaEmpRgoki805YvyyjZf.jpg"
     },
     {
@@ -371,16 +371,6 @@
       "background": "https://image.tmdb.org/t/p/w500/1Q3GlCXGYWELifxANYZ5OVMRVZl.jpg"
     },
     {
-      "id": "tt20969586",
-      "type": "movie",
-      "name": "Thunderbolts*",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt20969586.jpg",
-      "description": "After finding themselves ensnared in a death trap, seven disillusioned castoffs must embark on a dangerous mission that will force them to confront the darkest corners of their pasts.",
-      "releaseInfo": "2025",
-      "imdbRating": "7.3",
-      "background": "https://image.tmdb.org/t/p/w500/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg"
-    },
-    {
       "id": "tt12300742",
       "type": "movie",
       "name": "Bugonia",
@@ -389,6 +379,16 @@
       "releaseInfo": "2025",
       "imdbRating": "7.3",
       "background": "https://image.tmdb.org/t/p/w500/rSdOua3wKMEaFWDcKAYWRjXQWOt.jpg"
+    },
+    {
+      "id": "tt20969586",
+      "type": "movie",
+      "name": "Thunderbolts*",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt20969586.jpg",
+      "description": "After finding themselves ensnared in a death trap, seven disillusioned castoffs must embark on a dangerous mission that will force them to confront the darkest corners of their pasts.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.3",
+      "background": "https://image.tmdb.org/t/p/w500/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg"
     },
     {
       "id": "tt19864802",
