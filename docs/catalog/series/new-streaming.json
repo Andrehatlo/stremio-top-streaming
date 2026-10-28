@@ -7,8 +7,8 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt23112594.jpg",
       "description": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
       "releaseInfo": "2026",
-      "imdbRating": "8.7",
-      "background": "https://image.tmdb.org/t/p/w500/xK27l5uwaVyZSlENWnmLlWwDQNS.jpg"
+      "imdbRating": "8.6",
+      "background": "https://image.tmdb.org/t/p/w500/ajbVvETMM7NMq4Gc5FauOoyeEnu.jpg"
     },
     {
       "id": "tt23148340",
@@ -41,14 +41,14 @@
       "background": "https://image.tmdb.org/t/p/w500/u62d0BPqsdv2TUDifcMmoePbHPL.jpg"
     },
     {
-      "id": "tt37180305",
+      "id": "tt45246384",
       "type": "series",
-      "name": "Friends Sex and Games",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37180305.jpg",
-      "description": "A group of friends starts a daring game. Everyone throws their keys into a bowl\u2014whoever picks one spends the night with the owner of that key.",
+      "name": "Love in Disguise",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt45246384.jpg",
+      "description": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
       "releaseInfo": "2026",
-      "imdbRating": "8.5",
-      "background": "https://image.tmdb.org/t/p/w500/zijeb3WqqTIYJm3mmp1sb0uNGUj.jpg"
+      "imdbRating": "9.0",
+      "background": "https://image.tmdb.org/t/p/w500/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg"
     },
     {
       "id": "tt42576855",
@@ -61,14 +61,24 @@
       "background": "https://image.tmdb.org/t/p/w500/cE9Og0lCCRCP2RArarzJXmu6xEB.jpg"
     },
     {
-      "id": "tt45246384",
+      "id": "tt37180305",
       "type": "series",
-      "name": "Love in Disguise",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt45246384.jpg",
-      "description": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
+      "name": "Friends Sex and Games",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37180305.jpg",
+      "description": "A group of friends starts a daring game. Everyone throws their keys into a bowl\u2014whoever picks one spends the night with the owner of that key.",
       "releaseInfo": "2026",
-      "imdbRating": "8.8",
-      "background": "https://image.tmdb.org/t/p/w500/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg"
+      "imdbRating": "8.5",
+      "background": "https://image.tmdb.org/t/p/w500/zijeb3WqqTIYJm3mmp1sb0uNGUj.jpg"
+    },
+    {
+      "id": "tt39328047",
+      "type": "series",
+      "name": "Doctor X: Mafia in White",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39328047.jpg",
+      "description": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives \u2014 taking on seemingly impossible cases amid fierce opposition.",
+      "releaseInfo": "2026",
+      "imdbRating": "9.3",
+      "background": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg"
     },
     {
       "id": "tt35934755",
@@ -79,16 +89,6 @@
       "releaseInfo": "2026",
       "imdbRating": "7.2",
       "background": "https://image.tmdb.org/t/p/w500/vgLqqhMUbljp585qPp1EFCyJtcz.jpg"
-    },
-    {
-      "id": "tt39328047",
-      "type": "series",
-      "name": "Doctor X: Mafia in White",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39328047.jpg",
-      "description": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives \u2014 taking on seemingly impossible cases amid fierce opposition.",
-      "releaseInfo": "2026",
-      "imdbRating": "9.4",
-      "background": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg"
     },
     {
       "id": "tt21097264",
@@ -107,7 +107,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37737331.jpg",
       "description": "A corporate heir with an artificial heart meets a woman who's literally electric. They strike a deal that makes his heart beat \u2014 in more ways than one.",
       "releaseInfo": "2026",
-      "imdbRating": "8.8",
+      "imdbRating": "8.9",
       "background": "https://image.tmdb.org/t/p/w500/ecRrKGXfflZmDZBD4irdkybClT.jpg"
     },
     {
@@ -121,6 +121,16 @@
       "background": "https://image.tmdb.org/t/p/w500/bZHEU42QynnMrHUWK1Hhvj2cdPA.jpg"
     },
     {
+      "id": "tt49692512",
+      "type": "series",
+      "name": "Final Table",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt49692512.jpg",
+      "description": "The Table: K-Chef 2026 brings together Korea's top chefs to compete for the title of the country's best chef. Mysterious world-renowned chef Chris K., also known as Kang Han, Song-yi, who is fighting to save her restaurant, perfectionist star chef Woo-jin, and chefs with stories of their own face off in a fierce culinary battle. More than a competition, they find comfort in food and one another.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.6",
+      "background": "https://image.tmdb.org/t/p/w500/uaMjtALuvZC7dGkYllGKKWEWW1J.jpg"
+    },
+    {
       "id": "tt36064406",
       "type": "series",
       "name": "Coven Academy",
@@ -131,26 +141,6 @@
       "background": "https://image.tmdb.org/t/p/w500/f4R4YGeMQrXEu6jm3oAbSPeGC3M.jpg"
     },
     {
-      "id": "tt49692512",
-      "type": "series",
-      "name": "Final Table",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt49692512.jpg",
-      "description": "The Table: K-Chef 2026 brings together Korea's top chefs to compete for the title of the country's best chef. Mysterious world-renowned chef Chris K., also known as Kang Han, Song-yi, who is fighting to save her restaurant, perfectionist star chef Woo-jin, and chefs with stories of their own face off in a fierce culinary battle. More than a competition, they find comfort in food and one another.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.2",
-      "background": "https://image.tmdb.org/t/p/w500/uaMjtALuvZC7dGkYllGKKWEWW1J.jpg"
-    },
-    {
-      "id": "tt38937897",
-      "type": "series",
-      "name": "Merry Berry Love",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38937897.jpg",
-      "description": "When star Korean spatial designer Lee Yubin loses everything, he heads off to a Japanese island. There, he meets Karin, a resilient strawberry farmer. Hailing from different worlds, their lives collide in a big misunderstanding. Buckle up for \"Merry Berry Love,\" a sweet and sour Korea-Japan rom-com.",
-      "releaseInfo": "2026",
-      "imdbRating": "9.8",
-      "background": "https://image.tmdb.org/t/p/w500/av7wQdYaicBCCUFQ6jRlm9ylZx4.jpg"
-    },
-    {
       "id": "tt21952924",
       "type": "series",
       "name": "Phony",
@@ -159,6 +149,26 @@
       "releaseInfo": "2026",
       "imdbRating": "7.4",
       "background": "https://image.tmdb.org/t/p/w500/iCyQc8cSSHkxUHbkvzbC77owALt.jpg"
+    },
+    {
+      "id": "tt38937897",
+      "type": "series",
+      "name": "Merry Berry Love",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38937897.jpg",
+      "description": "When star Korean spatial designer Lee Yubin loses everything, he heads off to a Japanese island. There, he meets Karin, a resilient strawberry farmer. Hailing from different worlds, their lives collide in a big misunderstanding. Buckle up for \"Merry Berry Love,\" a sweet and sour Korea-Japan rom-com.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.7",
+      "background": "https://image.tmdb.org/t/p/w500/av7wQdYaicBCCUFQ6jRlm9ylZx4.jpg"
+    },
+    {
+      "id": "tt42220724",
+      "type": "series",
+      "name": "Minimum Wage",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt42220724.jpg",
+      "description": "Teens struggle to run a local pizzeria while juggling school, a manic boss and minimum wage in this series based on the hit social media shorts.",
+      "releaseInfo": "2026",
+      "imdbRating": "9.5",
+      "background": "https://image.tmdb.org/t/p/w500/iTVhDUbzUFUJ18jrcYM4rw7qGk.jpg"
     },
     {
       "id": "tt33406999",
@@ -187,7 +197,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35673115.jpg",
       "description": "Class is in session at Hollywood Arts! Self-proclaimed icon Trina Vega returns to steer gifted teens toward stardom, status and hilarious havoc.",
       "releaseInfo": "2026",
-      "imdbRating": "7.2",
+      "imdbRating": "7.3",
       "background": "https://image.tmdb.org/t/p/w500/xsL1ig6Tyi0j9AZPt23yZprslGS.jpg"
     },
     {
@@ -201,16 +211,6 @@
       "background": "https://image.tmdb.org/t/p/w500/4zNytZ6R4awYY9vFBNdENkT4hPC.jpg"
     },
     {
-      "id": "tt31841438",
-      "type": "series",
-      "name": "I Would Rather Die",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31841438.jpg",
-      "description": "One cold night, misfit Archie gets bitten by a zombie and after briefly considering ending his life, he decides he's going to figure out what the hell is happening to his body. So, with the help of his only friend and his lifelong crush, Archie sets out to find a cure before he turns into a full-blown monster and kills everyone.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.3",
-      "background": "https://image.tmdb.org/t/p/w500/1HehlJEDVfHf9nt36Ygq8apTWQD.jpg"
-    },
-    {
       "id": "tt44757191",
       "type": "series",
       "name": "The Seven Knights of the Marronnier Kingdom",
@@ -219,6 +219,16 @@
       "releaseInfo": "2026",
       "imdbRating": "8.0",
       "background": "https://image.tmdb.org/t/p/w500/rYB2YdEaZKL08Bi91uZfZnCq8vv.jpg"
+    },
+    {
+      "id": "tt35051210",
+      "type": "series",
+      "name": "TYSON",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35051210.jpg",
+      "description": "Explore the explosive life of Mike Tyson \u2014 one of the most feared and fascinating figures in sports history.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.5",
+      "background": "https://image.tmdb.org/t/p/w500/mdtpJEWW1j5Ns7bIcbw1UeIdvhp.jpg"
     },
     {
       "id": "tt41538904",
@@ -231,14 +241,14 @@
       "background": "https://image.tmdb.org/t/p/w500/hTUHZ337JzqPvRXBQ3lu0GBkOvz.jpg"
     },
     {
-      "id": "tt35051210",
+      "id": "tt31841438",
       "type": "series",
-      "name": "TYSON",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35051210.jpg",
-      "description": "Explore the explosive life of Mike Tyson \u2014 one of the most feared and fascinating figures in sports history.",
+      "name": "I Would Rather Die",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31841438.jpg",
+      "description": "One cold night, misfit Archie gets bitten by a zombie and after briefly considering ending his life, he decides he's going to figure out what the hell is happening to his body. So, with the help of his only friend and his lifelong crush, Archie sets out to find a cure before he turns into a full-blown monster and kills everyone.",
       "releaseInfo": "2026",
-      "imdbRating": "8.6",
-      "background": "https://image.tmdb.org/t/p/w500/mdtpJEWW1j5Ns7bIcbw1UeIdvhp.jpg"
+      "imdbRating": "8.3",
+      "background": "https://image.tmdb.org/t/p/w500/1HehlJEDVfHf9nt36Ygq8apTWQD.jpg"
     },
     {
       "id": "tt46658083",
@@ -249,16 +259,6 @@
       "releaseInfo": "2026",
       "imdbRating": "7.1",
       "background": "https://image.tmdb.org/t/p/w500/heoESrHAdmPeYECs2B7R8RIqLyN.jpg"
-    },
-    {
-      "id": "tt36743307",
-      "type": "series",
-      "name": "Inside the Circle",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36743307.jpg",
-      "description": "Four lifelong friends are caught in a web of blackmail when a leaked video threatens to expose the secrets that could destroy their friendship.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.5",
-      "background": "https://image.tmdb.org/t/p/w500/3JpnP8fYVb9B9FuvdGT4ZkRRYZJ.jpg"
     },
     {
       "id": "tt37819415",
@@ -281,13 +281,23 @@
       "background": "https://image.tmdb.org/t/p/w500/6LZBleoBdvT02XHAaHKzPJIEVx9.jpg"
     },
     {
+      "id": "tt36743307",
+      "type": "series",
+      "name": "Inside the Circle",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36743307.jpg",
+      "description": "Four lifelong friends are caught in a web of blackmail when a leaked video threatens to expose the secrets that could destroy their friendship.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.5",
+      "background": "https://image.tmdb.org/t/p/w500/3JpnP8fYVb9B9FuvdGT4ZkRRYZJ.jpg"
+    },
+    {
       "id": "tt46683025",
       "type": "series",
       "name": "The Pet Cemetery Murders: A Ghost Story",
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt46683025.jpg",
       "description": "The re-opening of a mysterious 1985 cold case murder in Louisiana unearths a haunting history of bloodshed and long-buried trauma.",
       "releaseInfo": "2026",
-      "imdbRating": "7.2",
+      "imdbRating": "7.4",
       "background": "https://image.tmdb.org/t/p/w500/aSD3YkLuTBnoYgyTCXtZRAxezNP.jpg"
     },
     {
@@ -301,16 +311,6 @@
       "background": "https://image.tmdb.org/t/p/w500/oW8Bz7jYpJ6Z7IktvXMym9hdgci.jpg"
     },
     {
-      "id": "tt38674953",
-      "type": "series",
-      "name": "#Love",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38674953.jpg",
-      "description": "The pragmatic creator of a dating app and her adventurous competitor test their theories about love in a 60-day challenge to find their ideal partner.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.7",
-      "background": "https://image.tmdb.org/t/p/w500/cyJKP6Fsg8ds4O4g1Q1SCOKJQdn.jpg"
-    },
-    {
       "id": "tt38234547",
       "type": "series",
       "name": "The Arena",
@@ -319,6 +319,16 @@
       "releaseInfo": "2026",
       "imdbRating": "8.7",
       "background": "https://image.tmdb.org/t/p/w500/j4vVFsUJMeCNewBipXsxshrvxS3.jpg"
+    },
+    {
+      "id": "tt38674953",
+      "type": "series",
+      "name": "#Love",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38674953.jpg",
+      "description": "The pragmatic creator of a dating app and her adventurous competitor test their theories about love in a 60-day challenge to find their ideal partner.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.7",
+      "background": "https://image.tmdb.org/t/p/w500/cyJKP6Fsg8ds4O4g1Q1SCOKJQdn.jpg"
     },
     {
       "id": "tt45584297",
@@ -331,16 +341,6 @@
       "background": "https://image.tmdb.org/t/p/w500/wik5FpIY4XvVR29sZGnqseLGKN8.jpg"
     },
     {
-      "id": "tt43706317",
-      "type": "series",
-      "name": "Unmasking a Monster: Aileen Wuornos",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt43706317.jpg",
-      "description": "A three-part docuseries examining the life and crimes of notorious American serial killer Aileen Wuornos, who shot and killed seven male clients while working as a prostitute in Florida in 1989 and 1990. She was arrested in 1991 and spent around 10 years on death row before being executed in 2002.",
-      "releaseInfo": "2026",
-      "imdbRating": "9.5",
-      "background": "https://image.tmdb.org/t/p/w500/fkl2huQPv3lc9vE82wAA5uhbBoD.jpg"
-    },
-    {
       "id": "tt43702035",
       "type": "series",
       "name": "Mar\u00edlia Mendon\u00e7a: All the Feels",
@@ -349,6 +349,16 @@
       "releaseInfo": "2026",
       "imdbRating": "8.0",
       "background": "https://image.tmdb.org/t/p/w500/g4XB3hmoPC75AtjsRtFhRdbDxhe.jpg"
+    },
+    {
+      "id": "tt43706317",
+      "type": "series",
+      "name": "Unmasking a Monster: Aileen Wuornos",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt43706317.jpg",
+      "description": "A three-part docuseries examining the life and crimes of notorious American serial killer Aileen Wuornos, who shot and killed seven male clients while working as a prostitute in Florida in 1989 and 1990. She was arrested in 1991 and spent around 10 years on death row before being executed in 2002.",
+      "releaseInfo": "2026",
+      "imdbRating": "9.5",
+      "background": "https://image.tmdb.org/t/p/w500/fkl2huQPv3lc9vE82wAA5uhbBoD.jpg"
     },
     {
       "id": "tt46066662",
@@ -387,18 +397,8 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39395275.jpg",
       "description": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
       "releaseInfo": "2026",
-      "imdbRating": "9.6",
+      "imdbRating": "9.7",
       "background": "https://image.tmdb.org/t/p/w500/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg"
-    },
-    {
-      "id": "tt37972251",
-      "type": "series",
-      "name": "WAR",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37972251.jpg",
-      "description": "An anthology series set in the elite world of London law following two rival firms, Cathcarts and Taylor & Byrne, as they face off in a different headline-making legal battle each season.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.4",
-      "background": "https://image.tmdb.org/t/p/w500/AtCR5LMuvwepTi1kipKq878Rbuq.jpg"
     }
   ],
   "cacheMaxAge": 3600

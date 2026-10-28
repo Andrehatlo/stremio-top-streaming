@@ -1,6 +1,16 @@
 {
   "metas": [
     {
+      "id": "tt34809853",
+      "type": "series",
+      "name": "Teach You a Lesson",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt34809853.jpg",
+      "description": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
+      "releaseInfo": "2026",
+      "imdbRating": "9.4",
+      "background": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg"
+    },
+    {
       "id": "tt31938062",
       "type": "series",
       "name": "The Pitt",

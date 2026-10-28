@@ -1,6 +1,16 @@
 {
   "metas": [
     {
+      "id": "tt23112594",
+      "type": "series",
+      "name": "VisionQuest",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt23112594.jpg",
+      "description": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.6",
+      "background": "https://image.tmdb.org/t/p/w500/xK27l5uwaVyZSlENWnmLlWwDQNS.jpg"
+    },
+    {
       "id": "tt2531336",
       "type": "series",
       "name": "Lupin",
@@ -21,14 +31,14 @@
       "background": "https://image.tmdb.org/t/p/w500/2EewmxXe72ogD0EaWM8gqa0ccIw.jpg"
     },
     {
-      "id": "tt11743610",
+      "id": "tt23148340",
       "type": "series",
-      "name": "The Terminal List",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11743610.jpg",
-      "description": "Navy SEAL Commander James Reece turns to vengeance as he investigates the mysterious forces behind the murder of his entire platoon. Free from the military's command structure, Reece applies the lessons he's learned from nearly two decades of warfare to hunt down the people responsible.",
-      "releaseInfo": "2022",
-      "imdbRating": "8.0",
-      "background": "https://image.tmdb.org/t/p/w500/xyFAzP7RKK8cARCSalIZ9A9T0jV.jpg"
+      "name": "Crystal Lake",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt23148340.jpg",
+      "description": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
+      "releaseInfo": "2026",
+      "imdbRating": "8.7",
+      "background": "https://image.tmdb.org/t/p/w500/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg"
     },
     {
       "id": "tt12590266",
@@ -41,64 +51,14 @@
       "background": "https://image.tmdb.org/t/p/w500/v3JuB15WybKmxDeT1hWdK3j6eSJ.jpg"
     },
     {
-      "id": "tt31510819",
+      "id": "tt11743610",
       "type": "series",
-      "name": "MobLand",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31510819.jpg",
-      "description": "Two mob families clash in a war that threatens to topple empires and lives.",
-      "releaseInfo": "2025",
-      "imdbRating": "8.6",
-      "background": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg"
-    },
-    {
-      "id": "tt36849871",
-      "type": "series",
-      "name": "Marshals",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36849871.jpg",
-      "description": "With the Yellowstone Ranch behind him, Kayce Dutton joins an elite unit of U.S. Marshals, combining his skills as a cowboy and Navy SEAL to bring range justice to Montana, where he and his teammates must balance family, duty and the high psychological cost that comes with serving as the last line of defense in the region's war on violence.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.0",
-      "background": "https://image.tmdb.org/t/p/w500/zV1MRb6eqx6Uj3NSXquZFfz75pa.jpg"
-    },
-    {
-      "id": "tt23148340",
-      "type": "series",
-      "name": "Crystal Lake",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt23148340.jpg",
-      "description": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
-      "releaseInfo": "2026",
-      "imdbRating": "8.7",
-      "background": "https://image.tmdb.org/t/p/w500/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg"
-    },
-    {
-      "id": "tt23112594",
-      "type": "series",
-      "name": "VisionQuest",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt23112594.jpg",
-      "description": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.7",
-      "background": "https://image.tmdb.org/t/p/w500/xK27l5uwaVyZSlENWnmLlWwDQNS.jpg"
-    },
-    {
-      "id": "tt42576855",
-      "type": "series",
-      "name": "Where the Mask Ends",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt42576855.jpg",
-      "description": "An ambitious street urchin seizes the chance to impersonate a noblewoman and becomes a warlord's bride, but when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.2",
-      "background": "https://image.tmdb.org/t/p/w500/cE9Og0lCCRCP2RArarzJXmu6xEB.jpg"
-    },
-    {
-      "id": "tt16358384",
-      "type": "series",
-      "name": "Tulsa King",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt16358384.jpg",
-      "description": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
+      "name": "The Terminal List",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11743610.jpg",
+      "description": "Navy SEAL Commander James Reece turns to vengeance as he investigates the mysterious forces behind the murder of his entire platoon. Free from the military's command structure, Reece applies the lessons he's learned from nearly two decades of warfare to hunt down the people responsible.",
       "releaseInfo": "2022",
-      "imdbRating": "8.3",
-      "background": "https://image.tmdb.org/t/p/w500/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg"
+      "imdbRating": "8.0",
+      "background": "https://image.tmdb.org/t/p/w500/xyFAzP7RKK8cARCSalIZ9A9T0jV.jpg"
     },
     {
       "id": "tt11540908",
@@ -111,13 +71,83 @@
       "background": "https://image.tmdb.org/t/p/w500/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg"
     },
     {
+      "id": "tt42576855",
+      "type": "series",
+      "name": "Where the Mask Ends",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt42576855.jpg",
+      "description": "An ambitious street urchin seizes the chance to impersonate a noblewoman and becomes a warlord's bride, but when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.2",
+      "background": "https://image.tmdb.org/t/p/w500/cE9Og0lCCRCP2RArarzJXmu6xEB.jpg"
+    },
+    {
+      "id": "tt0388629",
+      "type": "series",
+      "name": "One Piece",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0388629.jpg",
+      "description": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+      "releaseInfo": "1999",
+      "imdbRating": "8.8",
+      "background": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg"
+    },
+    {
+      "id": "tt31510819",
+      "type": "series",
+      "name": "MobLand",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31510819.jpg",
+      "description": "Two mob families clash in a war that threatens to topple empires and lives.",
+      "releaseInfo": "2025",
+      "imdbRating": "8.6",
+      "background": "https://image.tmdb.org/t/p/w500/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg"
+    },
+    {
+      "id": "tt33184638",
+      "type": "series",
+      "name": "Has Fallen",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33184638.jpg",
+      "description": "A protection officer and an MI6 operative team up after a terrorist attack. They suspect a mole as they race to thwart a larger conspiracy threatening Paris.",
+      "releaseInfo": "2024",
+      "imdbRating": "7.1",
+      "background": "https://image.tmdb.org/t/p/w500/eyK6fy2NWfjmyBjUvRAR14FynPK.jpg"
+    },
+    {
+      "id": "tt0121955",
+      "type": "series",
+      "name": "South Park",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0121955.jpg",
+      "description": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+      "releaseInfo": "1997",
+      "imdbRating": "8.3",
+      "background": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg"
+    },
+    {
+      "id": "tt21952924",
+      "type": "series",
+      "name": "Phony",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt21952924.jpg",
+      "description": "After waking up from a freak car accident, Sonny discovers that his mother has been replaced by an impostor.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.4",
+      "background": "https://image.tmdb.org/t/p/w500/iCyQc8cSSHkxUHbkvzbC77owALt.jpg"
+    },
+    {
+      "id": "tt45246384",
+      "type": "series",
+      "name": "Love in Disguise",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt45246384.jpg",
+      "description": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
+      "releaseInfo": "2026",
+      "imdbRating": "9.0",
+      "background": "https://image.tmdb.org/t/p/w500/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg"
+    },
+    {
       "id": "tt49692512",
       "type": "series",
       "name": "Final Table",
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt49692512.jpg",
       "description": "The Table: K-Chef 2026 brings together Korea's top chefs to compete for the title of the country's best chef. Mysterious world-renowned chef Chris K., also known as Kang Han, Song-yi, who is fighting to save her restaurant, perfectionist star chef Woo-jin, and chefs with stories of their own face off in a fierce culinary battle. More than a competition, they find comfort in food and one another.",
       "releaseInfo": "2026",
-      "imdbRating": "8.2",
+      "imdbRating": "8.6",
       "background": "https://image.tmdb.org/t/p/w500/uaMjtALuvZC7dGkYllGKKWEWW1J.jpg"
     },
     {
@@ -127,7 +157,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39395275.jpg",
       "description": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
       "releaseInfo": "2026",
-      "imdbRating": "9.6",
+      "imdbRating": "9.7",
       "background": "https://image.tmdb.org/t/p/w500/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg"
     },
     {
@@ -141,16 +171,6 @@
       "background": "https://image.tmdb.org/t/p/w500/tf0CUEynk6GfmrlHIQKQ5mfFP5P.jpg"
     },
     {
-      "id": "tt45246384",
-      "type": "series",
-      "name": "Love in Disguise",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt45246384.jpg",
-      "description": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
-      "releaseInfo": "2026",
-      "imdbRating": "8.8",
-      "background": "https://image.tmdb.org/t/p/w500/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg"
-    },
-    {
       "id": "tt19231492",
       "type": "series",
       "name": "Dark Matter",
@@ -161,14 +181,14 @@
       "background": "https://image.tmdb.org/t/p/w500/2DPmTlv8F0V1TQBPmlsGOVOhtWk.jpg"
     },
     {
-      "id": "tt5875444",
+      "id": "tt2359704",
       "type": "series",
-      "name": "Slow Horses",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5875444.jpg",
-      "description": "Follow a dysfunctional team of MI5 agents\u2014and their obnoxious boss, the notorious Jackson Lamb\u2014as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
-      "releaseInfo": "2022",
-      "imdbRating": "8.1",
-      "background": "https://image.tmdb.org/t/p/w500/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg"
+      "name": "JoJo's Bizarre Adventure",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2359704.jpg",
+      "description": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.",
+      "releaseInfo": "2012",
+      "imdbRating": "8.5",
+      "background": "https://image.tmdb.org/t/p/w500/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg"
     },
     {
       "id": "tt26743760",
@@ -181,6 +201,106 @@
       "background": "https://image.tmdb.org/t/p/w500/sJZcy8QsOPuRPiCfoCWVB3r9Ohg.jpg"
     },
     {
+      "id": "tt1844624",
+      "type": "series",
+      "name": "American Horror Story",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1844624.jpg",
+      "description": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
+      "releaseInfo": "2011",
+      "imdbRating": "8.1",
+      "background": "https://image.tmdb.org/t/p/w500/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg"
+    },
+    {
+      "id": "tt26545992",
+      "type": "series",
+      "name": "Lanterns",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26545992.jpg",
+      "description": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.2",
+      "background": "https://image.tmdb.org/t/p/w500/rb94rKVIzLyfWufIN7WqLvadBDH.jpg"
+    },
+    {
+      "id": "tt16358384",
+      "type": "series",
+      "name": "Tulsa King",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt16358384.jpg",
+      "description": "New York mafia capo Dwight \"The General\" Manfredi is released from prison after 25 years and exiled by his boss to set up shop in Tulsa, Oklahoma. Realizing that his mob family may not have his best interests in mind, Dwight slowly builds a crew.",
+      "releaseInfo": "2022",
+      "imdbRating": "8.3",
+      "background": "https://image.tmdb.org/t/p/w500/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg"
+    },
+    {
+      "id": "tt5875444",
+      "type": "series",
+      "name": "Slow Horses",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5875444.jpg",
+      "description": "Follow a dysfunctional team of MI5 agents\u2014and their obnoxious boss, the notorious Jackson Lamb\u2014as they navigate the espionage world's smoke and mirrors to defend England from sinister forces.",
+      "releaseInfo": "2022",
+      "imdbRating": "8.1",
+      "background": "https://image.tmdb.org/t/p/w500/AdYr4DjOgXvDUMwu6vEhZy1Rnxk.jpg"
+    },
+    {
+      "id": "tt0364845",
+      "type": "series",
+      "name": "NCIS",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0364845.jpg",
+      "description": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
+      "releaseInfo": "2003",
+      "imdbRating": "7.6",
+      "background": "https://image.tmdb.org/t/p/w500/y4fGncqELtnvRQuwSpuH8LncZqU.jpg"
+    },
+    {
+      "id": "tt36849871",
+      "type": "series",
+      "name": "Marshals",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36849871.jpg",
+      "description": "With the Yellowstone Ranch behind him, Kayce Dutton joins an elite unit of U.S. Marshals, combining his skills as a cowboy and Navy SEAL to bring range justice to Montana, where he and his teammates must balance family, duty and the high psychological cost that comes with serving as the last line of defense in the region's war on violence.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.0",
+      "background": "https://image.tmdb.org/t/p/w500/zV1MRb6eqx6Uj3NSXquZFfz75pa.jpg"
+    },
+    {
+      "id": "tt13293588",
+      "type": "series",
+      "name": "Mushoku Tensei: Jobless Reincarnation",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt13293588.jpg",
+      "description": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure\u2014with all of his past experience intact!",
+      "releaseInfo": "2021",
+      "imdbRating": "8.4",
+      "background": "https://image.tmdb.org/t/p/w500/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg"
+    },
+    {
+      "id": "tt7631058",
+      "type": "series",
+      "name": "The Lord of the Rings: The Rings of Power",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt7631058.jpg",
+      "description": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of N\u00famenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
+      "releaseInfo": "2022",
+      "imdbRating": "7.2",
+      "background": "https://image.tmdb.org/t/p/w500/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg"
+    },
+    {
+      "id": "tt9813792",
+      "type": "series",
+      "name": "FROM",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt9813792.jpg",
+      "description": "Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest \u2013 including the terrifying creatures that come out when the sun goes down.",
+      "releaseInfo": "2022",
+      "imdbRating": "8.5",
+      "background": "https://image.tmdb.org/t/p/w500/pRtJagIxpfODzzb0T0NAvZSzErC.jpg"
+    },
+    {
+      "id": "tt33043892",
+      "type": "series",
+      "name": "Dexter: Resurrection",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33043892.jpg",
+      "description": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
+      "releaseInfo": "2025",
+      "imdbRating": "8.5",
+      "background": "https://image.tmdb.org/t/p/w500/o2Oyi3boT100bY5kCP4MBiTeetO.jpg"
+    },
+    {
       "id": "tt5607616",
       "type": "series",
       "name": "Re:ZERO -Starting Life in Another World-",
@@ -191,64 +311,14 @@
       "background": "https://image.tmdb.org/t/p/w500/oHqYrPAsIiTD5m4DuxumV4er8BU.jpg"
     },
     {
-      "id": "tt0121955",
+      "id": "tt26933824",
       "type": "series",
-      "name": "South Park",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0121955.jpg",
-      "description": "Follow the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
-      "releaseInfo": "1997",
-      "imdbRating": "8.3",
-      "background": "https://image.tmdb.org/t/p/w500/k7n2EVge7G77eMr3brztRGG1fFU.jpg"
-    },
-    {
-      "id": "tt0388629",
-      "type": "series",
-      "name": "One Piece",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0388629.jpg",
-      "description": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
-      "releaseInfo": "1999",
-      "imdbRating": "8.8",
-      "background": "https://image.tmdb.org/t/p/w500/dB4EDhre2dsC2kxYDavyKWqLQwi.jpg"
-    },
-    {
-      "id": "tt13196080",
-      "type": "series",
-      "name": "Tokyo Revengers",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt13196080.jpg",
-      "description": "Takemichi Hanagaki is a freelancer that\u2019s reached the absolute pits of despair in his life. He finds out that the only girlfriend he ever had, in middle school, Hinata Tachibana, had been killed by the ruthless Tokyo Manji Gang. The day after hearing about her death, he\u2019s standing on the station platform and ends up being pushed over onto the tracks by a herd of people. He closes his eyes thinking he\u2019s about to die, but when he opens his eyes back up, he somehow had gone back in time 12 years. Now that he\u2019s back living the best days of his life, Takemichi decides to get revenge on his life.",
-      "releaseInfo": "2021",
-      "imdbRating": "8.4",
-      "background": "https://image.tmdb.org/t/p/w500/arB3L9pZZBSzUPSC8BEv8c3X0bF.jpg"
-    },
-    {
-      "id": "tt13196080",
-      "type": "series",
-      "name": "Tokyo Revengers",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt13196080.jpg",
-      "description": "Takemichi Hanagaki is a freelancer that\u2019s reached the absolute pits of despair in his life. He finds out that the only girlfriend he ever had, in middle school, Hinata Tachibana, had been killed by the ruthless Tokyo Manji Gang. The day after hearing about her death, he\u2019s standing on the station platform and ends up being pushed over onto the tracks by a herd of people. He closes his eyes thinking he\u2019s about to die, but when he opens his eyes back up, he somehow had gone back in time 12 years. Now that he\u2019s back living the best days of his life, Takemichi decides to get revenge on his life.",
-      "releaseInfo": "2021",
-      "imdbRating": "8.4",
-      "background": "https://image.tmdb.org/t/p/w500/arB3L9pZZBSzUPSC8BEv8c3X0bF.jpg"
-    },
-    {
-      "id": "tt14688458",
-      "type": "series",
-      "name": "Silo",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt14688458.jpg",
-      "description": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
-      "releaseInfo": "2023",
-      "imdbRating": "8.2",
-      "background": "https://image.tmdb.org/t/p/w500/r2QXomqKjkKHVtYGGtkf2l2Y7go.jpg"
-    },
-    {
-      "id": "tt26545992",
-      "type": "series",
-      "name": "Lanterns",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26545992.jpg",
-      "description": "Two intergalactic cops, new recruit John Stewart and Lantern legend Hal Jordan, are drawn into a dark, Earth-based mystery as they investigate a murder in the American heartland.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.2",
-      "background": "https://image.tmdb.org/t/p/w500/gpC7h43xPMEV3goYMQShfJbTtLq.jpg"
+      "name": "Nobody Wants This",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26933824.jpg",
+      "description": "An agnostic sex podcaster and a newly single rabbi fall in love, but can their relationship survive their wildly different lives and meddling families?",
+      "releaseInfo": "2024",
+      "imdbRating": "7.3",
+      "background": "https://image.tmdb.org/t/p/w500/1RNtqMeSNNBkXqK8WPUMf72vGrt.jpg"
     },
     {
       "id": "tt0206512",
@@ -271,14 +341,14 @@
       "background": "https://image.tmdb.org/t/p/w500/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg"
     },
     {
-      "id": "tt35934755",
+      "id": "tt13875494",
       "type": "series",
-      "name": "Below",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35934755.jpg",
-      "description": "When a mysterious sea creature terrorizes a small Newfoundland town, a hard-bitten fisherman and his family fight to protect their close-knit community.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.2",
-      "background": "https://image.tmdb.org/t/p/w500/vgLqqhMUbljp585qPp1EFCyJtcz.jpg"
+      "name": "Tracker",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt13875494.jpg",
+      "description": "Lone-wolf survivalist Colter Shaw roams the country as a \u201creward seeker,\u201d using his expert tracking skills to help private citizens and law enforcement solve all manner of mysteries while contending with his own fractured family.",
+      "releaseInfo": "2024",
+      "imdbRating": "7.6",
+      "background": "https://image.tmdb.org/t/p/w500/otula4h1ITZ0eV84eg7Lb8u614C.jpg"
     },
     {
       "id": "tt9288030",
@@ -291,24 +361,14 @@
       "background": "https://image.tmdb.org/t/p/w500/f1VCQIG2iCyOookdgOzwtUpwWC0.jpg"
     },
     {
-      "id": "tt2359704",
+      "id": "tt10986410",
       "type": "series",
-      "name": "JoJo's Bizarre Adventure",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2359704.jpg",
-      "description": "Follow the intergenerational feud between the Joestar Family and various forces of evil, the most prominent of which is Dio Brando and his followers.",
-      "releaseInfo": "2012",
-      "imdbRating": "8.5",
-      "background": "https://image.tmdb.org/t/p/w500/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg"
-    },
-    {
-      "id": "tt13875494",
-      "type": "series",
-      "name": "Tracker",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt13875494.jpg",
-      "description": "Lone-wolf survivalist Colter Shaw roams the country as a \u201creward seeker,\u201d using his expert tracking skills to help private citizens and law enforcement solve all manner of mysteries while contending with his own fractured family.",
-      "releaseInfo": "2024",
-      "imdbRating": "7.6",
-      "background": "https://image.tmdb.org/t/p/w500/otula4h1ITZ0eV84eg7Lb8u614C.jpg"
+      "name": "Ted Lasso",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt10986410.jpg",
+      "description": "Ted Lasso, an American football coach, moves to England when he's hired to manage a soccer team\u2014despite having no experience. With cynical players and a doubtful town, will he get them to see the Ted Lasso Way?",
+      "releaseInfo": "2020",
+      "imdbRating": "8.4",
+      "background": "https://image.tmdb.org/t/p/w500/uRHsiw1wLxPHFXkkv4Ix1s0O6f4.jpg"
     },
     {
       "id": "tt0203259",
@@ -321,84 +381,24 @@
       "background": "https://image.tmdb.org/t/p/w500/pHNhUwSXuDQ9jPZOCb8SgJaQZsc.jpg"
     },
     {
-      "id": "tt1844624",
+      "id": "tt0182576",
       "type": "series",
-      "name": "American Horror Story",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1844624.jpg",
-      "description": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
-      "releaseInfo": "2011",
-      "imdbRating": "8.1",
-      "background": "https://image.tmdb.org/t/p/w500/yCkPLQ10qKIUgRBXmQVVMF1h96d.jpg"
+      "name": "Family Guy",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0182576.jpg",
+      "description": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
+      "releaseInfo": "1999",
+      "imdbRating": "7.4",
+      "background": "https://image.tmdb.org/t/p/w500/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg"
     },
     {
-      "id": "tt33043892",
+      "id": "tt7491982",
       "type": "series",
-      "name": "Dexter: Resurrection",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33043892.jpg",
-      "description": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
-      "releaseInfo": "2025",
-      "imdbRating": "8.5",
-      "background": "https://image.tmdb.org/t/p/w500/o2Oyi3boT100bY5kCP4MBiTeetO.jpg"
-    },
-    {
-      "id": "tt33043892",
-      "type": "series",
-      "name": "Dexter: Resurrection",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33043892.jpg",
-      "description": "Set 10 weeks after Dexter: New Blood, Dexter Morgan chases a missing Harrison to New York City, where Captain Angel Batista is hot on their trail from way down in Miami.",
-      "releaseInfo": "2025",
-      "imdbRating": "8.5",
-      "background": "https://image.tmdb.org/t/p/w500/o2Oyi3boT100bY5kCP4MBiTeetO.jpg"
-    },
-    {
-      "id": "tt0131179",
-      "type": "series",
-      "name": "Detective Conan",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0131179.jpg",
-      "description": "The son of a world famous mystery writer, Jimmy Kudo, has achieved his own notoriety by assisting the local police as a student detective. He has always been able to solve the most difficult of criminal cases using his wits and power of reason.",
-      "releaseInfo": "1996",
-      "imdbRating": "8.0",
-      "background": "https://image.tmdb.org/t/p/w500/iHfA63x7rFaWbP2C832uCe2r0zy.jpg"
-    },
-    {
-      "id": "tt9813792",
-      "type": "series",
-      "name": "FROM",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt9813792.jpg",
-      "description": "Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest \u2013 including the terrifying creatures that come out when the sun goes down.",
-      "releaseInfo": "2022",
-      "imdbRating": "8.5",
-      "background": "https://image.tmdb.org/t/p/w500/pRtJagIxpfODzzb0T0NAvZSzErC.jpg"
-    },
-    {
-      "id": "tt11379026",
-      "type": "series",
-      "name": "Ghosts",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt11379026.jpg",
-      "description": "Samantha and Jay throw caution to the wind when they convert their recently inherited country estate into a bed-and-breakfast. Call it mislaid plans. Not only is the place falling apart, but it\u2019s also inhabited by spirits of previous residents -- whom only Samantha can see and hear.",
-      "releaseInfo": "2021",
-      "imdbRating": "8.1",
-      "background": "https://image.tmdb.org/t/p/w500/8yBQYa6AdvMY5H9CiAv0HkvF3UE.jpg"
-    },
-    {
-      "id": "tt7631058",
-      "type": "series",
-      "name": "The Lord of the Rings: The Rings of Power",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt7631058.jpg",
-      "description": "Beginning in a time of relative peace, we follow an ensemble cast of characters as they confront the re-emergence of evil to Middle-earth. From the darkest depths of the Misty Mountains, to the majestic forests of Lindon, to the breathtaking island kingdom of N\u00famenor, to the furthest reaches of the map, these kingdoms and characters will carve out legacies that live on long after they are gone.",
-      "releaseInfo": "2022",
-      "imdbRating": "7.2",
-      "background": "https://image.tmdb.org/t/p/w500/bMXWXKM9ydUmMTNvDnYo9QtCBRt.jpg"
-    },
-    {
-      "id": "tt0364845",
-      "type": "series",
-      "name": "NCIS",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0364845.jpg",
-      "description": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
-      "releaseInfo": "2003",
-      "imdbRating": "7.6",
-      "background": "https://image.tmdb.org/t/p/w500/y4fGncqELtnvRQuwSpuH8LncZqU.jpg"
+      "name": "FBI",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt7491982.jpg",
+      "description": "The New York office of the FBI brings to bear all their talents, intellect and technical expertise on major cases in order to keep their city and the country safe.",
+      "releaseInfo": "2018",
+      "imdbRating": "7.9",
+      "background": "https://image.tmdb.org/t/p/w500/br3xWBUu7W0dXsMev0XXVvoMxuE.jpg"
     }
   ],
   "cacheMaxAge": 3600

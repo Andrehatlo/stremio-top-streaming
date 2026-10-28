@@ -21,16 +21,6 @@
       "background": "https://image.tmdb.org/t/p/w500/5xmXVd7nCK3tAo34XkO58SxUCip.jpg"
     },
     {
-      "id": "tt31049299",
-      "type": "movie",
-      "name": "Animals",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31049299.jpg",
-      "description": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.0",
-      "background": "https://image.tmdb.org/t/p/w500/iISM36voS1E8gX9BM0DVK0kgi3E.jpg"
-    },
-    {
       "id": "tt6262770",
       "type": "movie",
       "name": "Tenzing",
@@ -61,16 +51,6 @@
       "background": "https://image.tmdb.org/t/p/w500/iIc0OkYnf06kv5Zp0IYVwuvffgh.jpg"
     },
     {
-      "id": "tt37027309",
-      "type": "movie",
-      "name": "Therapy Done Right",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37027309.jpg",
-      "description": "A psychoanalyst who's lost faith in traditional therapy crosses every boundary to help a blocked novelist in this cutting Argentine dark comedy.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.7",
-      "background": "https://image.tmdb.org/t/p/w500/2gJiHJYhPXQy4ovDD5ZvSjwYfMZ.jpg"
-    },
-    {
       "id": "tt36429458",
       "type": "movie",
       "name": "Doing Life",
@@ -81,13 +61,23 @@
       "background": "https://image.tmdb.org/t/p/w500/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg"
     },
     {
+      "id": "tt37027309",
+      "type": "movie",
+      "name": "Therapy Done Right",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37027309.jpg",
+      "description": "A psychoanalyst who's lost faith in traditional therapy crosses every boundary to help a blocked novelist in this cutting Argentine dark comedy.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.7",
+      "background": "https://image.tmdb.org/t/p/w500/2gJiHJYhPXQy4ovDD5ZvSjwYfMZ.jpg"
+    },
+    {
       "id": "tt43665190",
       "type": "movie",
       "name": "Family Guy Happy Hell-o-ween",
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt43665190.jpg",
       "description": "After unexpectedly dying and being sent to Hell, Stewie and Brian\u2019s constant nagging leads The Devil to quit, passing control of Hell to them.",
       "releaseInfo": "2026",
-      "imdbRating": "7.2",
+      "imdbRating": "7.3",
       "background": "https://image.tmdb.org/t/p/w500/4IuQIUgqyLpbD7R7zmPp9A08rsQ.jpg"
     },
     {
@@ -99,6 +89,16 @@
       "releaseInfo": "2026",
       "imdbRating": "7.6",
       "background": "https://image.tmdb.org/t/p/w500/em19DrMkLSinf04NEhiRxTnVupI.jpg"
+    },
+    {
+      "id": "tt39578551",
+      "type": "movie",
+      "name": "BTS: THE RETURN",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39578551.jpg",
+      "description": "They're back! BTS gathers in LA to record their album \"Arirang\" in this documentary offering unprecedented access to the band as they enter a new era.",
+      "releaseInfo": "2026",
+      "imdbRating": "10.0",
+      "background": "https://image.tmdb.org/t/p/w500/9CNUWleZWN9EGMZjvaSTcxmAAGg.jpg"
     },
     {
       "id": "tt44822485",
@@ -131,16 +131,6 @@
       "background": "https://image.tmdb.org/t/p/w500/tlNqQwhyta5j1oJDISCPFId15EX.jpg"
     },
     {
-      "id": "tt46060457",
-      "type": "movie",
-      "name": "The Swan: Behind the Mirror",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt46060457.jpg",
-      "description": "A look at the controversial 2004 reality series The Swan, which took self-proclaimed 'ugly ducklings' and set out to make them... not that.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.2",
-      "background": "https://image.tmdb.org/t/p/w500/hCALD2uCetzUjj40k8TUMnsA397.jpg"
-    },
-    {
       "id": "tt46062767",
       "type": "movie",
       "name": "Kate Berlant: Parmesan",
@@ -149,6 +139,16 @@
       "releaseInfo": "2026",
       "imdbRating": "7.0",
       "background": "https://image.tmdb.org/t/p/w500/t4dw7pBmcs0JkB8h4CLSix88EEM.jpg"
+    },
+    {
+      "id": "tt46060457",
+      "type": "movie",
+      "name": "The Swan: Behind the Mirror",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt46060457.jpg",
+      "description": "A look at the controversial 2004 reality series The Swan, which took self-proclaimed 'ugly ducklings' and set out to make them... not that.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.2",
+      "background": "https://image.tmdb.org/t/p/w500/hCALD2uCetzUjj40k8TUMnsA397.jpg"
     },
     {
       "id": "tt46066368",
@@ -169,6 +169,16 @@
       "releaseInfo": "2026",
       "imdbRating": "7.0",
       "background": "https://image.tmdb.org/t/p/w500/uXLBzlQTuvGlOhfB0M9HK4BrKqD.jpg"
+    },
+    {
+      "id": "tt27558029",
+      "type": "movie",
+      "name": "Goody Goody",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27558029.jpg",
+      "description": "Lulled into a necessary sense of comfort during a long home birth process, expecting parents and their midwife begin to realize that something may be horribly wrong. As labor complications ensue, a blizzard rages outside trapping the family in their home \u2013 sitting ducks for whatever sinister presence might be in there with them.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.0",
+      "background": "https://image.tmdb.org/t/p/w500/9DyaSMQ6W3NvJ9BYTV2piiAXlCX.jpg"
     }
   ],
   "cacheMaxAge": 3600
