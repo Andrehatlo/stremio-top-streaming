@@ -1,6 +1,16 @@
 {
   "metas": [
     {
+      "id": "tt37180686",
+      "type": "movie",
+      "name": "Drive - The Pretenders",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37180686.jpg",
+      "description": "A young race car mechanic fakes an engagement with racing's most scandalous star - officially for his reputation, secretly for her own shot behind the wheel. But soon the lie threatens to destroy everything - including what's already become so much more than just a deal.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.9",
+      "background": "https://image.tmdb.org/t/p/w500/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg"
+    },
+    {
       "id": "tt28498219",
       "type": "movie",
       "name": "Matchbox the Movie",
@@ -11,14 +21,14 @@
       "background": "https://image.tmdb.org/t/p/w500/aHhHRz6nOpwkqJs5ASeRGAdK2dt.jpg"
     },
     {
-      "id": "tt38672588",
+      "id": "tt37961714",
       "type": "movie",
-      "name": "Masterplan",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38672588.jpg",
-      "description": "When a legendary thief sets his sights on the Mona Lisa, he recruits two young strangers to help him before revealing they are long-lost siblings\u2026 and oh yes, by the way, he is their father. Thrown into a chaotic reunion they never asked for, this new family must learn to work together \u2014 and try not to kill each other \u2014 if they want any chance at pulling off the heist of the century.",
+      "name": "Surviving Hurricane Otis",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37961714.jpg",
+      "description": "Two estranged brothers struggle to survive Hurricane Otis in Acapulco, where their bond and courage turn adversity into hope.",
       "releaseInfo": "2026",
       "imdbRating": "7.0",
-      "background": "https://image.tmdb.org/t/p/w500/5xmXVd7nCK3tAo34XkO58SxUCip.jpg"
+      "background": "https://image.tmdb.org/t/p/w500/chZa8Jd9kSDj11bekGjwwotFPEw.jpg"
     },
     {
       "id": "tt6262770",
@@ -47,7 +57,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt49317723.jpg",
       "description": "When a giant T-Rex threatens Hot Wheels City, it's up to Coop and his friends to race to the rescue and save the day.",
       "releaseInfo": "2026",
-      "imdbRating": "8.4",
+      "imdbRating": "7.8",
       "background": "https://image.tmdb.org/t/p/w500/iIc0OkYnf06kv5Zp0IYVwuvffgh.jpg"
     },
     {
@@ -91,6 +101,16 @@
       "background": "https://image.tmdb.org/t/p/w500/em19DrMkLSinf04NEhiRxTnVupI.jpg"
     },
     {
+      "id": "tt46078866",
+      "type": "movie",
+      "name": "CMA Presents I Will Always Love You: A Celebration of Dolly Parton",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt46078866.jpg",
+      "description": "A celebration of the artist, songwriter, entertainer, humanitarian and entrepreneur whose music and generosity carried her from the mountains of east Tennessee into the hearts of generations around the world.",
+      "releaseInfo": "2026",
+      "imdbRating": "10.0",
+      "background": "https://image.tmdb.org/t/p/w500/tlNqQwhyta5j1oJDISCPFId15EX.jpg"
+    },
+    {
       "id": "tt39578551",
       "type": "movie",
       "name": "BTS: THE RETURN",
@@ -99,16 +119,6 @@
       "releaseInfo": "2026",
       "imdbRating": "10.0",
       "background": "https://image.tmdb.org/t/p/w500/9CNUWleZWN9EGMZjvaSTcxmAAGg.jpg"
-    },
-    {
-      "id": "tt44822485",
-      "type": "movie",
-      "name": "Norm: The Tale of Norm Macdonald",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44822485.jpg",
-      "description": "Go down a wormhole in this documentary on master of deadpan humor Norm Macdonald, whose life and career were uncompromising yet full of contradictions.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.7",
-      "background": "https://image.tmdb.org/t/p/w500/sQw3m4hl1xyoT9zr7shnNCHDKI3.jpg"
     },
     {
       "id": "tt46027225",
@@ -121,14 +131,14 @@
       "background": "https://image.tmdb.org/t/p/w500/y07DF84TR67NVAevJR6JMydIL5H.jpg"
     },
     {
-      "id": "tt46078866",
+      "id": "tt44822485",
       "type": "movie",
-      "name": "CMA Presents I Will Always Love You: A Celebration of Dolly Parton",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt46078866.jpg",
-      "description": "A celebration of the artist, songwriter, entertainer, humanitarian and entrepreneur whose music and generosity carried her from the mountains of east Tennessee into the hearts of generations around the world.",
+      "name": "Norm: The Tale of Norm Macdonald",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44822485.jpg",
+      "description": "Go down a wormhole in this documentary on master of deadpan humor Norm Macdonald, whose life and career were uncompromising yet full of contradictions.",
       "releaseInfo": "2026",
-      "imdbRating": "10.0",
-      "background": "https://image.tmdb.org/t/p/w500/tlNqQwhyta5j1oJDISCPFId15EX.jpg"
+      "imdbRating": "7.7",
+      "background": "https://image.tmdb.org/t/p/w500/sQw3m4hl1xyoT9zr7shnNCHDKI3.jpg"
     },
     {
       "id": "tt46062767",
@@ -151,16 +161,6 @@
       "background": "https://image.tmdb.org/t/p/w500/hCALD2uCetzUjj40k8TUMnsA397.jpg"
     },
     {
-      "id": "tt46066368",
-      "type": "movie",
-      "name": "Miller Night Football",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt46066368.jpg",
-      "description": "Chronicles comedian Dennis Miller's unlikely arrival in the \"Monday Night Football\" (MNF) broadcast booth in 2000, alongside veteran sportscaster Al Michaels and former NFL quarterback Dan Fouts. Intended to reinvigorate the iconic television franchise and attract a broader audience, Miller's addition, and his distinctly cerebral brand of humor, was met with both intrigue and skepticism across sports and television.",
-      "releaseInfo": "2026",
-      "imdbRating": "10.0",
-      "background": "https://image.tmdb.org/t/p/w500/i9k5eDDpYs84rDgeZ2vyXgNtmLF.jpg"
-    },
-    {
       "id": "tt45584335",
       "type": "movie",
       "name": "Sam Morril: Incorrect",
@@ -171,14 +171,34 @@
       "background": "https://image.tmdb.org/t/p/w500/uXLBzlQTuvGlOhfB0M9HK4BrKqD.jpg"
     },
     {
+      "id": "tt46066368",
+      "type": "movie",
+      "name": "Miller Night Football",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt46066368.jpg",
+      "description": "Chronicles comedian Dennis Miller's unlikely arrival in the \"Monday Night Football\" (MNF) broadcast booth in 2000, alongside veteran sportscaster Al Michaels and former NFL quarterback Dan Fouts. Intended to reinvigorate the iconic television franchise and attract a broader audience, Miller's addition, and his distinctly cerebral brand of humor, was met with both intrigue and skepticism across sports and television.",
+      "releaseInfo": "2026",
+      "imdbRating": "10.0",
+      "background": "https://image.tmdb.org/t/p/w500/i9k5eDDpYs84rDgeZ2vyXgNtmLF.jpg"
+    },
+    {
       "id": "tt27558029",
       "type": "movie",
       "name": "Goody Goody",
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27558029.jpg",
-      "description": "Lulled into a necessary sense of comfort during a long home birth process, expecting parents and their midwife begin to realize that something may be horribly wrong. As labor complications ensue, a blizzard rages outside trapping the family in their home \u2013 sitting ducks for whatever sinister presence might be in there with them.",
+      "description": "During a prolonged home birth trapped by a raging blizzard, expecting parents and their midwife begin to suspect something sinister is lurking nearby as labor complications escalate and their sense of safety unravels.",
       "releaseInfo": "2026",
       "imdbRating": "7.0",
       "background": "https://image.tmdb.org/t/p/w500/9DyaSMQ6W3NvJ9BYTV2piiAXlCX.jpg"
+    },
+    {
+      "id": "tt34224950",
+      "type": "movie",
+      "name": "LARA - The Man Who Took on Escobar",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt34224950.jpg",
+      "description": "",
+      "releaseInfo": "2026",
+      "imdbRating": "7.0",
+      "background": "https://image.tmdb.org/t/p/w500/bD1axNzUONxX7jodVaeSpDNVsO0.jpg"
     }
   ],
   "cacheMaxAge": 3600

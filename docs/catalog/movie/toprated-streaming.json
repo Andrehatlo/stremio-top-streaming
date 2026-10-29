@@ -301,16 +301,6 @@
       "background": "https://image.tmdb.org/t/p/w500/13ZcJzSGEqVgDSqsS9U5EkQwPkV.jpg"
     },
     {
-      "id": "tt31193180",
-      "type": "movie",
-      "name": "Sinners",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31193180.jpg",
-      "description": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
-      "releaseInfo": "2025",
-      "imdbRating": "7.5",
-      "background": "https://image.tmdb.org/t/p/w500/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg"
-    },
-    {
       "id": "tt15940132",
       "type": "movie",
       "name": "War Machine",
@@ -319,6 +309,16 @@
       "releaseInfo": "2026",
       "imdbRating": "7.5",
       "background": "https://image.tmdb.org/t/p/w500/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg"
+    },
+    {
+      "id": "tt31193180",
+      "type": "movie",
+      "name": "Sinners",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31193180.jpg",
+      "description": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.5",
+      "background": "https://image.tmdb.org/t/p/w500/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg"
     },
     {
       "id": "tt30825738",
