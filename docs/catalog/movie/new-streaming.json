@@ -27,18 +27,8 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37961714.jpg",
       "description": "Two estranged brothers struggle to survive Hurricane Otis in Acapulco, where their bond and courage turn adversity into hope.",
       "releaseInfo": "2026",
-      "imdbRating": "7.0",
+      "imdbRating": "7.3",
       "background": "https://image.tmdb.org/t/p/w500/chZa8Jd9kSDj11bekGjwwotFPEw.jpg"
-    },
-    {
-      "id": "tt6262770",
-      "type": "movie",
-      "name": "Tenzing",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6262770.jpg",
-      "description": "A determined man embarks on a high-stakes quest\u2014and defies seemingly impossible odds\u2014to fulfill his dream of being the first to reach the summit of Mount Everest.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.3",
-      "background": "https://image.tmdb.org/t/p/w500/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg"
     },
     {
       "id": "tt47657999",
@@ -51,13 +41,23 @@
       "background": "https://image.tmdb.org/t/p/w500/xVabS4lTi6IMscr2FOucxydE6ZD.jpg"
     },
     {
+      "id": "tt6262770",
+      "type": "movie",
+      "name": "Tenzing",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6262770.jpg",
+      "description": "A determined man embarks on a high-stakes quest\u2014and defies seemingly impossible odds\u2014to fulfill his dream of being the first to reach the summit of Mount Everest.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.3",
+      "background": "https://image.tmdb.org/t/p/w500/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg"
+    },
+    {
       "id": "tt49317723",
       "type": "movie",
       "name": "Hot Wheels Let's Race: Attack of the T-Rex",
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt49317723.jpg",
       "description": "When a giant T-Rex threatens Hot Wheels City, it's up to Coop and his friends to race to the rescue and save the day.",
       "releaseInfo": "2026",
-      "imdbRating": "7.8",
+      "imdbRating": "7.5",
       "background": "https://image.tmdb.org/t/p/w500/iIc0OkYnf06kv5Zp0IYVwuvffgh.jpg"
     },
     {
@@ -77,7 +77,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37027309.jpg",
       "description": "A psychoanalyst who's lost faith in traditional therapy crosses every boundary to help a blocked novelist in this cutting Argentine dark comedy.",
       "releaseInfo": "2026",
-      "imdbRating": "7.7",
+      "imdbRating": "7.6",
       "background": "https://image.tmdb.org/t/p/w500/2gJiHJYhPXQy4ovDD5ZvSjwYfMZ.jpg"
     },
     {
@@ -91,6 +91,16 @@
       "background": "https://image.tmdb.org/t/p/w500/4IuQIUgqyLpbD7R7zmPp9A08rsQ.jpg"
     },
     {
+      "id": "tt46078866",
+      "type": "movie",
+      "name": "CMA Presents I Will Always Love You: A Celebration of Dolly Parton",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt46078866.jpg",
+      "description": "A celebration of the artist, songwriter, entertainer, humanitarian and entrepreneur whose music and generosity carried her from the mountains of east Tennessee into the hearts of generations around the world.",
+      "releaseInfo": "2026",
+      "imdbRating": "9.0",
+      "background": "https://image.tmdb.org/t/p/w500/tlNqQwhyta5j1oJDISCPFId15EX.jpg"
+    },
+    {
       "id": "tt39453404",
       "type": "movie",
       "name": "Schumacher \u201994 \u2013 The Birth of a Legend",
@@ -99,16 +109,6 @@
       "releaseInfo": "2026",
       "imdbRating": "7.6",
       "background": "https://image.tmdb.org/t/p/w500/em19DrMkLSinf04NEhiRxTnVupI.jpg"
-    },
-    {
-      "id": "tt46078866",
-      "type": "movie",
-      "name": "CMA Presents I Will Always Love You: A Celebration of Dolly Parton",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt46078866.jpg",
-      "description": "A celebration of the artist, songwriter, entertainer, humanitarian and entrepreneur whose music and generosity carried her from the mountains of east Tennessee into the hearts of generations around the world.",
-      "releaseInfo": "2026",
-      "imdbRating": "10.0",
-      "background": "https://image.tmdb.org/t/p/w500/tlNqQwhyta5j1oJDISCPFId15EX.jpg"
     },
     {
       "id": "tt39578551",
@@ -137,7 +137,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44822485.jpg",
       "description": "Go down a wormhole in this documentary on master of deadpan humor Norm Macdonald, whose life and career were uncompromising yet full of contradictions.",
       "releaseInfo": "2026",
-      "imdbRating": "7.7",
+      "imdbRating": "7.8",
       "background": "https://image.tmdb.org/t/p/w500/sQw3m4hl1xyoT9zr7shnNCHDKI3.jpg"
     },
     {
@@ -151,34 +151,14 @@
       "background": "https://image.tmdb.org/t/p/w500/t4dw7pBmcs0JkB8h4CLSix88EEM.jpg"
     },
     {
-      "id": "tt46060457",
+      "id": "tt44090278",
       "type": "movie",
-      "name": "The Swan: Behind the Mirror",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt46060457.jpg",
-      "description": "A look at the controversial 2004 reality series The Swan, which took self-proclaimed 'ugly ducklings' and set out to make them... not that.",
+      "name": "Baththa",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44090278.jpg",
+      "description": "In 1986 Madras, a timid eight-year-old boy accidentally traps a feared gangster inside a deserted school toilet. As the gangster is forced to confront hunger, loneliness and his own vulnerability, an unlikely bond begins to grow between the two, changing their lives forever.",
       "releaseInfo": "2026",
-      "imdbRating": "7.2",
-      "background": "https://image.tmdb.org/t/p/w500/hCALD2uCetzUjj40k8TUMnsA397.jpg"
-    },
-    {
-      "id": "tt45584335",
-      "type": "movie",
-      "name": "Sam Morril: Incorrect",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt45584335.jpg",
-      "description": "Sam Morril delivers savage laughs as he relives his worst one-night stand, compares famous assassinations and details an unorthodox rat extermination.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.0",
-      "background": "https://image.tmdb.org/t/p/w500/uXLBzlQTuvGlOhfB0M9HK4BrKqD.jpg"
-    },
-    {
-      "id": "tt46066368",
-      "type": "movie",
-      "name": "Miller Night Football",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt46066368.jpg",
-      "description": "Chronicles comedian Dennis Miller's unlikely arrival in the \"Monday Night Football\" (MNF) broadcast booth in 2000, alongside veteran sportscaster Al Michaels and former NFL quarterback Dan Fouts. Intended to reinvigorate the iconic television franchise and attract a broader audience, Miller's addition, and his distinctly cerebral brand of humor, was met with both intrigue and skepticism across sports and television.",
-      "releaseInfo": "2026",
-      "imdbRating": "10.0",
-      "background": "https://image.tmdb.org/t/p/w500/i9k5eDDpYs84rDgeZ2vyXgNtmLF.jpg"
+      "imdbRating": "8.5",
+      "background": "https://image.tmdb.org/t/p/w500/7wHBYs8HHmTGe4nXLpMEAoDSK2o.jpg"
     },
     {
       "id": "tt27558029",

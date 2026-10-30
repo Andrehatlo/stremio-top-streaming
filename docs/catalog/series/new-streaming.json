@@ -7,7 +7,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt23112594.jpg",
       "description": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
       "releaseInfo": "2026",
-      "imdbRating": "8.6",
+      "imdbRating": "8.7",
       "background": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg"
     },
     {
@@ -31,6 +31,16 @@
       "background": "https://image.tmdb.org/t/p/w500/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg"
     },
     {
+      "id": "tt35854736",
+      "type": "series",
+      "name": "Avatar: Seven Havens",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35854736.jpg",
+      "description": "In a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. But in this dangerous era, that title marks her as humanity's destroyer, not its savior. Hunted by both human and spirit enemies, she and her long-lost twin must uncover their mysterious origins and save the Seven Havens before civilization's last strongholds collapse.",
+      "releaseInfo": "2026",
+      "imdbRating": "9.0",
+      "background": "https://image.tmdb.org/t/p/w500/u62d0BPqsdv2TUDifcMmoePbHPL.jpg"
+    },
+    {
       "id": "tt42576855",
       "type": "series",
       "name": "Where the Mask Ends",
@@ -47,18 +57,8 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt45246384.jpg",
       "description": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
       "releaseInfo": "2026",
-      "imdbRating": "9.0",
+      "imdbRating": "9.2",
       "background": "https://image.tmdb.org/t/p/w500/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg"
-    },
-    {
-      "id": "tt35854736",
-      "type": "series",
-      "name": "Avatar: Seven Havens",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35854736.jpg",
-      "description": "In a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. But in this dangerous era, that title marks her as humanity's destroyer, not its savior. Hunted by both human and spirit enemies, she and her long-lost twin must uncover their mysterious origins and save the Seven Havens before civilization's last strongholds collapse.",
-      "releaseInfo": "2026",
-      "imdbRating": "9.1",
-      "background": "https://image.tmdb.org/t/p/w500/u62d0BPqsdv2TUDifcMmoePbHPL.jpg"
     },
     {
       "id": "tt37180305",
@@ -77,7 +77,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39328047.jpg",
       "description": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives \u2014 taking on seemingly impossible cases amid fierce opposition.",
       "releaseInfo": "2026",
-      "imdbRating": "9.3",
+      "imdbRating": "9.4",
       "background": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg"
     },
     {
@@ -89,6 +89,16 @@
       "releaseInfo": "2026",
       "imdbRating": "7.2",
       "background": "https://image.tmdb.org/t/p/w500/vgLqqhMUbljp585qPp1EFCyJtcz.jpg"
+    },
+    {
+      "id": "tt39980704",
+      "type": "series",
+      "name": "YAGA",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39980704.jpg",
+      "description": "While a private investigator probes the disappearance of the young heir to a powerful fishery, he finds himself at odds with an apprehensive local detective, a charismatic university professor with a taste for younger men, and a labyrinth of enigmatic suspects, secret lives, and ancient magic.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.0",
+      "background": "https://image.tmdb.org/t/p/w500/kp8xgZ8SrikHQrPn2lC3hb50KD5.jpg"
     },
     {
       "id": "tt37737331",
@@ -111,16 +121,6 @@
       "background": "https://image.tmdb.org/t/p/w500/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg"
     },
     {
-      "id": "tt49692512",
-      "type": "series",
-      "name": "Final Table",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt49692512.jpg",
-      "description": "The Table: K-Chef 2026 brings together Korea's top chefs to compete for the title of the country's best chef. Mysterious world-renowned chef Chris K., also known as Kang Han, Song-yi, who is fighting to save her restaurant, perfectionist star chef Woo-jin, and chefs with stories of their own face off in a fierce culinary battle. More than a competition, they find comfort in food and one another.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.6",
-      "background": "https://image.tmdb.org/t/p/w500/uaMjtALuvZC7dGkYllGKKWEWW1J.jpg"
-    },
-    {
       "id": "tt39201866",
       "type": "series",
       "name": "100 Days of Deception",
@@ -131,14 +131,14 @@
       "background": "https://image.tmdb.org/t/p/w500/bZHEU42QynnMrHUWK1Hhvj2cdPA.jpg"
     },
     {
-      "id": "tt36064406",
+      "id": "tt49692512",
       "type": "series",
-      "name": "Coven Academy",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36064406.jpg",
-      "description": "A coven protects their magic school from a dark fate.",
+      "name": "Final Table",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt49692512.jpg",
+      "description": "The Table: K-Chef 2026 brings together Korea's top chefs to compete for the title of the country's best chef. Mysterious world-renowned chef Chris K., also known as Kang Han, Song-yi, who is fighting to save her restaurant, perfectionist star chef Woo-jin, and chefs with stories of their own face off in a fierce culinary battle. More than a competition, they find comfort in food and one another.",
       "releaseInfo": "2026",
-      "imdbRating": "7.6",
-      "background": "https://image.tmdb.org/t/p/w500/f4R4YGeMQrXEu6jm3oAbSPeGC3M.jpg"
+      "imdbRating": "8.8",
+      "background": "https://image.tmdb.org/t/p/w500/uaMjtALuvZC7dGkYllGKKWEWW1J.jpg"
     },
     {
       "id": "tt38937897",
@@ -148,7 +148,17 @@
       "description": "When star Korean spatial designer Lee Yubin loses everything, he heads off to a Japanese island. There, he meets Karin, a resilient strawberry farmer. Hailing from different worlds, their lives collide in a big misunderstanding. Buckle up for \"Merry Berry Love,\" a sweet and sour Korea-Japan rom-com.",
       "releaseInfo": "2026",
       "imdbRating": "8.7",
-      "background": "https://image.tmdb.org/t/p/w500/av7wQdYaicBCCUFQ6jRlm9ylZx4.jpg"
+      "background": "https://image.tmdb.org/t/p/w500/aOz2lRcVTkYZpz1dGIGtJsirvsu.jpg"
+    },
+    {
+      "id": "tt36064406",
+      "type": "series",
+      "name": "Coven Academy",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36064406.jpg",
+      "description": "A coven protects their magic school from a dark fate.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.6",
+      "background": "https://image.tmdb.org/t/p/w500/f4R4YGeMQrXEu6jm3oAbSPeGC3M.jpg"
     },
     {
       "id": "tt21952924",
@@ -171,14 +181,14 @@
       "background": "https://image.tmdb.org/t/p/w500/iTVhDUbzUFUJ18jrcYM4rw7qGk.jpg"
     },
     {
-      "id": "tt33406999",
+      "id": "tt44941753",
       "type": "series",
-      "name": "GET JIRO",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33406999.jpg",
-      "description": "In a post-apocalyptic, near-future Los Angeles where culinary culture reigns supreme, the world's most powerful figures are chefs, and food is both currency and a demarcation of class, the mysterious sushi chef Jiro sets out on a quest for vengeance.",
+      "name": "The One About Matthew Perry",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44941753.jpg",
+      "description": "Told through intimate testimonies from close family and friends, this documentary event reveals the real Matthew Perry\u2014generous, funny, vulnerable, larger than life\u2014and the battles he fought to become the man behind the icon. A raw record of a life lived in full, and the honesty that became his greatest legacy.",
       "releaseInfo": "2026",
-      "imdbRating": "9.1",
-      "background": "https://image.tmdb.org/t/p/w500/li3TH09EF6JyHPVoTvub4nPOfwU.jpg"
+      "imdbRating": "7.2",
+      "background": "https://image.tmdb.org/t/p/w500/zDSjGvywwyWUqnMIpYYwFDyA7Az.jpg"
     },
     {
       "id": "tt35726020",
@@ -187,7 +197,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35726020.jpg",
       "description": "Jackie Price has been living a wealthy, luxurious life for the past 20 years after escaping a dangerous past as an international cocaine dealer. But just as life begins to feel a little boring, she discovers that The Seven Demons, a group of the world\u2019s most terrifying hitmen, have been hired to kill her.",
       "releaseInfo": "2026",
-      "imdbRating": "7.0",
+      "imdbRating": "7.1",
       "background": "https://image.tmdb.org/t/p/w500/3tjZspkqquE24iK1rc0nvnJwdEZ.jpg"
     },
     {
@@ -201,24 +211,24 @@
       "background": "https://image.tmdb.org/t/p/w500/xsL1ig6Tyi0j9AZPt23yZprslGS.jpg"
     },
     {
+      "id": "tt33406999",
+      "type": "series",
+      "name": "GET JIRO",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33406999.jpg",
+      "description": "In a post-apocalyptic, near-future Los Angeles where culinary culture reigns supreme, the world's most powerful figures are chefs, and food is both currency and a demarcation of class, the mysterious sushi chef Jiro sets out on a quest for vengeance.",
+      "releaseInfo": "2026",
+      "imdbRating": "9.1",
+      "background": "https://image.tmdb.org/t/p/w500/li3TH09EF6JyHPVoTvub4nPOfwU.jpg"
+    },
+    {
       "id": "tt38337376",
       "type": "series",
       "name": "Did Someone Happen to Mention Me?",
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38337376.jpg",
       "description": "Gen Takasegawa, the first Japanese actor to play the lead role at London's Shakespeare\u2019s Globe Theatre, has been unable to return to Japan for some time. After two years, he finally makes his way back home, only to find out that he is suddenly and completely forgotten by the entire world.",
       "releaseInfo": "2026",
-      "imdbRating": "8.5",
+      "imdbRating": "8.4",
       "background": "https://image.tmdb.org/t/p/w500/4zNytZ6R4awYY9vFBNdENkT4hPC.jpg"
-    },
-    {
-      "id": "tt44757191",
-      "type": "series",
-      "name": "The Seven Knights of the Marronnier Kingdom",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44757191.jpg",
-      "description": "At the heart of a continent of eight kingdoms lies the Marronnier Kingdom. Its general, Baribara, has seven sons, each with a unique gift and serving as a knight commander. Bound by a single noble cause of heroically rescuing a princess someday, the brothers set out as goodwill ambassadors to the seven neighboring kingdoms. What encounters, trials, and destinies await them in these unknown lands?",
-      "releaseInfo": "2026",
-      "imdbRating": "8.0",
-      "background": "https://image.tmdb.org/t/p/w500/rYB2YdEaZKL08Bi91uZfZnCq8vv.jpg"
     },
     {
       "id": "tt48313964",
@@ -241,6 +251,26 @@
       "background": "https://image.tmdb.org/t/p/w500/mdtpJEWW1j5Ns7bIcbw1UeIdvhp.jpg"
     },
     {
+      "id": "tt47816221",
+      "type": "series",
+      "name": "The Torment",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt47816221.jpg",
+      "description": "Kama returns to her hometown and gets entangled in an old missing case. Family secrets, passions and crime reveal that the past never falls silent.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.6",
+      "background": "https://image.tmdb.org/t/p/w500/6crqt1vLWMyfXS1oKfGBM8aFyXg.jpg"
+    },
+    {
+      "id": "tt44757191",
+      "type": "series",
+      "name": "The Seven Knights of the Marronnier Kingdom",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44757191.jpg",
+      "description": "At the heart of a continent of eight kingdoms lies the Marronnier Kingdom. Its general, Baribara, has seven sons, each with a unique gift and serving as a knight commander. Bound by a single noble cause of heroically rescuing a princess someday, the brothers set out as goodwill ambassadors to the seven neighboring kingdoms. What encounters, trials, and destinies await them in these unknown lands?",
+      "releaseInfo": "2026",
+      "imdbRating": "8.0",
+      "background": "https://image.tmdb.org/t/p/w500/rYB2YdEaZKL08Bi91uZfZnCq8vv.jpg"
+    },
+    {
       "id": "tt31841438",
       "type": "series",
       "name": "I Would Rather Die",
@@ -251,24 +281,14 @@
       "background": "https://image.tmdb.org/t/p/w500/1HehlJEDVfHf9nt36Ygq8apTWQD.jpg"
     },
     {
-      "id": "tt47816221",
+      "id": "tt46658083",
       "type": "series",
-      "name": "The Torment",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt47816221.jpg",
-      "description": "Kama returns to her hometown and gets entangled in an old missing case. Family secrets, passions and crime reveal that the past never falls silent.",
+      "name": "The New Stanford Prison Experiment",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt46658083.jpg",
+      "description": "In this modern reimagining of the infamous study, 30 people enter a real prison for two weeks and shifting power dynamics expose what they're capable of.",
       "releaseInfo": "2026",
-      "imdbRating": "7.0",
-      "background": "https://image.tmdb.org/t/p/w500/6crqt1vLWMyfXS1oKfGBM8aFyXg.jpg"
-    },
-    {
-      "id": "tt41538904",
-      "type": "series",
-      "name": "LEGO ONE PIECE",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt41538904.jpg",
-      "description": "The Straw Hats hit the high seas in a two-part LEGO special! Join Luffy, Nami, Usopp and the crew on their epic journey, fully reimagined brick by brick.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.9",
-      "background": "https://image.tmdb.org/t/p/w500/hTUHZ337JzqPvRXBQ3lu0GBkOvz.jpg"
+      "imdbRating": "7.1",
+      "background": "https://image.tmdb.org/t/p/w500/heoESrHAdmPeYECs2B7R8RIqLyN.jpg"
     },
     {
       "id": "tt36743307",
@@ -279,16 +299,6 @@
       "releaseInfo": "2026",
       "imdbRating": "7.7",
       "background": "https://image.tmdb.org/t/p/w500/3JpnP8fYVb9B9FuvdGT4ZkRRYZJ.jpg"
-    },
-    {
-      "id": "tt46658083",
-      "type": "series",
-      "name": "The New Stanford Prison Experiment",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt46658083.jpg",
-      "description": "In this modern reimagining of the infamous study, 30 people enter a real prison for two weeks and shifting power dynamics expose what they're capable of.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.1",
-      "background": "https://image.tmdb.org/t/p/w500/heoESrHAdmPeYECs2B7R8RIqLyN.jpg"
     },
     {
       "id": "tt46683025",
@@ -341,16 +351,6 @@
       "background": "https://image.tmdb.org/t/p/w500/wik5FpIY4XvVR29sZGnqseLGKN8.jpg"
     },
     {
-      "id": "tt43706317",
-      "type": "series",
-      "name": "Unmasking a Monster: Aileen Wuornos",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt43706317.jpg",
-      "description": "A three-part docuseries examining the life and crimes of notorious American serial killer Aileen Wuornos, who shot and killed seven male clients while working as a prostitute in Florida in 1989 and 1990. She was arrested in 1991 and spent around 10 years on death row before being executed in 2002.",
-      "releaseInfo": "2026",
-      "imdbRating": "9.5",
-      "background": "https://image.tmdb.org/t/p/w500/fkl2huQPv3lc9vE82wAA5uhbBoD.jpg"
-    },
-    {
       "id": "tt43702035",
       "type": "series",
       "name": "Mar\u00edlia Mendon\u00e7a: All the Feels",
@@ -359,6 +359,16 @@
       "releaseInfo": "2026",
       "imdbRating": "8.0",
       "background": "https://image.tmdb.org/t/p/w500/g4XB3hmoPC75AtjsRtFhRdbDxhe.jpg"
+    },
+    {
+      "id": "tt43706317",
+      "type": "series",
+      "name": "Unmasking a Monster: Aileen Wuornos",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt43706317.jpg",
+      "description": "A three-part docuseries examining the life and crimes of notorious American serial killer Aileen Wuornos, who shot and killed seven male clients while working as a prostitute in Florida in 1989 and 1990. She was arrested in 1991 and spent around 10 years on death row before being executed in 2002.",
+      "releaseInfo": "2026",
+      "imdbRating": "9.5",
+      "background": "https://image.tmdb.org/t/p/w500/fkl2huQPv3lc9vE82wAA5uhbBoD.jpg"
     },
     {
       "id": "tt46066662",
@@ -389,16 +399,6 @@
       "releaseInfo": "2026",
       "imdbRating": "8.8",
       "background": "https://image.tmdb.org/t/p/w500/aYQDNPmBifsiNdLFrvWLT19lb6w.jpg"
-    },
-    {
-      "id": "tt39395275",
-      "type": "series",
-      "name": "Dragon Ball Super: Beerus",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39395275.jpg",
-      "description": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
-      "releaseInfo": "2026",
-      "imdbRating": "9.7",
-      "background": "https://image.tmdb.org/t/p/w500/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg"
     }
   ],
   "cacheMaxAge": 3600
