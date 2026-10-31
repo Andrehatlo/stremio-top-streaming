@@ -391,14 +391,14 @@
       "background": "https://image.tmdb.org/t/p/w500/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg"
     },
     {
-      "id": "tt19864802",
+      "id": "tt13186482",
       "type": "movie",
-      "name": "Land of Bad",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt19864802.jpg",
-      "description": "When a Delta Force special ops mission goes terribly wrong, Air Force drone pilot Reaper has 48 hours to remedy what has devolved into a wild rescue operation. With no weapons and no communication other than the drone above, the ground mission suddenly becomes a full-scale battle when the team is discovered by the enemy.",
+      "name": "Mufasa: The Lion King",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt13186482.jpg",
+      "description": "Mufasa, a cub lost and alone, meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of a group of misfits searching for their destiny.",
       "releaseInfo": "2024",
       "imdbRating": "7.3",
-      "background": "https://image.tmdb.org/t/p/w500/h3jYanWMEJq6JJsCopy1h7cT2Hs.jpg"
+      "background": "https://image.tmdb.org/t/p/w500/jbOSUAWMGzGL1L4EaUF8K6zYFo7.jpg"
     }
   ],
   "cacheMaxAge": 3600

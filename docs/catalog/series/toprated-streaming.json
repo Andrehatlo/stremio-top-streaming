@@ -41,16 +41,6 @@
       "background": "https://image.tmdb.org/t/p/w500/aVYHMW8pdzJ9qG1OGRMKyGy9xor.jpg"
     },
     {
-      "id": "tt2788316",
-      "type": "series",
-      "name": "Sh\u014dgun",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2788316.jpg",
-      "description": "In Japan in the year 1600, at the dawn of a century-defining civil war, Lord Yoshii Toranaga is fighting for his life as his enemies on the Council of Regents unite against him, when a mysterious European ship is found marooned in a nearby fishing village.",
-      "releaseInfo": "2024",
-      "imdbRating": "8.4",
-      "background": "https://image.tmdb.org/t/p/w500/7O4iVfOMQmdCSxhOg1WnzG1AgYT.jpg"
-    },
-    {
       "id": "tt27497448",
       "type": "series",
       "name": "A Knight of the Seven Kingdoms",
@@ -59,6 +49,16 @@
       "releaseInfo": "2026",
       "imdbRating": "8.4",
       "background": "https://image.tmdb.org/t/p/w500/k8yARbD9iYn2nRX2HvsopfKDN2r.jpg"
+    },
+    {
+      "id": "tt2788316",
+      "type": "series",
+      "name": "Sh\u014dgun",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt2788316.jpg",
+      "description": "In Japan in the year 1600, at the dawn of a century-defining civil war, Lord Yoshii Toranaga is fighting for his life as his enemies on the Council of Regents unite against him, when a mysterious European ship is found marooned in a nearby fishing village.",
+      "releaseInfo": "2024",
+      "imdbRating": "8.4",
+      "background": "https://image.tmdb.org/t/p/w500/7O4iVfOMQmdCSxhOg1WnzG1AgYT.jpg"
     },
     {
       "id": "tt15435876",
