@@ -11,16 +11,6 @@
       "background": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg"
     },
     {
-      "id": "tt23148340",
-      "type": "series",
-      "name": "Crystal Lake",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt23148340.jpg",
-      "description": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
-      "releaseInfo": "2026",
-      "imdbRating": "8.7",
-      "background": "https://image.tmdb.org/t/p/w500/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg"
-    },
-    {
       "id": "tt35854736",
       "type": "series",
       "name": "Avatar: Seven Havens",
@@ -31,6 +21,26 @@
       "background": "https://image.tmdb.org/t/p/w500/u62d0BPqsdv2TUDifcMmoePbHPL.jpg"
     },
     {
+      "id": "tt23148340",
+      "type": "series",
+      "name": "Crystal Lake",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt23148340.jpg",
+      "description": "Single mother Pam Voorhees has been unable to shake her grief after her young, sickly son Jason tragically drowned in the town lake almost a year before. When two strangers arrive at Pam's door digging into her past, a disturbing chain of events is set into motion, leaving the townspeople of Crystal Lake wondering: just who is Pam Voorhees?",
+      "releaseInfo": "2026",
+      "imdbRating": "8.7",
+      "background": "https://image.tmdb.org/t/p/w500/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg"
+    },
+    {
+      "id": "tt36458668",
+      "type": "series",
+      "name": "Dead-End Job",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36458668.jpg",
+      "description": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency \u2014 only to find his hustle for more money turning nightmarish.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.7",
+      "background": "https://image.tmdb.org/t/p/w500/vrDDqk9PAkIs0PQAbW5G0yhPVS3.jpg"
+    },
+    {
       "id": "tt11540908",
       "type": "series",
       "name": "Carrie",
@@ -39,6 +49,16 @@
       "releaseInfo": "2026",
       "imdbRating": "8.3",
       "background": "https://image.tmdb.org/t/p/w500/6mUMquPQBFJGqTACS3Azkwwrx8d.jpg"
+    },
+    {
+      "id": "tt26598805",
+      "type": "series",
+      "name": "Nocturne",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26598805.jpg",
+      "description": "When a victim of notorious serial killer Jurek Walter unexpectedly turns up alive, detective Jonah Lynn races against time to find the one person still missing, while his prot\u00e9g\u00e9 Saga Bauer goes undercover to get answers from the killer himself.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.2",
+      "background": "https://image.tmdb.org/t/p/w500/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg"
     },
     {
       "id": "tt42576855",
@@ -57,7 +77,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt45246384.jpg",
       "description": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
       "releaseInfo": "2026",
-      "imdbRating": "9.2",
+      "imdbRating": "9.3",
       "background": "https://image.tmdb.org/t/p/w500/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg"
     },
     {
@@ -71,24 +91,24 @@
       "background": "https://image.tmdb.org/t/p/w500/zijeb3WqqTIYJm3mmp1sb0uNGUj.jpg"
     },
     {
-      "id": "tt21097264",
-      "type": "series",
-      "name": "East of Eden",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt21097264.jpg",
-      "description": "In the early 1900s, a fiercely independent woman drives a rift between two brothers, igniting a saga that unfolds across two generations.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.0",
-      "background": "https://image.tmdb.org/t/p/w500/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg"
-    },
-    {
       "id": "tt39328047",
       "type": "series",
       "name": "Doctor X: Mafia in White",
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39328047.jpg",
       "description": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives \u2014 taking on seemingly impossible cases amid fierce opposition.",
       "releaseInfo": "2026",
-      "imdbRating": "9.3",
+      "imdbRating": "9.4",
       "background": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg"
+    },
+    {
+      "id": "tt39980704",
+      "type": "series",
+      "name": "YAGA",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39980704.jpg",
+      "description": "While a private investigator probes the disappearance of the young heir to a powerful fishery, he finds himself at odds with an apprehensive local detective, a charismatic university professor with a taste for younger men, and a labyrinth of enigmatic suspects, secret lives, and ancient magic.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.3",
+      "background": "https://image.tmdb.org/t/p/w500/kp8xgZ8SrikHQrPn2lC3hb50KD5.jpg"
     },
     {
       "id": "tt35934755",
@@ -107,18 +127,8 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37737331.jpg",
       "description": "A corporate heir with an artificial heart meets a woman who's literally electric. They strike a deal that makes his heart beat \u2014 in more ways than one.",
       "releaseInfo": "2026",
-      "imdbRating": "8.8",
+      "imdbRating": "8.7",
       "background": "https://image.tmdb.org/t/p/w500/ecRrKGXfflZmDZBD4irdkybClT.jpg"
-    },
-    {
-      "id": "tt39980704",
-      "type": "series",
-      "name": "YAGA",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39980704.jpg",
-      "description": "While a private investigator probes the disappearance of the young heir to a powerful fishery, he finds himself at odds with an apprehensive local detective, a charismatic university professor with a taste for younger men, and a labyrinth of enigmatic suspects, secret lives, and ancient magic.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.2",
-      "background": "https://image.tmdb.org/t/p/w500/kp8xgZ8SrikHQrPn2lC3hb50KD5.jpg"
     },
     {
       "id": "tt49692512",
@@ -127,7 +137,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt49692512.jpg",
       "description": "The Table: K-Chef 2026 brings together Korea's top chefs to compete for the title of the country's best chef. Mysterious world-renowned chef Chris K., also known as Kang Han, Song-yi, who is fighting to save her restaurant, perfectionist star chef Woo-jin, and chefs with stories of their own face off in a fierce culinary battle. More than a competition, they find comfort in food and one another.",
       "releaseInfo": "2026",
-      "imdbRating": "7.7",
+      "imdbRating": "8.2",
       "background": "https://image.tmdb.org/t/p/w500/uaMjtALuvZC7dGkYllGKKWEWW1J.jpg"
     },
     {
@@ -137,18 +147,8 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39201866.jpg",
       "description": "Hoping for freedom, Gyeongseong's top pickpocket infiltrates the Japanese colonial government to steal secrets \u2014 only to fall for her target's son.",
       "releaseInfo": "2026",
-      "imdbRating": "9.2",
+      "imdbRating": "9.3",
       "background": "https://image.tmdb.org/t/p/w500/bZHEU42QynnMrHUWK1Hhvj2cdPA.jpg"
-    },
-    {
-      "id": "tt36064406",
-      "type": "series",
-      "name": "Coven Academy",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36064406.jpg",
-      "description": "A coven protects their magic school from a dark fate.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.6",
-      "background": "https://image.tmdb.org/t/p/w500/f4R4YGeMQrXEu6jm3oAbSPeGC3M.jpg"
     },
     {
       "id": "tt39751377",
@@ -159,6 +159,16 @@
       "releaseInfo": "2026",
       "imdbRating": "7.2",
       "background": "https://image.tmdb.org/t/p/w500/qgXCl86fh4EgaQlMpGQYSes1n2u.jpg"
+    },
+    {
+      "id": "tt47657141",
+      "type": "series",
+      "name": "The Perfect Lie",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt47657141.jpg",
+      "description": "After a heart-fluttering date, Joonho, a heart surgeon with a perfect smile, and Jisun, a free-spirited teacher-librarian, share a special night. The next day, they meet at a police station with completely different memories. A shocking polygraph result turns their lives upside down.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.5",
+      "background": "https://image.tmdb.org/t/p/w500/thXJkiBByDitV7iFSv1hU1sg7ij.jpg"
     },
     {
       "id": "tt38937897",
@@ -187,7 +197,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt42220724.jpg",
       "description": "Teens struggle to run a local pizzeria while juggling school, a manic boss and minimum wage in this series based on the hit social media shorts.",
       "releaseInfo": "2026",
-      "imdbRating": "8.3",
+      "imdbRating": "7.9",
       "background": "https://image.tmdb.org/t/p/w500/iTVhDUbzUFUJ18jrcYM4rw7qGk.jpg"
     },
     {
@@ -197,18 +207,8 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35726020.jpg",
       "description": "Jackie Price has been living a wealthy, luxurious life for the past 20 years after escaping a dangerous past as an international cocaine dealer. But just as life begins to feel a little boring, she discovers that The Seven Demons, a group of the world\u2019s most terrifying hitmen, have been hired to kill her.",
       "releaseInfo": "2026",
-      "imdbRating": "7.1",
+      "imdbRating": "7.2",
       "background": "https://image.tmdb.org/t/p/w500/3tjZspkqquE24iK1rc0nvnJwdEZ.jpg"
-    },
-    {
-      "id": "tt44941753",
-      "type": "series",
-      "name": "The One About Matthew Perry",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44941753.jpg",
-      "description": "Told through intimate testimonies from close family and friends, this documentary event reveals the real Matthew Perry\u2014generous, funny, vulnerable, larger than life\u2014and the battles he fought to become the man behind the icon. A raw record of a life lived in full, and the honesty that became his greatest legacy.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.6",
-      "background": "https://image.tmdb.org/t/p/w500/zDSjGvywwyWUqnMIpYYwFDyA7Az.jpg"
     },
     {
       "id": "tt49250618",
@@ -221,26 +221,6 @@
       "background": "https://image.tmdb.org/t/p/w500/zp5lT15wR0cfCYcR12DXcVNsrnh.jpg"
     },
     {
-      "id": "tt47657141",
-      "type": "series",
-      "name": "The Perfect Lie",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt47657141.jpg",
-      "description": "After a heart-fluttering date, Joonho, a heart surgeon with a perfect smile, and Jisun, a free-spirited teacher-librarian, share a special night. The next day, they meet at a police station with completely different memories. A shocking polygraph result turns their lives upside down.",
-      "releaseInfo": "2026",
-      "imdbRating": "10.0",
-      "background": "https://image.tmdb.org/t/p/w500/thXJkiBByDitV7iFSv1hU1sg7ij.jpg"
-    },
-    {
-      "id": "tt35673115",
-      "type": "series",
-      "name": "Hollywood Arts",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35673115.jpg",
-      "description": "Class is in session at Hollywood Arts! Self-proclaimed icon Trina Vega returns to steer gifted teens toward stardom, status and hilarious havoc.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.3",
-      "background": "https://image.tmdb.org/t/p/w500/xsL1ig6Tyi0j9AZPt23yZprslGS.jpg"
-    },
-    {
       "id": "tt47816221",
       "type": "series",
       "name": "The Torment",
@@ -251,14 +231,24 @@
       "background": "https://image.tmdb.org/t/p/w500/6crqt1vLWMyfXS1oKfGBM8aFyXg.jpg"
     },
     {
-      "id": "tt33406999",
+      "id": "tt35673115",
       "type": "series",
-      "name": "GET JIRO",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33406999.jpg",
-      "description": "In a post-apocalyptic, near-future Los Angeles where culinary culture reigns supreme, the world's most powerful figures are chefs, and food is both currency and a demarcation of class, the mysterious sushi chef Jiro sets out on a quest for vengeance.",
+      "name": "Hollywood Arts",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35673115.jpg",
+      "description": "Class is in session at Hollywood Arts! Self-proclaimed icon Trina Vega returns to steer gifted teens toward stardom, status and hilarious havoc.",
       "releaseInfo": "2026",
-      "imdbRating": "9.1",
-      "background": "https://image.tmdb.org/t/p/w500/li3TH09EF6JyHPVoTvub4nPOfwU.jpg"
+      "imdbRating": "7.4",
+      "background": "https://image.tmdb.org/t/p/w500/xsL1ig6Tyi0j9AZPt23yZprslGS.jpg"
+    },
+    {
+      "id": "tt44757191",
+      "type": "series",
+      "name": "The Seven Knights of the Marronnier Kingdom",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44757191.jpg",
+      "description": "At the heart of a continent of eight kingdoms lies the Marronnier Kingdom. Its general, Baribara, has seven sons, each with a unique gift and serving as a knight commander. Bound by a single noble cause of heroically rescuing a princess someday, the brothers set out as goodwill ambassadors to the seven neighboring kingdoms. What encounters, trials, and destinies await them in these unknown lands?",
+      "releaseInfo": "2026",
+      "imdbRating": "8.0",
+      "background": "https://image.tmdb.org/t/p/w500/rYB2YdEaZKL08Bi91uZfZnCq8vv.jpg"
     },
     {
       "id": "tt48313964",
@@ -287,8 +277,18 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38337376.jpg",
       "description": "Gen Takasegawa, the first Japanese actor to play the lead role at London's Shakespeare\u2019s Globe Theatre, has been unable to return to Japan for some time. After two years, he finally makes his way back home, only to find out that he is suddenly and completely forgotten by the entire world.",
       "releaseInfo": "2026",
-      "imdbRating": "8.4",
+      "imdbRating": "8.0",
       "background": "https://image.tmdb.org/t/p/w500/4zNytZ6R4awYY9vFBNdENkT4hPC.jpg"
+    },
+    {
+      "id": "tt33406999",
+      "type": "series",
+      "name": "GET JIRO",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33406999.jpg",
+      "description": "In a post-apocalyptic, near-future Los Angeles where culinary culture reigns supreme, the world's most powerful figures are chefs, and food is both currency and a demarcation of class, the mysterious sushi chef Jiro sets out on a quest for vengeance.",
+      "releaseInfo": "2026",
+      "imdbRating": "9.1",
+      "background": "https://image.tmdb.org/t/p/w500/li3TH09EF6JyHPVoTvub4nPOfwU.jpg"
     },
     {
       "id": "tt31841438",
@@ -297,18 +297,8 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31841438.jpg",
       "description": "One cold night, misfit Archie gets bitten by a zombie and after briefly considering ending his life, he decides he's going to figure out what the hell is happening to his body. So, with the help of his only friend and his lifelong crush, Archie sets out to find a cure before he turns into a full-blown monster and kills everyone.",
       "releaseInfo": "2026",
-      "imdbRating": "8.4",
+      "imdbRating": "8.3",
       "background": "https://image.tmdb.org/t/p/w500/1HehlJEDVfHf9nt36Ygq8apTWQD.jpg"
-    },
-    {
-      "id": "tt44757191",
-      "type": "series",
-      "name": "The Seven Knights of the Marronnier Kingdom",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44757191.jpg",
-      "description": "At the heart of a continent of eight kingdoms lies the Marronnier Kingdom. Its general, Baribara, has seven sons, each with a unique gift and serving as a knight commander. Bound by a single noble cause of heroically rescuing a princess someday, the brothers set out as goodwill ambassadors to the seven neighboring kingdoms. What encounters, trials, and destinies await them in these unknown lands?",
-      "releaseInfo": "2026",
-      "imdbRating": "8.0",
-      "background": "https://image.tmdb.org/t/p/w500/rYB2YdEaZKL08Bi91uZfZnCq8vv.jpg"
     },
     {
       "id": "tt36743307",
@@ -321,16 +311,6 @@
       "background": "https://image.tmdb.org/t/p/w500/3JpnP8fYVb9B9FuvdGT4ZkRRYZJ.jpg"
     },
     {
-      "id": "tt46683025",
-      "type": "series",
-      "name": "The Pet Cemetery Murders: A Ghost Story",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt46683025.jpg",
-      "description": "The re-opening of a mysterious 1985 cold case murder in Louisiana unearths a haunting history of bloodshed and long-buried trauma.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.2",
-      "background": "https://image.tmdb.org/t/p/w500/aSD3YkLuTBnoYgyTCXtZRAxezNP.jpg"
-    },
-    {
       "id": "tt46658083",
       "type": "series",
       "name": "The New Stanford Prison Experiment",
@@ -339,6 +319,16 @@
       "releaseInfo": "2026",
       "imdbRating": "7.1",
       "background": "https://image.tmdb.org/t/p/w500/heoESrHAdmPeYECs2B7R8RIqLyN.jpg"
+    },
+    {
+      "id": "tt46683025",
+      "type": "series",
+      "name": "The Pet Cemetery Murders: A Ghost Story",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt46683025.jpg",
+      "description": "The re-opening of a mysterious 1985 cold case murder in Louisiana unearths a haunting history of bloodshed and long-buried trauma.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.2",
+      "background": "https://image.tmdb.org/t/p/w500/aSD3YkLuTBnoYgyTCXtZRAxezNP.jpg"
     },
     {
       "id": "tt38674953",
@@ -381,16 +371,6 @@
       "background": "https://image.tmdb.org/t/p/w500/g4XB3hmoPC75AtjsRtFhRdbDxhe.jpg"
     },
     {
-      "id": "tt20737440",
-      "type": "series",
-      "name": "Sam and Colby: Paranormal Investigators",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt20737440.jpg",
-      "description": "Best friends Sam and Colby visit some of the world\u2019s most haunted locations in search of paranormal evidence, trying to answer one question: Are ghosts real?",
-      "releaseInfo": "2026",
-      "imdbRating": "10.0",
-      "background": "https://image.tmdb.org/t/p/w500/htpwxP4F3Zi3eHRHugWCz1KkKIO.jpg"
-    },
-    {
       "id": "tt46066662",
       "type": "series",
       "name": "The Serial Killer Connection",
@@ -399,6 +379,26 @@
       "releaseInfo": "2026",
       "imdbRating": "7.5",
       "background": "https://image.tmdb.org/t/p/w500/2QVTk55dw9tMUHDlG4027cOTNOv.jpg"
+    },
+    {
+      "id": "tt47730406",
+      "type": "series",
+      "name": "Corregidora: The Darkest Night in Mexican Soccer",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt47730406.jpg",
+      "description": "Revisits the events of March 5, 2022, during the match between Quer\u00e9taro and Atlas, reconstructing what unfolded and examining its aftermath, the conflicting narratives surrounding the case, and the questions that, four years later, remain unresolved.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.8",
+      "background": "https://image.tmdb.org/t/p/w500/aYQDNPmBifsiNdLFrvWLT19lb6w.jpg"
+    },
+    {
+      "id": "tt39395275",
+      "type": "series",
+      "name": "Dragon Ball Super: Beerus",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39395275.jpg",
+      "description": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
+      "releaseInfo": "2026",
+      "imdbRating": "9.7",
+      "background": "https://image.tmdb.org/t/p/w500/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg"
     }
   ],
   "cacheMaxAge": 3600

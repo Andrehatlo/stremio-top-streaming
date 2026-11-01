@@ -41,16 +41,6 @@
       "background": "https://image.tmdb.org/t/p/w500/aVYHMW8pdzJ9qG1OGRMKyGy9xor.jpg"
     },
     {
-      "id": "tt27497448",
-      "type": "series",
-      "name": "A Knight of the Seven Kingdoms",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27497448.jpg",
-      "description": "A century before the events of Game of Thrones, two unlikely heroes wandered Westeros: a young, naive but courageous knight, Ser Duncan the Tall, and his diminutive squire, Egg. Set in an age when the Targaryen line still holds the Iron Throne and the last dragon has not yet passed from living memory, great destinies, powerful foes, and dangerous exploits await these improbable and incomparable friends.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.4",
-      "background": "https://image.tmdb.org/t/p/w500/k8yARbD9iYn2nRX2HvsopfKDN2r.jpg"
-    },
-    {
       "id": "tt2788316",
       "type": "series",
       "name": "Sh\u014dgun",
@@ -59,6 +49,16 @@
       "releaseInfo": "2024",
       "imdbRating": "8.4",
       "background": "https://image.tmdb.org/t/p/w500/7O4iVfOMQmdCSxhOg1WnzG1AgYT.jpg"
+    },
+    {
+      "id": "tt27497448",
+      "type": "series",
+      "name": "A Knight of the Seven Kingdoms",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27497448.jpg",
+      "description": "A century before the events of Game of Thrones, two unlikely heroes wandered Westeros: a young, naive but courageous knight, Ser Duncan the Tall, and his diminutive squire, Egg. Set in an age when the Targaryen line still holds the Iron Throne and the last dragon has not yet passed from living memory, great destinies, powerful foes, and dangerous exploits await these improbable and incomparable friends.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.4",
+      "background": "https://image.tmdb.org/t/p/w500/k8yARbD9iYn2nRX2HvsopfKDN2r.jpg"
     },
     {
       "id": "tt15435876",
@@ -71,16 +71,6 @@
       "background": "https://image.tmdb.org/t/p/w500/vOWcqC4oDQws1doDWLO7d3dh5qc.jpg"
     },
     {
-      "id": "tt24053860",
-      "type": "series",
-      "name": "The Day of the Jackal",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt24053860.jpg",
-      "description": "An unrivalled and highly elusive lone assassin, the Jackal, makes his living carrying out hits for the highest fee. But following his latest kill, he meets his match in a tenacious British intelligence officer who starts to track down the Jackal in a thrilling cat-and-mouse chase across Europe, leaving destruction in its wake.",
-      "releaseInfo": "2024",
-      "imdbRating": "8.2",
-      "background": "https://image.tmdb.org/t/p/w500/tYLecM3WSEjlkKhkGiH5G68Dprm.jpg"
-    },
-    {
       "id": "tt19244304",
       "type": "series",
       "name": "IT: Welcome to Derry",
@@ -89,6 +79,16 @@
       "releaseInfo": "2025",
       "imdbRating": "8.2",
       "background": "https://image.tmdb.org/t/p/w500/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg"
+    },
+    {
+      "id": "tt24053860",
+      "type": "series",
+      "name": "The Day of the Jackal",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt24053860.jpg",
+      "description": "An unrivalled and highly elusive lone assassin, the Jackal, makes his living carrying out hits for the highest fee. But following his latest kill, he meets his match in a tenacious British intelligence officer who starts to track down the Jackal in a thrilling cat-and-mouse chase across Europe, leaving destruction in its wake.",
+      "releaseInfo": "2024",
+      "imdbRating": "8.2",
+      "background": "https://image.tmdb.org/t/p/w500/tYLecM3WSEjlkKhkGiH5G68Dprm.jpg"
     },
     {
       "id": "tt18923754",

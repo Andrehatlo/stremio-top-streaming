@@ -7,7 +7,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37180686.jpg",
       "description": "A young race car mechanic fakes an engagement with racing's most scandalous star - officially for his reputation, secretly for her own shot behind the wheel. But soon the lie threatens to destroy everything - including what's already become so much more than just a deal.",
       "releaseInfo": "2026",
-      "imdbRating": "7.9",
+      "imdbRating": "7.7",
       "background": "https://image.tmdb.org/t/p/w500/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg"
     },
     {
@@ -17,7 +17,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt28498219.jpg",
       "description": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot\u2014and must save the world.",
       "releaseInfo": "2026",
-      "imdbRating": "7.7",
+      "imdbRating": "7.6",
       "background": "https://image.tmdb.org/t/p/w500/aHhHRz6nOpwkqJs5ASeRGAdK2dt.jpg"
     },
     {
@@ -27,18 +27,8 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37961714.jpg",
       "description": "Two estranged brothers struggle to survive Hurricane Otis in Acapulco, where their bond and courage turn adversity into hope.",
       "releaseInfo": "2026",
-      "imdbRating": "7.4",
+      "imdbRating": "7.5",
       "background": "https://image.tmdb.org/t/p/w500/chZa8Jd9kSDj11bekGjwwotFPEw.jpg"
-    },
-    {
-      "id": "tt38793125",
-      "type": "movie",
-      "name": "Collision Course",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38793125.jpg",
-      "description": "Spain, 2013. After robbing a bank, a getaway crash reveals the hidden side of each thief, exposing betrayals and lies that began long before the heist.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.6",
-      "background": "https://image.tmdb.org/t/p/w500/s2eAK0uiODjlNUSIiOBwdp3at2u.jpg"
     },
     {
       "id": "tt6262770",
@@ -51,6 +41,16 @@
       "background": "https://image.tmdb.org/t/p/w500/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg"
     },
     {
+      "id": "tt38999812",
+      "type": "movie",
+      "name": "The Birthday\u200b Gift\u200b",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38999812.jpg",
+      "description": "Single mother Marlene Frischmann organizes a birthday party for her son Theo at her brother's chic country villa, which quickly spirals into family drama, world-view quarrels, and chaos.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.7",
+      "background": "https://image.tmdb.org/t/p/w500/jqGFILLsEDwsLteNDQextojsYFV.jpg"
+    },
+    {
       "id": "tt47657999",
       "type": "movie",
       "name": "Reporting Live",
@@ -61,23 +61,13 @@
       "background": "https://image.tmdb.org/t/p/w500/xVabS4lTi6IMscr2FOucxydE6ZD.jpg"
     },
     {
-      "id": "tt44090278",
-      "type": "movie",
-      "name": "Baththa",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44090278.jpg",
-      "description": "In 1986 Madras, a timid eight-year-old boy accidentally traps a feared gangster inside a deserted school toilet. As the gangster is forced to confront hunger, loneliness and his own vulnerability, an unlikely bond begins to grow between the two, changing their lives forever.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.5",
-      "background": "https://image.tmdb.org/t/p/w500/7wHBYs8HHmTGe4nXLpMEAoDSK2o.jpg"
-    },
-    {
       "id": "tt49317723",
       "type": "movie",
       "name": "Hot Wheels Let's Race: Attack of the T-Rex",
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt49317723.jpg",
       "description": "When a giant T-Rex threatens Hot Wheels City, it's up to Coop and his friends to race to the rescue and save the day.",
       "releaseInfo": "2026",
-      "imdbRating": "7.5",
+      "imdbRating": "7.6",
       "background": "https://image.tmdb.org/t/p/w500/iIc0OkYnf06kv5Zp0IYVwuvffgh.jpg"
     },
     {
@@ -107,7 +97,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt43665190.jpg",
       "description": "After unexpectedly dying and being sent to Hell, Stewie and Brian\u2019s constant nagging leads The Devil to quit, passing control of Hell to them.",
       "releaseInfo": "2026",
-      "imdbRating": "7.3",
+      "imdbRating": "7.4",
       "background": "https://image.tmdb.org/t/p/w500/4IuQIUgqyLpbD7R7zmPp9A08rsQ.jpg"
     },
     {
@@ -169,6 +159,16 @@
       "releaseInfo": "2026",
       "imdbRating": "7.5",
       "background": "https://image.tmdb.org/t/p/w500/t4dw7pBmcs0JkB8h4CLSix88EEM.jpg"
+    },
+    {
+      "id": "tt37405791",
+      "type": "movie",
+      "name": "Hanging by a Wire",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37405791.jpg",
+      "description": "On a Tuesday morning in August 2023, a group of kids set off for school, climbing into a makeshift cable car for the journey across a mountain pass in northwest Pakistan. What happened next would make headlines around the world. Suddenly, 900 feet above the ground, two cables snapped, putting the teenagers in mortal danger.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.2",
+      "background": "https://image.tmdb.org/t/p/w500/duZIrDULyk3PBIxoUmKXm3uqlBv.jpg"
     },
     {
       "id": "tt27558029",
