@@ -231,16 +231,6 @@
       "background": "https://image.tmdb.org/t/p/w500/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg"
     },
     {
-      "id": "tt23289160",
-      "type": "movie",
-      "name": "Godzilla Minus One",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt23289160.jpg",
-      "description": "In postwar Japan, Godzilla brings new devastation to an already scorched landscape. With no military intervention or government help in sight, the survivors must join together in the face of despair and fight back against an unrelenting horror.",
-      "releaseInfo": "2023",
-      "imdbRating": "7.6",
-      "background": "https://image.tmdb.org/t/p/w500/2E2WTX0TJEflAged6kzErwqX1kt.jpg"
-    },
-    {
       "id": "tt1312221",
       "type": "movie",
       "name": "Frankenstein",
@@ -389,6 +379,16 @@
       "releaseInfo": "2025",
       "imdbRating": "7.3",
       "background": "https://image.tmdb.org/t/p/w500/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg"
+    },
+    {
+      "id": "tt19864802",
+      "type": "movie",
+      "name": "Land of Bad",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt19864802.jpg",
+      "description": "When a Delta Force special ops mission goes terribly wrong, Air Force drone pilot Reaper has 48 hours to remedy what has devolved into a wild rescue operation. With no weapons and no communication other than the drone above, the ground mission suddenly becomes a full-scale battle when the team is discovered by the enemy.",
+      "releaseInfo": "2024",
+      "imdbRating": "7.3",
+      "background": "https://image.tmdb.org/t/p/w500/h3jYanWMEJq6JJsCopy1h7cT2Hs.jpg"
     },
     {
       "id": "tt13186482",

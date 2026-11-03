@@ -7,7 +7,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37180686.jpg",
       "description": "A young mechanic fakes an engagement with racing's most scandalous star \u2014 officially for his reputation, secretly for her own shot behind the wheel. But soon the lie threatens to destroy everything \u2014 including what's already become so much more than just a deal.",
       "releaseInfo": "2026",
-      "imdbRating": "7.6",
+      "imdbRating": "7.7",
       "background": "https://image.tmdb.org/t/p/w500/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg"
     },
     {
@@ -31,6 +31,16 @@
       "background": "https://image.tmdb.org/t/p/w500/chZa8Jd9kSDj11bekGjwwotFPEw.jpg"
     },
     {
+      "id": "tt38999812",
+      "type": "movie",
+      "name": "The Birthday\u200b Gift\u200b",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38999812.jpg",
+      "description": "Single mother Marlene Frischmann organizes a birthday party for her son Theo at her brother's chic country villa, which quickly spirals into family drama, world-view quarrels, and chaos.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.5",
+      "background": "https://image.tmdb.org/t/p/w500/jqGFILLsEDwsLteNDQextojsYFV.jpg"
+    },
+    {
       "id": "tt6262770",
       "type": "movie",
       "name": "Tenzing",
@@ -39,16 +49,6 @@
       "releaseInfo": "2026",
       "imdbRating": "8.3",
       "background": "https://image.tmdb.org/t/p/w500/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg"
-    },
-    {
-      "id": "tt38999812",
-      "type": "movie",
-      "name": "The Birthday\u200b Gift\u200b",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38999812.jpg",
-      "description": "Single mother Marlene Frischmann organizes a birthday party for her son Theo at her brother's chic country villa, which quickly spirals into family drama, world-view quarrels, and chaos.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.1",
-      "background": "https://image.tmdb.org/t/p/w500/jqGFILLsEDwsLteNDQextojsYFV.jpg"
     },
     {
       "id": "tt47657999",
@@ -87,7 +87,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt43665190.jpg",
       "description": "After unexpectedly dying and being sent to Hell, Stewie and Brian\u2019s constant nagging leads The Devil to quit, passing control of Hell to them.",
       "releaseInfo": "2026",
-      "imdbRating": "7.4",
+      "imdbRating": "7.3",
       "background": "https://image.tmdb.org/t/p/w500/4IuQIUgqyLpbD7R7zmPp9A08rsQ.jpg"
     },
     {
@@ -141,13 +141,33 @@
       "background": "https://image.tmdb.org/t/p/w500/t4dw7pBmcs0JkB8h4CLSix88EEM.jpg"
     },
     {
+      "id": "tt14179106",
+      "type": "movie",
+      "name": "Sumukhi Suresh: Hoemonal",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt14179106.jpg",
+      "description": "Singlehood, relationships with parents and facing taboos \u2014 Sumukhi Suresh doesn't hold back as she tackles all this and more in her comedy special.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.5",
+      "background": "https://image.tmdb.org/t/p/w500/3zmfnrpjZDz9sSglPzpPDLa21KS.jpg"
+    },
+    {
+      "id": "tt50245863",
+      "type": "movie",
+      "name": "Instadocs: Jane Doe v. Cornell",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt50245863.jpg",
+      "description": "Instadocs goes inside the rape investigation and Jane Doe lawsuit at Cornell University, with the student journalists at the forefront of the story.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.0",
+      "background": "https://image.tmdb.org/t/p/w500/7lSCZqdOhjsCI1BqZMUr8eNOOl5.jpg"
+    },
+    {
       "id": "tt37405791",
       "type": "movie",
       "name": "Hanging by a Wire",
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37405791.jpg",
       "description": "On a Tuesday morning in August 2023, a group of kids set off for school, climbing into a makeshift cable car for the journey across a mountain pass in northwest Pakistan. What happened next would make headlines around the world. Suddenly, 900 feet above the ground, two cables snapped, putting the teenagers in mortal danger.",
       "releaseInfo": "2026",
-      "imdbRating": "7.2",
+      "imdbRating": "7.1",
       "background": "https://image.tmdb.org/t/p/w500/duZIrDULyk3PBIxoUmKXm3uqlBv.jpg"
     },
     {
@@ -159,6 +179,16 @@
       "releaseInfo": "2026",
       "imdbRating": "7.0",
       "background": "https://image.tmdb.org/t/p/w500/9DyaSMQ6W3NvJ9BYTV2piiAXlCX.jpg"
+    },
+    {
+      "id": "tt9174288",
+      "type": "movie",
+      "name": "Let's Have Kids!",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt9174288.jpg",
+      "description": "Two best friends, Emma and Phoebe, decide to get pregnant simultaneously to navigate motherhood together, but their friendship is tested when only one of them conceives.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.1",
+      "background": "https://image.tmdb.org/t/p/w500/ciHBHFWAUn9tXNpm5NfDOkcgcMx.jpg"
     },
     {
       "id": "tt34224950",
