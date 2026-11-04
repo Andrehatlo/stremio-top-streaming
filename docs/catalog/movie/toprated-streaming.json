@@ -261,6 +261,16 @@
       "background": "https://image.tmdb.org/t/p/w500/xthXNYltOOm80vW5Kxjzxx5gvQ6.jpg"
     },
     {
+      "id": "tt31170389",
+      "type": "movie",
+      "name": "Evil Dead Burn",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31170389.jpg",
+      "description": "After her husband's abrupt death, Alice seeks solace with his remaining family \u2014 descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.6",
+      "background": "https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg"
+    },
+    {
       "id": "tt6263850",
       "type": "movie",
       "name": "Deadpool & Wolverine",
@@ -389,16 +399,6 @@
       "releaseInfo": "2024",
       "imdbRating": "7.3",
       "background": "https://image.tmdb.org/t/p/w500/h3jYanWMEJq6JJsCopy1h7cT2Hs.jpg"
-    },
-    {
-      "id": "tt13186482",
-      "type": "movie",
-      "name": "Mufasa: The Lion King",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt13186482.jpg",
-      "description": "Mufasa, a cub lost and alone, meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of a group of misfits searching for their destiny.",
-      "releaseInfo": "2024",
-      "imdbRating": "7.3",
-      "background": "https://image.tmdb.org/t/p/w500/jbOSUAWMGzGL1L4EaUF8K6zYFo7.jpg"
     }
   ],
   "cacheMaxAge": 3600
