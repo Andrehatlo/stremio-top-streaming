@@ -241,16 +241,6 @@
       "background": "https://image.tmdb.org/t/p/w500/g4JtvGlQO7DByTI6frUobqvSL3R.jpg"
     },
     {
-      "id": "tt18259086",
-      "type": "movie",
-      "name": "Sonic the Hedgehog 3",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt18259086.jpg",
-      "description": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.",
-      "releaseInfo": "2024",
-      "imdbRating": "7.6",
-      "background": "https://image.tmdb.org/t/p/w500/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg"
-    },
-    {
       "id": "tt29567915",
       "type": "movie",
       "name": "Nuremberg",
@@ -259,6 +249,16 @@
       "releaseInfo": "2025",
       "imdbRating": "7.6",
       "background": "https://image.tmdb.org/t/p/w500/xthXNYltOOm80vW5Kxjzxx5gvQ6.jpg"
+    },
+    {
+      "id": "tt18259086",
+      "type": "movie",
+      "name": "Sonic the Hedgehog 3",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt18259086.jpg",
+      "description": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.",
+      "releaseInfo": "2024",
+      "imdbRating": "7.6",
+      "background": "https://image.tmdb.org/t/p/w500/d8Ryb8AunYAuycVKDp5HpdWPKgC.jpg"
     },
     {
       "id": "tt31170389",
