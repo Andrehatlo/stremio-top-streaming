@@ -7,7 +7,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37803364.jpg",
       "description": "A laid-off worker and his wife cross paths with a documentary filmmaker and her spouse and confront their hidden desires.",
       "releaseInfo": "2026",
-      "imdbRating": "7.5",
+      "imdbRating": "7.6",
       "background": "https://image.tmdb.org/t/p/w500/1ERGPNiKtnEcsvJS1ywsmqmcIDO.jpg"
     },
     {
@@ -17,18 +17,8 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39400541.jpg",
       "description": "Given a year to live, frugal 40-year-old Yui finally lets herself spend: \"buying\" nightclub host Sena. What begins as a contract takes an unexpected turn.",
       "releaseInfo": "2026",
-      "imdbRating": "7.5",
+      "imdbRating": "7.6",
       "background": "https://image.tmdb.org/t/p/w500/fez7kLyGzpowduJapTFZZ1feCS0.jpg"
-    },
-    {
-      "id": "tt38515310",
-      "type": "movie",
-      "name": "A Dog's Perfect Christmas",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38515310.jpg",
-      "description": "When a medical emergency pulls the Goss family apart, determined dog Winstead will do all he can to bring his humans back together before Christmas Eve.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.1",
-      "background": "https://image.tmdb.org/t/p/w500/zvsNAohDHRWcGvbPSD7r3WojpKb.jpg"
     },
     {
       "id": "tt37287335",
@@ -41,24 +31,14 @@
       "background": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg"
     },
     {
-      "id": "tt26657236",
+      "id": "tt27419466",
       "type": "movie",
-      "name": "Backrooms",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26657236.jpg",
-      "description": "A strange doorway appears in the basement of a furniture showroom.",
+      "name": "Moana",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27419466.jpg",
+      "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
       "releaseInfo": "2026",
-      "imdbRating": "7.0",
-      "background": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg"
-    },
-    {
-      "id": "tt29355505",
-      "type": "movie",
-      "name": "Toy Story 5",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt29355505.jpg",
-      "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.3",
-      "background": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg"
+      "imdbRating": "7.5",
+      "background": "https://image.tmdb.org/t/p/w500/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg"
     },
     {
       "id": "tt18259538",
@@ -71,46 +51,6 @@
       "background": "https://image.tmdb.org/t/p/w500/3sgnSfNT27Bx5O5ukr7B26mhEQq.jpg"
     },
     {
-      "id": "tt31170389",
-      "type": "movie",
-      "name": "Evil Dead Burn",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31170389.jpg",
-      "description": "After her husband's abrupt death, Alice seeks solace with his remaining family \u2014 descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.6",
-      "background": "https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg"
-    },
-    {
-      "id": "tt27419466",
-      "type": "movie",
-      "name": "Moana",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt27419466.jpg",
-      "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.5",
-      "background": "https://image.tmdb.org/t/p/w500/gaet1xQ2nxrG0V1Ep9T20ZMNEIC.jpg"
-    },
-    {
-      "id": "tt28498219",
-      "type": "movie",
-      "name": "Matchbox the Movie",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt28498219.jpg",
-      "description": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot\u2014and must save the world.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.6",
-      "background": "https://image.tmdb.org/t/p/w500/aHhHRz6nOpwkqJs5ASeRGAdK2dt.jpg"
-    },
-    {
-      "id": "tt32890033",
-      "type": "movie",
-      "name": "Minions & Monsters",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32890033.jpg",
-      "description": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.6",
-      "background": "https://image.tmdb.org/t/p/w500/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg"
-    },
-    {
       "id": "tt12042730",
       "type": "movie",
       "name": "Project Hail Mary",
@@ -121,24 +61,34 @@
       "background": "https://image.tmdb.org/t/p/w500/iOb2fjXLbpJgyQXe46n1WtGCnaa.jpg"
     },
     {
-      "id": "tt6262770",
+      "id": "tt36983905",
       "type": "movie",
-      "name": "Tenzing",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6262770.jpg",
-      "description": "A determined man embarks on a high-stakes quest\u2014and defies seemingly impossible odds\u2014to fulfill his dream of being the first to reach the summit of Mount Everest.",
+      "name": "The Uprising",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36983905.jpg",
+      "description": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King\u2019s might in a desperate fight for justice and survival.",
       "releaseInfo": "2026",
-      "imdbRating": "8.3",
-      "background": "https://image.tmdb.org/t/p/w500/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg"
+      "imdbRating": "7.8",
+      "background": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg"
     },
     {
-      "id": "tt6262770",
+      "id": "tt31170389",
       "type": "movie",
-      "name": "Tenzing",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6262770.jpg",
-      "description": "A determined man embarks on a high-stakes quest\u2014and defies seemingly impossible odds\u2014to fulfill his dream of being the first to reach the summit of Mount Everest.",
+      "name": "Evil Dead Burn",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31170389.jpg",
+      "description": "After her husband's abrupt death, Alice seeks solace with his remaining family \u2014 descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
       "releaseInfo": "2026",
-      "imdbRating": "8.3",
-      "background": "https://image.tmdb.org/t/p/w500/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg"
+      "imdbRating": "7.6",
+      "background": "https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg"
+    },
+    {
+      "id": "tt33296751",
+      "type": "movie",
+      "name": "Tuner",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33296751.jpg",
+      "description": "A gifted piano tuner's meticulous skills for tuning pianos lead him to discover an unexpected aptitude for cracking safes, turning his life upside down.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.6",
+      "background": "https://image.tmdb.org/t/p/w500/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg"
     },
     {
       "id": "tt33311069",
@@ -151,14 +101,54 @@
       "background": "https://image.tmdb.org/t/p/w500/ivQ1Z3lI1xWvAeGDHBw3CCYZDGJ.jpg"
     },
     {
-      "id": "tt1757678",
+      "id": "tt14173636",
       "type": "movie",
-      "name": "Avatar: Fire and Ash",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1757678.jpg",
-      "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
-      "releaseInfo": "2025",
+      "name": "The Invite",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt14173636.jpg",
+      "description": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
+      "releaseInfo": "2026",
+      "imdbRating": "7.2",
+      "background": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg"
+    },
+    {
+      "id": "tt32890033",
+      "type": "movie",
+      "name": "Minions & Monsters",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32890033.jpg",
+      "description": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.5",
+      "background": "https://image.tmdb.org/t/p/w500/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg"
+    },
+    {
+      "id": "tt8036976",
+      "type": "movie",
+      "name": "Send Help",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt8036976.jpg",
+      "description": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.0",
+      "background": "https://image.tmdb.org/t/p/w500/zbJWVHOtj3ljBzWgL1P8pxP03Up.jpg"
+    },
+    {
+      "id": "tt32547691",
+      "type": "movie",
+      "name": "Pressure",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32547691.jpg",
+      "description": "In the tense 72 hours before D-Day, and the fate of the free world hanging in the balance, General Dwight D. Eisenhower and Captain James Stagg face an impossible choice\u2014launch the largest and most dangerous seaborne invasion in history or risk losing the war altogether.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.7",
+      "background": "https://image.tmdb.org/t/p/w500/gFjEggtrejCN79r6SXRjM269OtG.jpg"
+    },
+    {
+      "id": "tt28498219",
+      "type": "movie",
+      "name": "Matchbox the Movie",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt28498219.jpg",
+      "description": "When a group of former childhood friends reconnect, their reunion takes a wild turn as they stumble upon a dangerous international plot\u2014and must save the world.",
+      "releaseInfo": "2026",
       "imdbRating": "7.6",
-      "background": "https://image.tmdb.org/t/p/w500/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg"
+      "background": "https://image.tmdb.org/t/p/w500/aHhHRz6nOpwkqJs5ASeRGAdK2dt.jpg"
     },
     {
       "id": "tt0427340",
@@ -181,86 +171,6 @@
       "background": "https://image.tmdb.org/t/p/w500/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg"
     },
     {
-      "id": "tt33296751",
-      "type": "movie",
-      "name": "Tuner",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33296751.jpg",
-      "description": "A gifted piano tuner's meticulous skills for tuning pianos lead him to discover an unexpected aptitude for cracking safes, turning his life upside down.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.6",
-      "background": "https://image.tmdb.org/t/p/w500/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg"
-    },
-    {
-      "id": "tt14173636",
-      "type": "movie",
-      "name": "The Invite",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt14173636.jpg",
-      "description": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
-      "releaseInfo": "2026",
-      "imdbRating": "7.2",
-      "background": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg"
-    },
-    {
-      "id": "tt0427340",
-      "type": "movie",
-      "name": "Masters of the Universe",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt0427340.jpg",
-      "description": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man \u2014 the most powerful man in the universe.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.1",
-      "background": "https://image.tmdb.org/t/p/w500/oRuyGUHdoaQxWP3SDfafGkStxTC.jpg"
-    },
-    {
-      "id": "tt1757678",
-      "type": "movie",
-      "name": "Avatar: Fire and Ash",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1757678.jpg",
-      "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
-      "releaseInfo": "2025",
-      "imdbRating": "7.6",
-      "background": "https://image.tmdb.org/t/p/w500/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg"
-    },
-    {
-      "id": "tt26443616",
-      "type": "movie",
-      "name": "Hoppers",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26443616.jpg",
-      "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.1",
-      "background": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg"
-    },
-    {
-      "id": "tt14173636",
-      "type": "movie",
-      "name": "The Invite",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt14173636.jpg",
-      "description": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
-      "releaseInfo": "2026",
-      "imdbRating": "7.2",
-      "background": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg"
-    },
-    {
-      "id": "tt5950044",
-      "type": "movie",
-      "name": "Superman",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5950044.jpg",
-      "description": "Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.",
-      "releaseInfo": "2025",
-      "imdbRating": "7.3",
-      "background": "https://image.tmdb.org/t/p/w500/ombsmhYUqR4qqOLOxAyr5V8hbyv.jpg"
-    },
-    {
-      "id": "tt31193180",
-      "type": "movie",
-      "name": "Sinners",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31193180.jpg",
-      "description": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
-      "releaseInfo": "2025",
-      "imdbRating": "7.5",
-      "background": "https://image.tmdb.org/t/p/w500/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg"
-    },
-    {
       "id": "tt1312221",
       "type": "movie",
       "name": "Frankenstein",
@@ -271,34 +181,14 @@
       "background": "https://image.tmdb.org/t/p/w500/g4JtvGlQO7DByTI6frUobqvSL3R.jpg"
     },
     {
-      "id": "tt32547691",
+      "id": "tt14205554",
       "type": "movie",
-      "name": "Pressure",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32547691.jpg",
-      "description": "In the tense 72 hours before D-Day, and the fate of the free world hanging in the balance, General Dwight D. Eisenhower and Captain James Stagg face an impossible choice\u2014launch the largest and most dangerous seaborne invasion in history or risk losing the war altogether.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.7",
-      "background": "https://image.tmdb.org/t/p/w500/gFjEggtrejCN79r6SXRjM269OtG.jpg"
-    },
-    {
-      "id": "tt26581740",
-      "type": "movie",
-      "name": "Weapons",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26581740.jpg",
-      "description": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
+      "name": "KPop Demon Hunters",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt14205554.jpg",
+      "description": "When K-pop superstars Rumi, Mira and Zoey aren't selling out stadiums, they're using their secret powers to protect their fans from supernatural threats.",
       "releaseInfo": "2025",
-      "imdbRating": "7.3",
-      "background": "https://image.tmdb.org/t/p/w500/cpf7vsRZ0MYRQcnLWteD5jK9ymT.jpg"
-    },
-    {
-      "id": "tt22526100",
-      "type": "movie",
-      "name": "The Love Hypothesis",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt22526100.jpg",
-      "description": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.9",
-      "background": "https://image.tmdb.org/t/p/w500/vfZxVHextAGC70zrNhS8lsROqP1.jpg"
+      "imdbRating": "8.0",
+      "background": "https://image.tmdb.org/t/p/w500/zT7Lhw3BhJbMkRqm9Zlx2YGMsY0.jpg"
     },
     {
       "id": "tt15047880",
@@ -311,24 +201,124 @@
       "background": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg"
     },
     {
-      "id": "tt31434030",
+      "id": "tt36042156",
       "type": "movie",
-      "name": "Dracula",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31434030.jpg",
-      "description": "In late 15th-century Eastern Europe, Prince Vlad II\u2019s bride is brutally murdered. As a result, he renounces God and damns Heaven itself. Cursed with eternal life, Vlad is reborn as Dracula, an immortal warlord who defies fate in a blood-soaked crusade to wrench his lost love back from death.",
-      "releaseInfo": "2025",
-      "imdbRating": "7.3",
-      "background": "https://image.tmdb.org/t/p/w500/ykyRfv7JDofLxXLAwtLXaSuaFfM.jpg"
+      "name": "The Punisher: One Last Kill",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36042156.jpg",
+      "description": "As Frank Castle searches for meaning beyond revenge, an unexpected force pulls him back into the fight.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.3",
+      "background": "https://image.tmdb.org/t/p/w500/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg"
     },
     {
-      "id": "tt17490712",
+      "id": "tt36042156",
       "type": "movie",
-      "name": "Mortal Kombat II",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt17490712.jpg",
-      "description": "The fan favorite champions\u2014now joined by Johnny Cage himself\u2014are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
+      "name": "The Punisher: One Last Kill",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36042156.jpg",
+      "description": "As Frank Castle searches for meaning beyond revenge, an unexpected force pulls him back into the fight.",
       "releaseInfo": "2026",
-      "imdbRating": "7.7",
-      "background": "https://image.tmdb.org/t/p/w500/hwRdDFIhaEmpRgoki805YvyyjZf.jpg"
+      "imdbRating": "8.3",
+      "background": "https://image.tmdb.org/t/p/w500/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg"
+    },
+    {
+      "id": "tt26443616",
+      "type": "movie",
+      "name": "Hoppers",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26443616.jpg",
+      "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.1",
+      "background": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg"
+    },
+    {
+      "id": "tt32654916",
+      "type": "movie",
+      "name": "Soulm8te",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32654916.jpg",
+      "description": "After a ruthless tech giant acquires a small robotics company, a grieving engineer is tasked with testing their new AI companion. But when he attempts to reprogram her to be a truly sentient soulmate, she develops needs of her own\u2014unleashing a relentless spree of precision-engineered mayhem.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.4",
+      "background": "https://image.tmdb.org/t/p/w500/aRfFP8stzodl0bo8ywoNZXdaVwo.jpg"
+    },
+    {
+      "id": "tt6262770",
+      "type": "movie",
+      "name": "Tenzing",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6262770.jpg",
+      "description": "A determined man embarks on a high-stakes quest\u2014and defies seemingly impossible odds\u2014to fulfill his dream of being the first to reach the summit of Mount Everest.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.3",
+      "background": "https://image.tmdb.org/t/p/w500/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg"
+    },
+    {
+      "id": "tt1757678",
+      "type": "movie",
+      "name": "Avatar: Fire and Ash",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt1757678.jpg",
+      "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.6",
+      "background": "https://image.tmdb.org/t/p/w500/bRBeSHfGHwkEpImlhxPmOcUsaeg.jpg"
+    },
+    {
+      "id": "tt7181546",
+      "type": "movie",
+      "name": "Ballerina",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt7181546.jpg",
+      "description": "Taking place during the events of John Wick: Chapter 3 \u2013 Parabellum, Eve Macarro begins her training in the assassin traditions of the Ruska Roma.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.3",
+      "background": "https://image.tmdb.org/t/p/w500/2VUmvqsHb6cEtdfscEA6fqqVzLg.jpg"
+    },
+    {
+      "id": "tt31193180",
+      "type": "movie",
+      "name": "Sinners",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31193180.jpg",
+      "description": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.5",
+      "background": "https://image.tmdb.org/t/p/w500/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg"
+    },
+    {
+      "id": "tt31193180",
+      "type": "movie",
+      "name": "Sinners",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31193180.jpg",
+      "description": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.5",
+      "background": "https://image.tmdb.org/t/p/w500/fWPgbnt2LSqkQ6cdQc0SZN9CpLm.jpg"
+    },
+    {
+      "id": "tt22526100",
+      "type": "movie",
+      "name": "The Love Hypothesis",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt22526100.jpg",
+      "description": "Olive Smith, a biology PhD candidate, and Dr. Adam Carlsen, a hotshot professor and well-known tyrant, enter into a fake relationship, seeing each of their carefully calculated theories on love get thrown into chaos.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.9",
+      "background": "https://image.tmdb.org/t/p/w500/vfZxVHextAGC70zrNhS8lsROqP1.jpg"
+    },
+    {
+      "id": "tt13622970",
+      "type": "movie",
+      "name": "Moana 2",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt13622970.jpg",
+      "description": "After receiving an unexpected call from her wayfinding ancestors, Moana journeys alongside Maui and a new crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.",
+      "releaseInfo": "2024",
+      "imdbRating": "7.0",
+      "background": "https://image.tmdb.org/t/p/w500/aLVkiINlIeCkcZIzb7XHzPYgO6L.jpg"
+    },
+    {
+      "id": "tt16311594",
+      "type": "movie",
+      "name": "F1",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt16311594.jpg",
+      "description": "Racing legend Sonny Hayes is coaxed out of retirement to lead a struggling Formula 1 team\u2014and mentor a young hotshot driver\u2014while chasing one more chance at glory.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.8",
+      "background": "https://image.tmdb.org/t/p/w500/9PXZIUsSDh4alB80jheWX4fhZmy.jpg"
     }
   ],
   "cacheMaxAge": 3600

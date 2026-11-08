@@ -17,7 +17,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39325975.jpg",
       "description": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
       "releaseInfo": "2026",
-      "imdbRating": "8.2",
+      "imdbRating": "8.5",
       "background": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg"
     },
     {
@@ -37,8 +37,8 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39943756.jpg",
       "description": "Lois arrives in Belrose with Max, the love of her life. Lane, the creator of Campus Drivers, the hottest app on campus, is known for never getting attached. Their paths were never meant to cross. But some encounters change everything, reopening old wounds. And when love appears unexpectedly, nothing is certain anymore.",
       "releaseInfo": "2026",
-      "imdbRating": "7.8",
-      "background": "https://image.tmdb.org/t/p/w500/oPltcyfWWfVmxB6lV8JZZJV3m7Q.jpg"
+      "imdbRating": "8.3",
+      "background": "https://image.tmdb.org/t/p/w500/sPfaMkdHy7ZsRZARiFDUUui1uaA.jpg"
     },
     {
       "id": "tt26598805",
@@ -77,7 +77,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt42576855.jpg",
       "description": "An ambitious street urchin seizes the chance to impersonate a noblewoman and becomes a warlord's bride, but when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
       "releaseInfo": "2026",
-      "imdbRating": "7.0",
+      "imdbRating": "7.5",
       "background": "https://image.tmdb.org/t/p/w500/cE9Og0lCCRCP2RArarzJXmu6xEB.jpg"
     },
     {
@@ -97,7 +97,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39328047.jpg",
       "description": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives \u2014 taking on seemingly impossible cases amid fierce opposition.",
       "releaseInfo": "2026",
-      "imdbRating": "9.0",
+      "imdbRating": "9.1",
       "background": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg"
     },
     {
@@ -107,7 +107,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39957390.jpg",
       "description": "In a steampunk West overrun by outlaws, machines and supernatural forces, a father is forced to become judge, jury and executioner to protect his family.",
       "releaseInfo": "2026",
-      "imdbRating": "7.7",
+      "imdbRating": "7.6",
       "background": "https://image.tmdb.org/t/p/w500/y9c1AwrldWRsY9edSf21cOgbI0h.jpg"
     },
     {
@@ -131,23 +131,13 @@
       "background": "https://image.tmdb.org/t/p/w500/ecRrKGXfflZmDZBD4irdkybClT.jpg"
     },
     {
-      "id": "tt35934755",
-      "type": "series",
-      "name": "Below",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35934755.jpg",
-      "description": "When a mysterious sea creature terrorizes a small Newfoundland town, a hard-bitten fisherman and his family fight to protect their close-knit community.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.1",
-      "background": "https://image.tmdb.org/t/p/w500/vgLqqhMUbljp585qPp1EFCyJtcz.jpg"
-    },
-    {
       "id": "tt39201866",
       "type": "series",
       "name": "100 Days of Deception",
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39201866.jpg",
       "description": "Hoping for freedom, Gyeongseong's top pickpocket infiltrates the Japanese colonial government to steal secrets \u2014 only to fall for her target's son.",
       "releaseInfo": "2026",
-      "imdbRating": "8.5",
+      "imdbRating": "8.6",
       "background": "https://image.tmdb.org/t/p/w500/bZHEU42QynnMrHUWK1Hhvj2cdPA.jpg"
     },
     {
@@ -161,6 +151,16 @@
       "background": "https://image.tmdb.org/t/p/w500/kp8xgZ8SrikHQrPn2lC3hb50KD5.jpg"
     },
     {
+      "id": "tt38681812",
+      "type": "series",
+      "name": "Anaesthesia",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38681812.jpg",
+      "description": "After a bold but unsuccessful surgery, a talented doctor swaps a prestigious clinic for a local hospital as he tries to get his life back on track.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.6",
+      "background": "https://image.tmdb.org/t/p/w500/4Pn7Qjfe4Jne7nZzLDe6vfPUM1f.jpg"
+    },
+    {
       "id": "tt47657141",
       "type": "series",
       "name": "The Perfect Lie",
@@ -169,16 +169,6 @@
       "releaseInfo": "2026",
       "imdbRating": "8.5",
       "background": "https://image.tmdb.org/t/p/w500/thXJkiBByDitV7iFSv1hU1sg7ij.jpg"
-    },
-    {
-      "id": "tt38681812",
-      "type": "series",
-      "name": "Anaesthesia",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38681812.jpg",
-      "description": "After a bold but unsuccessful surgery, a talented doctor swaps a prestigious clinic for a local hospital as he tries to get his life back on track.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.0",
-      "background": "https://image.tmdb.org/t/p/w500/4Pn7Qjfe4Jne7nZzLDe6vfPUM1f.jpg"
     },
     {
       "id": "tt42220724",
@@ -247,7 +237,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44941753.jpg",
       "description": "Told through intimate testimonies from close family and friends, this documentary event reveals the real Matthew Perry\u2014generous, funny, vulnerable, larger than life\u2014and the battles he fought to become the man behind the icon. A raw record of a life lived in full, and the honesty that became his greatest legacy.",
       "releaseInfo": "2026",
-      "imdbRating": "7.6",
+      "imdbRating": "7.5",
       "background": "https://image.tmdb.org/t/p/w500/zDSjGvywwyWUqnMIpYYwFDyA7Az.jpg"
     },
     {
@@ -341,14 +331,24 @@
       "background": "https://image.tmdb.org/t/p/w500/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg"
     },
     {
-      "id": "tt33078239",
+      "id": "tt39394153",
       "type": "series",
-      "name": "Eternally Yours",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33078239.jpg",
-      "description": "Charles and Liz are a charming, married 500-year-old vampire couple whose relationship has survived centuries because, as vampires, divorce isn\u2019t exactly an option. Together, they navigate modern society and their daughter dating a human.",
+      "name": "Firefly Wedding",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39394153.jpg",
+      "description": "Satoko Kirigaya has everything a noblewoman could want\u2014except time. With her life running out, she\u2019s determined to marry well and make her father proud. But when a ruthless assassin kidnaps her, she makes a desperate offer: \u201cMarry me, and we\u2019ll have it all.\u201d Shinpei Goto accepts, only to become dangerously obsessed. Now Satoko must choose between duty and a love that could consume them both.",
       "releaseInfo": "2026",
-      "imdbRating": "8.8",
-      "background": "https://image.tmdb.org/t/p/w500/gMKJJtwOnTkhkbdQabyo7OKTosb.jpg"
+      "imdbRating": "9.4",
+      "background": "https://image.tmdb.org/t/p/w500/954dt0dTqoUhIW0EvMFZ0KvVQmk.jpg"
+    },
+    {
+      "id": "tt41153966",
+      "type": "series",
+      "name": "The Vermilion Mask",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt41153966.jpg",
+      "description": "Apprentice mask maker Peru should have known the perils of The Masks. Possessed by the Mask of the Warrior God, he unintentionally kills his friends and his master, the legendary Gaston Roux. Wracked with guilt, Peru vows to destroy every mask his master created before tragedy strikes again. As his mission takes him around the world, Peru makes friends, battles enemies, and reckons with his sins.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.0",
+      "background": "https://image.tmdb.org/t/p/w500/jIQ8cnTs7sCMzEfBviyyD4eXMiY.jpg"
     },
     {
       "id": "tt48242205",
@@ -361,16 +361,6 @@
       "background": "https://image.tmdb.org/t/p/w500/92JTzrsDpqPlXCv6O1u3DIxDAso.jpg"
     },
     {
-      "id": "tt49702110",
-      "type": "series",
-      "name": "Matargashti",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt49702110.jpg",
-      "description": "Dhara's plan to explore her sexuality puts her at odds with her horrified father, who becomes determined to sabotage her love life.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.0",
-      "background": "https://image.tmdb.org/t/p/w500/dVEU36dwQpk4IF0jdtziF1P8LPc.jpg"
-    },
-    {
       "id": "tt39018552",
       "type": "series",
       "name": "Alas Roban: The Series",
@@ -381,6 +371,26 @@
       "background": "https://image.tmdb.org/t/p/w500/wi5ydBPkfjI7p0fFRqaRLwMG1Wo.jpg"
     },
     {
+      "id": "tt49702110",
+      "type": "series",
+      "name": "Matargashti",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt49702110.jpg",
+      "description": "Dhara's plan to explore her sexuality puts her at odds with her horrified father, who becomes determined to sabotage her love life.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.0",
+      "background": "https://image.tmdb.org/t/p/w500/dVEU36dwQpk4IF0jdtziF1P8LPc.jpg"
+    },
+    {
+      "id": "tt39602642",
+      "type": "series",
+      "name": "The Golden Life",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39602642.jpg",
+      "description": "Bound by decades of shared history, fallouts and friendship, this fan-favorite group of New Yorkers are starting fresh together in the Sunshine State. In this new \u2018golden\u2019 era of life, the longtime friends are thriving in and around Palm Beach with fabulous second homes and a bustling social scene. With their signature humor and non-stop hijinks, the group navigates dating, family, and career milestones. Though skies are bright in Florida, unresolved drama looms as they reconnect after years of highs and lows.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.0",
+      "background": "https://image.tmdb.org/t/p/w500/e7OGE2mfvhfDCd1jJNju5G155hX.jpg"
+    },
+    {
       "id": "tt49276654",
       "type": "series",
       "name": "LOST10",
@@ -389,16 +399,6 @@
       "releaseInfo": "2026",
       "imdbRating": "8.8",
       "background": "https://image.tmdb.org/t/p/w500/7uNny81R25IPRLyJrNgjnSJHwSR.jpg"
-    },
-    {
-      "id": "tt48376831",
-      "type": "series",
-      "name": "Hakone Ekiden: Our Story",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt48376831.jpg",
-      "description": "A fierce struggle unfolds as a university team fights for a comeback in the Hakone Ekiden while TV producers battle behind the scenes to broadcast their story.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.7",
-      "background": "https://image.tmdb.org/t/p/w500/z9OMU0w30pv3ubEFvtw9xPxklRb.jpg"
     }
   ],
   "cacheMaxAge": 3600
