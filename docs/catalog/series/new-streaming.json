@@ -17,18 +17,8 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39325975.jpg",
       "description": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
       "releaseInfo": "2026",
-      "imdbRating": "8.5",
+      "imdbRating": "7.8",
       "background": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg"
-    },
-    {
-      "id": "tt36458668",
-      "type": "series",
-      "name": "Dead-End Job",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36458668.jpg",
-      "description": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency \u2014 only to find his hustle for more money turning nightmarish.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.6",
-      "background": "https://image.tmdb.org/t/p/w500/wUvzMC7EToPgci31ZZRCeqCmQ6d.jpg"
     },
     {
       "id": "tt39943756",
@@ -37,8 +27,28 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39943756.jpg",
       "description": "Lois arrives in Belrose with Max, the love of her life. Lane, the creator of Campus Drivers, the hottest app on campus, is known for never getting attached. Their paths were never meant to cross. But some encounters change everything, reopening old wounds. And when love appears unexpectedly, nothing is certain anymore.",
       "releaseInfo": "2026",
-      "imdbRating": "8.3",
-      "background": "https://image.tmdb.org/t/p/w500/sPfaMkdHy7ZsRZARiFDUUui1uaA.jpg"
+      "imdbRating": "8.1",
+      "background": "https://image.tmdb.org/t/p/w500/1vqJ8kNCz91C2fUpXSma7oAWCc5.jpg"
+    },
+    {
+      "id": "tt36458668",
+      "type": "series",
+      "name": "Dead-End Job",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36458668.jpg",
+      "description": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency \u2014 only to find his hustle for more money turning nightmarish.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.5",
+      "background": "https://image.tmdb.org/t/p/w500/wUvzMC7EToPgci31ZZRCeqCmQ6d.jpg"
+    },
+    {
+      "id": "tt45246384",
+      "type": "series",
+      "name": "Love in Disguise",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt45246384.jpg",
+      "description": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
+      "releaseInfo": "2026",
+      "imdbRating": "9.1",
+      "background": "https://image.tmdb.org/t/p/w500/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg"
     },
     {
       "id": "tt26598805",
@@ -51,36 +61,6 @@
       "background": "https://image.tmdb.org/t/p/w500/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg"
     },
     {
-      "id": "tt35854736",
-      "type": "series",
-      "name": "Avatar: Seven Havens",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35854736.jpg",
-      "description": "In a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. But in this dangerous era, that title marks her as humanity's destroyer, not its savior. Hunted by both human and spirit enemies, she and her long-lost twin must uncover their mysterious origins and save the Seven Havens before civilization's last strongholds collapse.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.9",
-      "background": "https://image.tmdb.org/t/p/w500/u62d0BPqsdv2TUDifcMmoePbHPL.jpg"
-    },
-    {
-      "id": "tt45246384",
-      "type": "series",
-      "name": "Love in Disguise",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt45246384.jpg",
-      "description": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
-      "releaseInfo": "2026",
-      "imdbRating": "9.0",
-      "background": "https://image.tmdb.org/t/p/w500/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg"
-    },
-    {
-      "id": "tt42576855",
-      "type": "series",
-      "name": "Where the Mask Ends",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt42576855.jpg",
-      "description": "An ambitious street urchin seizes the chance to impersonate a noblewoman and becomes a warlord's bride, but when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.5",
-      "background": "https://image.tmdb.org/t/p/w500/cE9Og0lCCRCP2RArarzJXmu6xEB.jpg"
-    },
-    {
       "id": "tt23148340",
       "type": "series",
       "name": "Crystal Lake",
@@ -89,16 +69,6 @@
       "releaseInfo": "2026",
       "imdbRating": "8.6",
       "background": "https://image.tmdb.org/t/p/w500/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg"
-    },
-    {
-      "id": "tt39328047",
-      "type": "series",
-      "name": "Doctor X: Mafia in White",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39328047.jpg",
-      "description": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives \u2014 taking on seemingly impossible cases amid fierce opposition.",
-      "releaseInfo": "2026",
-      "imdbRating": "9.1",
-      "background": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg"
     },
     {
       "id": "tt39957390",
@@ -121,23 +91,13 @@
       "background": "https://image.tmdb.org/t/p/w500/zijeb3WqqTIYJm3mmp1sb0uNGUj.jpg"
     },
     {
-      "id": "tt37737331",
-      "type": "series",
-      "name": "Take Charge of My Heart",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37737331.jpg",
-      "description": "A corporate heir with an artificial heart meets a woman who's literally electric. They strike a deal that makes his heart beat \u2014 in more ways than one.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.8",
-      "background": "https://image.tmdb.org/t/p/w500/ecRrKGXfflZmDZBD4irdkybClT.jpg"
-    },
-    {
       "id": "tt39201866",
       "type": "series",
       "name": "100 Days of Deception",
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39201866.jpg",
       "description": "Hoping for freedom, Gyeongseong's top pickpocket infiltrates the Japanese colonial government to steal secrets \u2014 only to fall for her target's son.",
       "releaseInfo": "2026",
-      "imdbRating": "8.6",
+      "imdbRating": "8.7",
       "background": "https://image.tmdb.org/t/p/w500/bZHEU42QynnMrHUWK1Hhvj2cdPA.jpg"
     },
     {
@@ -171,16 +131,6 @@
       "background": "https://image.tmdb.org/t/p/w500/thXJkiBByDitV7iFSv1hU1sg7ij.jpg"
     },
     {
-      "id": "tt42220724",
-      "type": "series",
-      "name": "Minimum Wage",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt42220724.jpg",
-      "description": "Teens struggle to run a local pizzeria while juggling school, a manic boss and minimum wage in this series based on the hit social media shorts.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.2",
-      "background": "https://image.tmdb.org/t/p/w500/iTVhDUbzUFUJ18jrcYM4rw7qGk.jpg"
-    },
-    {
       "id": "tt49692512",
       "type": "series",
       "name": "Final Table",
@@ -201,14 +151,44 @@
       "background": "https://image.tmdb.org/t/p/w500/iCyQc8cSSHkxUHbkvzbC77owALt.jpg"
     },
     {
+      "id": "tt42220724",
+      "type": "series",
+      "name": "Minimum Wage",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt42220724.jpg",
+      "description": "Teens struggle to run a local pizzeria while juggling school, a manic boss and minimum wage in this series based on the hit social media shorts.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.2",
+      "background": "https://image.tmdb.org/t/p/w500/iTVhDUbzUFUJ18jrcYM4rw7qGk.jpg"
+    },
+    {
+      "id": "tt45114341",
+      "type": "series",
+      "name": "Melania Rea",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt45114341.jpg",
+      "description": "The tragic story of Melania Rea, whose case reveals a toxic marriage marked by lies and manipulation.",
+      "releaseInfo": "2026",
+      "imdbRating": "9.0",
+      "background": "https://image.tmdb.org/t/p/w500/6hNf9che0KvninHhKDuniNa2OWQ.jpg"
+    },
+    {
       "id": "tt49250618",
       "type": "series",
       "name": "The Fall of El Mayo",
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt49250618.jpg",
       "description": "Co-founder of the Sinaloa Cartel, longtime partner of \"El Chapo\", and a ghost to authorities for over three decades. The documentary that tells the story of his downfall.",
       "releaseInfo": "2026",
-      "imdbRating": "8.6",
+      "imdbRating": "8.4",
       "background": "https://image.tmdb.org/t/p/w500/zp5lT15wR0cfCYcR12DXcVNsrnh.jpg"
+    },
+    {
+      "id": "tt43681696",
+      "type": "series",
+      "name": "Taken: Natalee Holloway",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt43681696.jpg",
+      "description": "Beth Holloway, Natalee's mother, tells the full, definitive story of the case that's haunted her for the past 20 years - from the day of Natalee's disappearance to the dramatic confession two decades later.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.2",
+      "background": "https://image.tmdb.org/t/p/w500/rKyjcuSbsDDDcIisa6cx5k5yQNa.jpg"
     },
     {
       "id": "tt35673115",
@@ -219,26 +199,6 @@
       "releaseInfo": "2026",
       "imdbRating": "7.3",
       "background": "https://image.tmdb.org/t/p/w500/xsL1ig6Tyi0j9AZPt23yZprslGS.jpg"
-    },
-    {
-      "id": "tt43681696",
-      "type": "series",
-      "name": "Taken: Natalee Holloway",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt43681696.jpg",
-      "description": "Beth Holloway, Natalee's mother, tells the full, definitive story of the case that's haunted her for the past 20 years - from the day of Natalee's disappearance to the dramatic confession two decades later.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.4",
-      "background": "https://image.tmdb.org/t/p/w500/rKyjcuSbsDDDcIisa6cx5k5yQNa.jpg"
-    },
-    {
-      "id": "tt44941753",
-      "type": "series",
-      "name": "The One About Matthew Perry",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44941753.jpg",
-      "description": "Told through intimate testimonies from close family and friends, this documentary event reveals the real Matthew Perry\u2014generous, funny, vulnerable, larger than life\u2014and the battles he fought to become the man behind the icon. A raw record of a life lived in full, and the honesty that became his greatest legacy.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.5",
-      "background": "https://image.tmdb.org/t/p/w500/zDSjGvywwyWUqnMIpYYwFDyA7Az.jpg"
     },
     {
       "id": "tt38337376",
@@ -255,10 +215,20 @@
       "type": "series",
       "name": "TYSON",
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt35051210.jpg",
-      "description": "Explore the explosive life of Mike Tyson \u2014 one of the most feared and fascinating figures in sports history.",
+      "description": "This gripping four-part documentary series explores the explosive life of Mike Tyson \u2014 one of the most feared and fascinating figures in sports history.",
       "releaseInfo": "2026",
-      "imdbRating": "8.5",
+      "imdbRating": "8.6",
       "background": "https://image.tmdb.org/t/p/w500/mdtpJEWW1j5Ns7bIcbw1UeIdvhp.jpg"
+    },
+    {
+      "id": "tt44941753",
+      "type": "series",
+      "name": "The One About Matthew Perry",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44941753.jpg",
+      "description": "Told through intimate testimonies from close family and friends, this documentary event reveals the real Matthew Perry\u2014generous, funny, vulnerable, larger than life\u2014and the battles he fought to become the man behind the icon. A raw record of a life lived in full, and the honesty that became his greatest legacy.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.4",
+      "background": "https://image.tmdb.org/t/p/w500/zDSjGvywwyWUqnMIpYYwFDyA7Az.jpg"
     },
     {
       "id": "tt48313964",
@@ -317,7 +287,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt47730406.jpg",
       "description": "Revisits the events of March 5, 2022, during the match between Quer\u00e9taro and Atlas, reconstructing what unfolded and examining its aftermath, the conflicting narratives surrounding the case, and the questions that, four years later, remain unresolved.",
       "releaseInfo": "2026",
-      "imdbRating": "7.5",
+      "imdbRating": "7.9",
       "background": "https://image.tmdb.org/t/p/w500/aYQDNPmBifsiNdLFrvWLT19lb6w.jpg"
     },
     {
@@ -331,16 +301,6 @@
       "background": "https://image.tmdb.org/t/p/w500/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg"
     },
     {
-      "id": "tt39394153",
-      "type": "series",
-      "name": "Firefly Wedding",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39394153.jpg",
-      "description": "Satoko Kirigaya has everything a noblewoman could want\u2014except time. With her life running out, she\u2019s determined to marry well and make her father proud. But when a ruthless assassin kidnaps her, she makes a desperate offer: \u201cMarry me, and we\u2019ll have it all.\u201d Shinpei Goto accepts, only to become dangerously obsessed. Now Satoko must choose between duty and a love that could consume them both.",
-      "releaseInfo": "2026",
-      "imdbRating": "9.4",
-      "background": "https://image.tmdb.org/t/p/w500/954dt0dTqoUhIW0EvMFZ0KvVQmk.jpg"
-    },
-    {
       "id": "tt41153966",
       "type": "series",
       "name": "The Vermilion Mask",
@@ -349,16 +309,6 @@
       "releaseInfo": "2026",
       "imdbRating": "8.0",
       "background": "https://image.tmdb.org/t/p/w500/jIQ8cnTs7sCMzEfBviyyD4eXMiY.jpg"
-    },
-    {
-      "id": "tt48242205",
-      "type": "series",
-      "name": "Least Eligible Bachelor",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt48242205.jpg",
-      "description": "A bachelor struggling to find a bride because of his looks moves to Hyderabad for a fresh start, only to discover that his potential match is his colleague at work.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.5",
-      "background": "https://image.tmdb.org/t/p/w500/92JTzrsDpqPlXCv6O1u3DIxDAso.jpg"
     },
     {
       "id": "tt39018552",
@@ -399,6 +349,26 @@
       "releaseInfo": "2026",
       "imdbRating": "8.8",
       "background": "https://image.tmdb.org/t/p/w500/7uNny81R25IPRLyJrNgjnSJHwSR.jpg"
+    },
+    {
+      "id": "tt48376831",
+      "type": "series",
+      "name": "Hakone Ekiden: Our Story",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt48376831.jpg",
+      "description": "A fierce struggle unfolds as a university team fights for a comeback in the Hakone Ekiden while TV producers battle behind the scenes to broadcast their story.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.7",
+      "background": "https://image.tmdb.org/t/p/w500/z9OMU0w30pv3ubEFvtw9xPxklRb.jpg"
+    },
+    {
+      "id": "tt46269844",
+      "type": "series",
+      "name": "A Course Called Ireland",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt46269844.jpg",
+      "description": "Bill Murray and friends go on an unpredictable road trip around the Republic of Ireland and Northern Ireland, playing their way across some of the island\u2019s most legendary golf courses.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.7",
+      "background": "https://image.tmdb.org/t/p/w500/fqry4uxJuyFcSR3locllFwxES3K.jpg"
     }
   ],
   "cacheMaxAge": 3600
