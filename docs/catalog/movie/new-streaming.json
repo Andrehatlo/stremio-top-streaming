@@ -7,7 +7,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37180686.jpg",
       "description": "A young mechanic fakes an engagement with racing's most scandalous star \u2014 officially for his reputation, secretly for her own shot behind the wheel. But soon the lie threatens to destroy everything \u2014 including what's already become so much more than just a deal.",
       "releaseInfo": "2026",
-      "imdbRating": "7.7",
+      "imdbRating": "7.6",
       "background": "https://image.tmdb.org/t/p/w500/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg"
     },
     {
@@ -17,7 +17,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38515310.jpg",
       "description": "When a medical emergency pulls the Goss family apart, determined dog Winstead will do all he can to bring his humans back together before Christmas Eve.",
       "releaseInfo": "2026",
-      "imdbRating": "7.4",
+      "imdbRating": "7.3",
       "background": "https://image.tmdb.org/t/p/w500/zvsNAohDHRWcGvbPSD7r3WojpKb.jpg"
     },
     {
@@ -27,7 +27,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37961714.jpg",
       "description": "Two estranged brothers struggle to survive Hurricane Otis in Acapulco, where their bond and courage turn adversity into hope.",
       "releaseInfo": "2026",
-      "imdbRating": "7.5",
+      "imdbRating": "7.6",
       "background": "https://image.tmdb.org/t/p/w500/chZa8Jd9kSDj11bekGjwwotFPEw.jpg"
     },
     {
@@ -37,7 +37,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39400541.jpg",
       "description": "Given a year to live, frugal 40-year-old Yui finally lets herself spend: \"buying\" nightclub host Sena. What begins as a contract takes an unexpected turn.",
       "releaseInfo": "2026",
-      "imdbRating": "7.5",
+      "imdbRating": "7.6",
       "background": "https://image.tmdb.org/t/p/w500/fez7kLyGzpowduJapTFZZ1feCS0.jpg"
     },
     {
@@ -61,14 +61,14 @@
       "background": "https://image.tmdb.org/t/p/w500/cV31QO65DA6mk4Hd6S7QncVq85T.jpg"
     },
     {
-      "id": "tt50245863",
+      "id": "tt44825373",
       "type": "movie",
-      "name": "Instadocs: Jane Doe v. Cornell",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt50245863.jpg",
-      "description": "Instadocs goes inside the rape investigation and Jane Doe lawsuit at Cornell University, with the student journalists at the forefront of the story.",
+      "name": "SCTV: The Greatest Show You've Never Heard Of",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44825373.jpg",
+      "description": "Second City Television cast members reunite in this documentary for a funny and heartfelt celebration of how a scrappy Canadian sketch show made comedy history.",
       "releaseInfo": "2026",
       "imdbRating": "7.0",
-      "background": "https://image.tmdb.org/t/p/w500/7lSCZqdOhjsCI1BqZMUr8eNOOl5.jpg"
+      "background": "https://image.tmdb.org/t/p/w500/vBqVyTpzv5RzHSsQdu8ECxAqSvd.jpg"
     },
     {
       "id": "tt44822485",
@@ -77,8 +77,18 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44822485.jpg",
       "description": "Go down a wormhole in this documentary on master of deadpan humor Norm Macdonald, whose life and career were uncompromising yet full of contradictions.",
       "releaseInfo": "2026",
-      "imdbRating": "7.6",
+      "imdbRating": "7.5",
       "background": "https://image.tmdb.org/t/p/w500/sQw3m4hl1xyoT9zr7shnNCHDKI3.jpg"
+    },
+    {
+      "id": "tt50245863",
+      "type": "movie",
+      "name": "Instadocs: Jane Doe v. Cornell",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt50245863.jpg",
+      "description": "Instadocs goes inside the rape investigation and Jane Doe lawsuit at Cornell University, with the student journalists at the forefront of the story.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.0",
+      "background": "https://image.tmdb.org/t/p/w500/7lSCZqdOhjsCI1BqZMUr8eNOOl5.jpg"
     },
     {
       "id": "tt39578551",
@@ -121,34 +131,14 @@
       "background": "https://image.tmdb.org/t/p/w500/tlNqQwhyta5j1oJDISCPFId15EX.jpg"
     },
     {
-      "id": "tt14179106",
-      "type": "movie",
-      "name": "Sumukhi Suresh: Hoemonal",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt14179106.jpg",
-      "description": "Singlehood, relationships with parents and facing taboos \u2014 Sumukhi Suresh doesn't hold back as she tackles all this and more in her comedy special.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.5",
-      "background": "https://image.tmdb.org/t/p/w500/3zmfnrpjZDz9sSglPzpPDLa21KS.jpg"
-    },
-    {
       "id": "tt49241977",
       "type": "movie",
       "name": "Wolves Up Close with Bertie Gregory",
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt49241977.jpg",
       "description": "Reconnecting with a pack of wolves he has followed for seven years, Bertie sets out to capture one of the Arctic's most dangerous and rarely filmed hunts: wolves taking on a bull moose, prey roughly ten times their size. Led by Kona, a striking white breeding male, the pack faces a critical winter as dwindling food supplies, an encroaching rival wolf and an aging leader threaten its survival.",
       "releaseInfo": "2026",
-      "imdbRating": "9.3",
-      "background": "https://image.tmdb.org/t/p/w500/qzXLcjoiQpRpPZBMpXrszWhMzA5.jpg"
-    },
-    {
-      "id": "tt37405791",
-      "type": "movie",
-      "name": "Hanging by a Wire",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37405791.jpg",
-      "description": "On a Tuesday morning in August 2023, a group of kids set off for school, climbing into a makeshift cable car for the journey across a mountain pass in northwest Pakistan. What happened next would make headlines around the world. Suddenly, 900 feet above the ground, two cables snapped, putting the teenagers in mortal danger.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.0",
-      "background": "https://image.tmdb.org/t/p/w500/duZIrDULyk3PBIxoUmKXm3uqlBv.jpg"
+      "imdbRating": "9.2",
+      "background": "https://image.tmdb.org/t/p/w500/fopmDU345HPkMC9iUaNQEY0uRkk.jpg"
     },
     {
       "id": "tt9174288",
@@ -157,7 +147,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt9174288.jpg",
       "description": "Two best friends, Emma and Phoebe, decide to get pregnant simultaneously to navigate motherhood together, but their friendship is tested when only one of them conceives.",
       "releaseInfo": "2026",
-      "imdbRating": "8.1",
+      "imdbRating": "7.3",
       "background": "https://image.tmdb.org/t/p/w500/ciHBHFWAUn9tXNpm5NfDOkcgcMx.jpg"
     },
     {

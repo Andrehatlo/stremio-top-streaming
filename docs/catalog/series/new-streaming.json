@@ -1,24 +1,24 @@
 {
   "metas": [
     {
-      "id": "tt39325975",
-      "type": "series",
-      "name": "The Remarried Empress",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39325975.jpg",
-      "description": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.9",
-      "background": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg"
-    },
-    {
       "id": "tt23112594",
       "type": "series",
       "name": "VisionQuest",
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt23112594.jpg",
       "description": "With a bounty on his head, Vision must confront his nature and resist Ultron's influence to survive.",
       "releaseInfo": "2026",
-      "imdbRating": "8.6",
+      "imdbRating": "8.5",
       "background": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg"
+    },
+    {
+      "id": "tt39325975",
+      "type": "series",
+      "name": "The Remarried Empress",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39325975.jpg",
+      "description": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.5",
+      "background": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg"
     },
     {
       "id": "tt39943756",
@@ -27,7 +27,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39943756.jpg",
       "description": "Lois arrives in Belrose with Max, the love of her life. Lane, the creator of Campus Drivers, the hottest app on campus, is known for never getting attached. Their paths were never meant to cross. But some encounters change everything, reopening old wounds. And when love appears unexpectedly, nothing is certain anymore.",
       "releaseInfo": "2026",
-      "imdbRating": "8.1",
+      "imdbRating": "8.4",
       "background": "https://image.tmdb.org/t/p/w500/1vqJ8kNCz91C2fUpXSma7oAWCc5.jpg"
     },
     {
@@ -47,8 +47,8 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt45246384.jpg",
       "description": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
       "releaseInfo": "2026",
-      "imdbRating": "9.1",
-      "background": "https://image.tmdb.org/t/p/w500/kSAXIAovLC4z7Wp2Hy8oqLmpkox.jpg"
+      "imdbRating": "9.0",
+      "background": "https://image.tmdb.org/t/p/w500/c9DEtqCDZBPL9i06WmbDrcndrBy.jpg"
     },
     {
       "id": "tt26598805",
@@ -59,6 +59,16 @@
       "releaseInfo": "2026",
       "imdbRating": "7.8",
       "background": "https://image.tmdb.org/t/p/w500/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg"
+    },
+    {
+      "id": "tt42576855",
+      "type": "series",
+      "name": "Where the Mask Ends",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt42576855.jpg",
+      "description": "An ambitious street urchin seizes the chance to impersonate a noblewoman and becomes a warlord's bride, but when her comatose husband awakens, she must navigate deadly schemes, win his heart through cunning, and uncover her royal heritage to triumph over rivals and rise from gutter to glory.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.0",
+      "background": "https://image.tmdb.org/t/p/w500/cE9Og0lCCRCP2RArarzJXmu6xEB.jpg"
     },
     {
       "id": "tt23148340",
@@ -87,8 +97,18 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39957390.jpg",
       "description": "In a steampunk West overrun by outlaws, machines and supernatural forces, a father is forced to become judge, jury and executioner to protect his family.",
       "releaseInfo": "2026",
-      "imdbRating": "7.6",
+      "imdbRating": "7.9",
       "background": "https://image.tmdb.org/t/p/w500/y9c1AwrldWRsY9edSf21cOgbI0h.jpg"
+    },
+    {
+      "id": "tt37762350",
+      "type": "series",
+      "name": "Under Siege",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37762350.jpg",
+      "description": "Caught in the crossfire, hostages, militaries and guerrillas are swept into a tragedy that brings turmoil to Colombia.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.0",
+      "background": "https://image.tmdb.org/t/p/w500/ikJ62NkEVyCwwar4UFrdyc0gMlq.jpg"
     },
     {
       "id": "tt37180305",
@@ -117,7 +137,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38681812.jpg",
       "description": "After a bold but unsuccessful surgery, a talented doctor swaps a prestigious clinic for a local hospital as he tries to get his life back on track.",
       "releaseInfo": "2026",
-      "imdbRating": "7.6",
+      "imdbRating": "7.9",
       "background": "https://image.tmdb.org/t/p/w500/4Pn7Qjfe4Jne7nZzLDe6vfPUM1f.jpg"
     },
     {
@@ -127,7 +147,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt49692512.jpg",
       "description": "The Table: K-Chef 2026 brings together Korea's top chefs to compete for the title of the country's best chef. Mysterious world-renowned chef Chris K., also known as Kang Han, Song-yi, who is fighting to save her restaurant, perfectionist star chef Woo-jin, and chefs with stories of their own face off in a fierce culinary battle. More than a competition, they find comfort in food and one another.",
       "releaseInfo": "2026",
-      "imdbRating": "8.7",
+      "imdbRating": "8.8",
       "background": "https://image.tmdb.org/t/p/w500/uaMjtALuvZC7dGkYllGKKWEWW1J.jpg"
     },
     {
@@ -147,7 +167,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt21952924.jpg",
       "description": "After waking up from a freak car accident, Sonny discovers that his mother has been replaced by an impostor.",
       "releaseInfo": "2026",
-      "imdbRating": "7.3",
+      "imdbRating": "7.5",
       "background": "https://image.tmdb.org/t/p/w500/iCyQc8cSSHkxUHbkvzbC77owALt.jpg"
     },
     {
@@ -187,7 +207,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt49250618.jpg",
       "description": "Co-founder of the Sinaloa Cartel, longtime partner of \"El Chapo\", and a ghost to authorities for over three decades. The documentary that tells the story of his downfall.",
       "releaseInfo": "2026",
-      "imdbRating": "8.4",
+      "imdbRating": "7.9",
       "background": "https://image.tmdb.org/t/p/w500/zp5lT15wR0cfCYcR12DXcVNsrnh.jpg"
     },
     {
@@ -241,16 +261,6 @@
       "background": "https://image.tmdb.org/t/p/w500/6LZBleoBdvT02XHAaHKzPJIEVx9.jpg"
     },
     {
-      "id": "tt46683025",
-      "type": "series",
-      "name": "The Pet Cemetery Murders: A Ghost Story",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt46683025.jpg",
-      "description": "The re-opening of a mysterious 1985 cold case murder in Louisiana unearths a haunting history of bloodshed and long-buried trauma.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.6",
-      "background": "https://image.tmdb.org/t/p/w500/aSD3YkLuTBnoYgyTCXtZRAxezNP.jpg"
-    },
-    {
       "id": "tt46658083",
       "type": "series",
       "name": "The New Stanford Prison Experiment",
@@ -289,16 +299,6 @@
       "releaseInfo": "2026",
       "imdbRating": "7.9",
       "background": "https://image.tmdb.org/t/p/w500/aYQDNPmBifsiNdLFrvWLT19lb6w.jpg"
-    },
-    {
-      "id": "tt39395275",
-      "type": "series",
-      "name": "Dragon Ball Super: Beerus",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39395275.jpg",
-      "description": "When Beerus, the God of Destruction, awakens in search of a worthy rival, Goku and his friends face an epic battle to stop him from destroying Earth.\n\nRemastered and re-edited version of Dragon Ball Super.",
-      "releaseInfo": "2026",
-      "imdbRating": "9.6",
-      "background": "https://image.tmdb.org/t/p/w500/AojgldgsOlzZV8ahyOzaiAjJWvV.jpg"
     },
     {
       "id": "tt39018552",
