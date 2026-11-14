@@ -17,7 +17,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38515310.jpg",
       "description": "When a medical emergency pulls the Goss family apart, determined dog Winstead will do all he can to bring his humans back together before Christmas Eve.",
       "releaseInfo": "2026",
-      "imdbRating": "7.1",
+      "imdbRating": "7.2",
       "background": "https://image.tmdb.org/t/p/w500/zvsNAohDHRWcGvbPSD7r3WojpKb.jpg"
     },
     {
@@ -37,8 +37,28 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39400541.jpg",
       "description": "Given a year to live, frugal 40-year-old Yui finally lets herself spend: \"buying\" nightclub host Sena. What begins as a contract takes an unexpected turn.",
       "releaseInfo": "2026",
-      "imdbRating": "7.5",
+      "imdbRating": "7.4",
       "background": "https://image.tmdb.org/t/p/w500/fez7kLyGzpowduJapTFZZ1feCS0.jpg"
+    },
+    {
+      "id": "tt38420997",
+      "type": "movie",
+      "name": "The Gospel of Christmas",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38420997.jpg",
+      "description": "A struggling pastor moves his family to a troubled New York neighborhood, where they must save a neglected church from foreclosure before Christmas.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.5",
+      "background": "https://image.tmdb.org/t/p/w500/ihbN6lNDXKe6w9xE6IBFMVF2Rkr.jpg"
+    },
+    {
+      "id": "tt47791876",
+      "type": "movie",
+      "name": "Snoopy Presents: 12 Days of Snoopy",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt47791876.jpg",
+      "description": "Eager to get off Santa's naughty list, Snoopy goes all out to be the nicest beagle in town.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.3",
+      "background": "https://image.tmdb.org/t/p/w500/9wZAvvAZgwp2Lxbhjkp9N6HHJBm.jpg"
     },
     {
       "id": "tt49317723",
@@ -51,24 +71,14 @@
       "background": "https://image.tmdb.org/t/p/w500/iIc0OkYnf06kv5Zp0IYVwuvffgh.jpg"
     },
     {
-      "id": "tt15095848",
+      "id": "tt49241977",
       "type": "movie",
-      "name": "Being Heumann",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt15095848.jpg",
-      "description": "Scrappy, defiant, and done being treated like a burden, Judy Heumann turns her outrage into a revolution. In 1977, she and more than 100 disability rights protestors send a very loud message: The system is broken\u2014not us.",
+      "name": "Wolves Up Close with Bertie Gregory",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt49241977.jpg",
+      "description": "Reconnecting with a pack of wolves he has followed for seven years, Bertie sets out to capture one of the Arctic's most dangerous and rarely filmed hunts: wolves taking on a bull moose, prey roughly ten times their size. Led by Kona, a striking white breeding male, the pack faces a critical winter as dwindling food supplies, an encroaching rival wolf and an aging leader threaten its survival.",
       "releaseInfo": "2026",
-      "imdbRating": "8.3",
-      "background": "https://image.tmdb.org/t/p/w500/Ai0cPxFka7bBOF7mPrLxQThPyS0.jpg"
-    },
-    {
-      "id": "tt49813394",
-      "type": "movie",
-      "name": "High End: The Watch Theft Ring",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt49813394.jpg",
-      "description": "Investigates Chile's high-profile Caso Relojes (\"Watch Case\") scandal, in which a suitcase full of smuggled luxury watches and jewelry unmasked an illicit underground network, connecting criminal elements to Chile's social elite.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.7",
-      "background": "https://image.tmdb.org/t/p/w500/xd6c6evoWm6NHIjMlC7Y357crxf.jpg"
+      "imdbRating": "7.2",
+      "background": "https://image.tmdb.org/t/p/w500/fopmDU345HPkMC9iUaNQEY0uRkk.jpg"
     },
     {
       "id": "tt50107649",
@@ -81,14 +91,14 @@
       "background": "https://image.tmdb.org/t/p/w500/cV31QO65DA6mk4Hd6S7QncVq85T.jpg"
     },
     {
-      "id": "tt47791876",
+      "id": "tt49625485",
       "type": "movie",
-      "name": "Snoopy Presents: 12 Days of Snoopy",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt47791876.jpg",
-      "description": "Eager to get off Santa's naughty list, Snoopy goes all out to be the nicest beagle in town.",
+      "name": "Janelle James: How Romantic",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt49625485.jpg",
+      "description": "In her debut hour-long stand-up special, Janelle James sounds off on body counts, bank accounts and why women should wrestle men.",
       "releaseInfo": "2026",
-      "imdbRating": "7.0",
-      "background": "https://image.tmdb.org/t/p/w500/9wZAvvAZgwp2Lxbhjkp9N6HHJBm.jpg"
+      "imdbRating": "9.0",
+      "background": "https://image.tmdb.org/t/p/w500/zjASMxUqsye6BKLbW78FA9d64Yy.jpg"
     },
     {
       "id": "tt44825373",
@@ -111,14 +121,14 @@
       "background": "https://image.tmdb.org/t/p/w500/sQw3m4hl1xyoT9zr7shnNCHDKI3.jpg"
     },
     {
-      "id": "tt49625485",
+      "id": "tt39578551",
       "type": "movie",
-      "name": "Janelle James: How Romantic",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt49625485.jpg",
-      "description": "In her debut hour-long stand-up special, Janelle James sounds off on body counts, bank accounts and why women should wrestle men.",
+      "name": "BTS: THE RETURN",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39578551.jpg",
+      "description": "They're back! BTS gathers in LA to record their album \"Arirang\" in this documentary offering unprecedented access to the band as they enter a new era.",
       "releaseInfo": "2026",
-      "imdbRating": "9.0",
-      "background": "https://image.tmdb.org/t/p/w500/zjASMxUqsye6BKLbW78FA9d64Yy.jpg"
+      "imdbRating": "10.0",
+      "background": "https://image.tmdb.org/t/p/w500/9CNUWleZWN9EGMZjvaSTcxmAAGg.jpg"
     },
     {
       "id": "tt46027225",
@@ -129,16 +139,6 @@
       "releaseInfo": "2026",
       "imdbRating": "7.0",
       "background": "https://image.tmdb.org/t/p/w500/y07DF84TR67NVAevJR6JMydIL5H.jpg"
-    },
-    {
-      "id": "tt39578551",
-      "type": "movie",
-      "name": "BTS: THE RETURN",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39578551.jpg",
-      "description": "They're back! BTS gathers in LA to record their album \"Arirang\" in this documentary offering unprecedented access to the band as they enter a new era.",
-      "releaseInfo": "2026",
-      "imdbRating": "10.0",
-      "background": "https://image.tmdb.org/t/p/w500/9CNUWleZWN9EGMZjvaSTcxmAAGg.jpg"
     },
     {
       "id": "tt50245863",
@@ -171,14 +171,24 @@
       "background": "https://image.tmdb.org/t/p/w500/tlNqQwhyta5j1oJDISCPFId15EX.jpg"
     },
     {
-      "id": "tt33318732",
+      "id": "tt39370926",
       "type": "movie",
-      "name": "Jailer 2",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33318732.jpg",
-      "description": "When a dangerous syndicate threatens his family, retired jailer Tiger Muthuvel Pandian goes undercover as a driver to battle enemies from the shadows.",
+      "name": "Never Surrender",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39370926.jpg",
+      "description": "When a deadly gang descends on his remote home, a guilt-ridden veteran and the estranged grandchildren he barely knows must unite to survive.",
       "releaseInfo": "2026",
-      "imdbRating": "8.0",
-      "background": "https://image.tmdb.org/t/p/w500/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg"
+      "imdbRating": "7.4",
+      "background": "https://image.tmdb.org/t/p/w500/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg"
+    },
+    {
+      "id": "tt37675123",
+      "type": "movie",
+      "name": "Allen",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37675123.jpg",
+      "description": "20 years after his encounter with an alien, Petey never moved on. Now his old friend has returned, and the reason why is complicated \u2014 and unexpected.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.1",
+      "background": "https://image.tmdb.org/t/p/w500/alhhrpj1PSAn5bfz4Os1k7Bweoj.jpg"
     },
     {
       "id": "tt27558029",

@@ -7,7 +7,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39325975.jpg",
       "description": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
       "releaseInfo": "2026",
-      "imdbRating": "8.2",
+      "imdbRating": "8.4",
       "background": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg"
     },
     {
@@ -17,7 +17,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39943756.jpg",
       "description": "Lois arrives in Belrose with Max, the love of her life. Lane, the creator of Campus Drivers, the hottest app on campus, is known for never getting attached. Their paths were never meant to cross. But some encounters change everything, reopening old wounds. And when love appears unexpectedly, nothing is certain anymore.",
       "releaseInfo": "2026",
-      "imdbRating": "7.9",
+      "imdbRating": "7.8",
       "background": "https://image.tmdb.org/t/p/w500/aa1mDCaRtGNEIHVpZrh2xil03Tq.jpg"
     },
     {
@@ -31,13 +31,23 @@
       "background": "https://image.tmdb.org/t/p/w500/c9DEtqCDZBPL9i06WmbDrcndrBy.jpg"
     },
     {
+      "id": "tt8014982",
+      "type": "series",
+      "name": "The Body",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt8014982.jpg",
+      "description": "On Halloween night, an all-girls dance squad tumbles into Catholic guilt, unholy desires and ghostly visions when an initiation goes to hell.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.1",
+      "background": "https://image.tmdb.org/t/p/w500/zksg8e0GZAmg1nLhVP5tKso3QRs.jpg"
+    },
+    {
       "id": "tt36458668",
       "type": "series",
       "name": "Dead-End Job",
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36458668.jpg",
       "description": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency \u2014 only to find his hustle for more money turning nightmarish.",
       "releaseInfo": "2026",
-      "imdbRating": "7.5",
+      "imdbRating": "7.6",
       "background": "https://image.tmdb.org/t/p/w500/wUvzMC7EToPgci31ZZRCeqCmQ6d.jpg"
     },
     {
@@ -47,7 +57,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26598805.jpg",
       "description": "When a victim of notorious serial killer Jurek Walter unexpectedly turns up alive, detective Jonah Lynn races against time to find the one person still missing, while his prot\u00e9g\u00e9 Saga Bauer goes undercover to get answers from the killer himself.",
       "releaseInfo": "2026",
-      "imdbRating": "7.6",
+      "imdbRating": "7.5",
       "background": "https://image.tmdb.org/t/p/w500/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg"
     },
     {
@@ -71,16 +81,6 @@
       "background": "https://image.tmdb.org/t/p/w500/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg"
     },
     {
-      "id": "tt29625288",
-      "type": "series",
-      "name": "Akka",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt29625288.jpg",
-      "description": "In a kingdom ruled by women, matriarch Bhavani faces her biggest threat in Rudra, a ruthless rebel eyeing her land and legacy.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.6",
-      "background": "https://image.tmdb.org/t/p/w500/tdnHaR0vlKMQbjmaCs2V3LDmzSd.jpg"
-    },
-    {
       "id": "tt37180305",
       "type": "series",
       "name": "Friends Sex and Games",
@@ -91,13 +91,23 @@
       "background": "https://image.tmdb.org/t/p/w500/zijeb3WqqTIYJm3mmp1sb0uNGUj.jpg"
     },
     {
+      "id": "tt29625288",
+      "type": "series",
+      "name": "Akka",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt29625288.jpg",
+      "description": "In a kingdom ruled by women, matriarch Bhavani faces her biggest threat in Rudra, a ruthless rebel eyeing her land and legacy.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.6",
+      "background": "https://image.tmdb.org/t/p/w500/tdnHaR0vlKMQbjmaCs2V3LDmzSd.jpg"
+    },
+    {
       "id": "tt31842126",
       "type": "series",
       "name": "The Good Daughter",
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31842126.jpg",
       "description": "Sisters Charlotte and Samantha Quinn have spent the last twenty-eight years trying to piece together the lives that were fractured by a single night of violence. When another attack splinters the small town of Pikeville, Charlotte is the first witness on the scene. Now a lawyer like her father, she\u2019s forced to confront her own demons as the case twists through one shocking revelation after another. In the end, both she and Samantha find themselves wondering if the price of being the good daughter was worth it after all.",
       "releaseInfo": "2026",
-      "imdbRating": "9.7",
+      "imdbRating": "8.0",
       "background": "https://image.tmdb.org/t/p/w500/qJPvyo9Pxz3MQndd3tKSocLz1Nt.jpg"
     },
     {
@@ -121,6 +131,16 @@
       "background": "https://image.tmdb.org/t/p/w500/kp8xgZ8SrikHQrPn2lC3hb50KD5.jpg"
     },
     {
+      "id": "tt41054228",
+      "type": "series",
+      "name": "Devils' Crest",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt41054228.jpg",
+      "description": "Yuma Ashihara was set to enjoy a test session of Actual Magic (AM)\u2014the world's first fulldive VRMMO-RPG\u2014together with his classmates Sawa Ashihara, Kenji Kondo, and Minagi Sano. The plan was simple: defeat the boss as a party of four, log out, and finish the test play safely \u2014 or at least, that's how it was supposed to go.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.3",
+      "background": "https://image.tmdb.org/t/p/w500/dRflgHEhzpy12nsYR11hvdoHEoK.jpg"
+    },
+    {
       "id": "tt38681812",
       "type": "series",
       "name": "Anaesthesia",
@@ -141,14 +161,14 @@
       "background": "https://image.tmdb.org/t/p/w500/uaMjtALuvZC7dGkYllGKKWEWW1J.jpg"
     },
     {
-      "id": "tt47657141",
+      "id": "tt21952924",
       "type": "series",
-      "name": "The Perfect Lie",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt47657141.jpg",
-      "description": "After a heart-fluttering date, Joonho, a heart surgeon with a perfect smile, and Jisun, a free-spirited teacher-librarian, share a special night. The next day, they meet at a police station with completely different memories. A shocking polygraph result turns their lives upside down.",
+      "name": "Phony",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt21952924.jpg",
+      "description": "After waking up from a freak car accident, Sonny discovers that his mother has been replaced by an impostor.",
       "releaseInfo": "2026",
-      "imdbRating": "8.5",
-      "background": "https://image.tmdb.org/t/p/w500/thXJkiBByDitV7iFSv1hU1sg7ij.jpg"
+      "imdbRating": "7.0",
+      "background": "https://image.tmdb.org/t/p/w500/iCyQc8cSSHkxUHbkvzbC77owALt.jpg"
     },
     {
       "id": "tt45854934",
@@ -161,14 +181,14 @@
       "background": "https://image.tmdb.org/t/p/w500/mAfYj5ZtR2V5ad6uham1PwAh0mc.jpg"
     },
     {
-      "id": "tt21952924",
+      "id": "tt47657141",
       "type": "series",
-      "name": "Phony",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt21952924.jpg",
-      "description": "After waking up from a freak car accident, Sonny discovers that his mother has been replaced by an impostor.",
+      "name": "The Perfect Lie",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt47657141.jpg",
+      "description": "After a heart-fluttering date, Joonho, a heart surgeon with a perfect smile, and Jisun, a free-spirited teacher-librarian, share a special night. The next day, they meet at a police station with completely different memories. A shocking polygraph result turns their lives upside down.",
       "releaseInfo": "2026",
-      "imdbRating": "7.2",
-      "background": "https://image.tmdb.org/t/p/w500/iCyQc8cSSHkxUHbkvzbC77owALt.jpg"
+      "imdbRating": "8.5",
+      "background": "https://image.tmdb.org/t/p/w500/thXJkiBByDitV7iFSv1hU1sg7ij.jpg"
     },
     {
       "id": "tt45114341",
@@ -207,7 +227,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt43681696.jpg",
       "description": "Beth Holloway, Natalee's mother, tells the full, definitive story of the case that's haunted her for the past 20 years - from the day of Natalee's disappearance to the dramatic confession two decades later.",
       "releaseInfo": "2026",
-      "imdbRating": "7.6",
+      "imdbRating": "7.8",
       "background": "https://image.tmdb.org/t/p/w500/rKyjcuSbsDDDcIisa6cx5k5yQNa.jpg"
     },
     {
@@ -217,7 +237,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44941753.jpg",
       "description": "Told through intimate testimonies from close family and friends, this documentary event reveals the real Matthew Perry\u2014generous, funny, vulnerable, larger than life\u2014and the battles he fought to become the man behind the icon. A raw record of a life lived in full, and the honesty that became his greatest legacy.",
       "releaseInfo": "2026",
-      "imdbRating": "7.4",
+      "imdbRating": "7.7",
       "background": "https://image.tmdb.org/t/p/w500/zDSjGvywwyWUqnMIpYYwFDyA7Az.jpg"
     },
     {
@@ -229,6 +249,16 @@
       "releaseInfo": "2026",
       "imdbRating": "7.6",
       "background": "https://image.tmdb.org/t/p/w500/cqqfz3t8xsuPLwl5Obo7f9KwFDE.jpg"
+    },
+    {
+      "id": "tt50135019",
+      "type": "series",
+      "name": "Get Huge: Looksmaxxing to Death",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt50135019.jpg",
+      "description": "An unflinching portrait of masculinity in the influencer age, where extreme biohacking, online performance and a series of suspicious deaths converge.",
+      "releaseInfo": "2026",
+      "imdbRating": "10.0",
+      "background": "https://image.tmdb.org/t/p/w500/9qODvXSjoQmRKU9Xp24Oiucv9aZ.jpg"
     },
     {
       "id": "tt46658083",
@@ -251,6 +281,16 @@
       "background": "https://image.tmdb.org/t/p/w500/6LZBleoBdvT02XHAaHKzPJIEVx9.jpg"
     },
     {
+      "id": "tt44914557",
+      "type": "series",
+      "name": "ROCK PAPER LANDMINE",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44914557.jpg",
+      "description": "Glico, Daruma-san ga Koronda... A game everyone knows\u2014transformed into the ultimate battle of wits!?",
+      "releaseInfo": "2026",
+      "imdbRating": "7.0",
+      "background": "https://image.tmdb.org/t/p/w500/kK5p5DJTS2rAzOVrvjhLMg7rsmm.jpg"
+    },
+    {
       "id": "tt48356732",
       "type": "series",
       "name": "Swipe Right on the Devil",
@@ -267,7 +307,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt48499601.jpg",
       "description": "A three-part miniseries investigating the case of Jos\u00e9 Luis Calva Zepeda, a notorious serial killer accused of cannibalizing his girlfriend.",
       "releaseInfo": "2026",
-      "imdbRating": "7.0",
+      "imdbRating": "8.0",
       "background": "https://image.tmdb.org/t/p/w500/h65U3K1evI9MWv2m8kzUgNLnoqq.jpg"
     },
     {
@@ -291,34 +331,14 @@
       "background": "https://image.tmdb.org/t/p/w500/aYQDNPmBifsiNdLFrvWLT19lb6w.jpg"
     },
     {
-      "id": "tt39018552",
+      "id": "tt39494650",
       "type": "series",
-      "name": "Alas Roban: The Series",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39018552.jpg",
-      "description": "When her husband vanishes on a perilous road, a mortuary worker uncovers a sinister pattern of deaths while working to secure her daughter's eye surgery.",
+      "name": "Miracles of the ER",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39494650.jpg",
+      "description": "A bold decision brings an average med student to an elite ER team, where he encounters medical crises, ethical dilemmas, and personal growth.",
       "releaseInfo": "2026",
-      "imdbRating": "10.0",
-      "background": "https://image.tmdb.org/t/p/w500/wi5ydBPkfjI7p0fFRqaRLwMG1Wo.jpg"
-    },
-    {
-      "id": "tt50135019",
-      "type": "series",
-      "name": "Get Huge: Looksmaxxing to Death",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt50135019.jpg",
-      "description": "An unflinching portrait of masculinity in the influencer age, where extreme biohacking, online performance and a series of suspicious deaths converge.",
-      "releaseInfo": "2026",
-      "imdbRating": "10.0",
-      "background": "https://image.tmdb.org/t/p/w500/9qODvXSjoQmRKU9Xp24Oiucv9aZ.jpg"
-    },
-    {
-      "id": "tt39044730",
-      "type": "series",
-      "name": "Oxytoxin",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39044730.jpg",
-      "description": "The elite, popular girls known as Toxxxxin rule the school, but an unexpected bond with a scholarship student could unravel their carefully kept secrets.",
-      "releaseInfo": "2026",
-      "imdbRating": "10.0",
-      "background": "https://image.tmdb.org/t/p/w500/mcjgiKrhHldOqRs7bmfIyCc3cfJ.jpg"
+      "imdbRating": "8.0",
+      "background": "https://image.tmdb.org/t/p/w500/AaeU5NdIyoRl3qXy1z2sT5hDyio.jpg"
     },
     {
       "id": "tt39602642",
@@ -329,6 +349,16 @@
       "releaseInfo": "2026",
       "imdbRating": "8.0",
       "background": "https://image.tmdb.org/t/p/w500/e7OGE2mfvhfDCd1jJNju5G155hX.jpg"
+    },
+    {
+      "id": "tt39044730",
+      "type": "series",
+      "name": "Oxytoxin",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39044730.jpg",
+      "description": "The elite, popular girls known as Toxxxxin rule the school, but an unexpected bond with a scholarship student could unravel their carefully kept secrets.",
+      "releaseInfo": "2026",
+      "imdbRating": "10.0",
+      "background": "https://image.tmdb.org/t/p/w500/mcjgiKrhHldOqRs7bmfIyCc3cfJ.jpg"
     },
     {
       "id": "tt49702110",
