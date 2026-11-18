@@ -1,16 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt39325975",
-      "type": "series",
-      "name": "The Remarried Empress",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39325975.jpg",
-      "description": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.6",
-      "background": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg"
-    },
-    {
       "id": "tt8014982",
       "type": "series",
       "name": "The Body",
@@ -18,7 +8,17 @@
       "description": "On Halloween night, an all-girls dance squad tumbles into Catholic guilt, unholy desires and ghostly visions when an initiation goes to hell.",
       "releaseInfo": "2026",
       "imdbRating": "7.8",
-      "background": "https://image.tmdb.org/t/p/w500/zleCYDRbW5mKwgZwVK4SNIrKXWx.jpg"
+      "background": "https://image.tmdb.org/t/p/w500/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg"
+    },
+    {
+      "id": "tt39325975",
+      "type": "series",
+      "name": "The Remarried Empress",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39325975.jpg",
+      "description": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.7",
+      "background": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg"
     },
     {
       "id": "tt45246384",
@@ -37,7 +37,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39943756.jpg",
       "description": "Lois arrives in Belrose with Max, the love of her life. Lane, the creator of Campus Drivers, the hottest app on campus, is known for never getting attached. Their paths were never meant to cross. But some encounters change everything, reopening old wounds. And when love appears unexpectedly, nothing is certain anymore.",
       "releaseInfo": "2026",
-      "imdbRating": "7.8",
+      "imdbRating": "7.9",
       "background": "https://image.tmdb.org/t/p/w500/kTgV6VLp70QOBpCZqvEuTWAA4Ng.jpg"
     },
     {
@@ -47,7 +47,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26598805.jpg",
       "description": "When a victim of notorious serial killer Jurek Walter unexpectedly turns up alive, detective Jonah Lynn races against time to find the one person still missing, while his prot\u00e9g\u00e9 Saga Bauer goes undercover to get answers from the killer himself.",
       "releaseInfo": "2026",
-      "imdbRating": "7.5",
+      "imdbRating": "7.6",
       "background": "https://image.tmdb.org/t/p/w500/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg"
     },
     {
@@ -77,7 +77,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31842126.jpg",
       "description": "Sisters Charlotte and Samantha Quinn have spent the last twenty-eight years trying to piece together the lives that were fractured by a single night of violence. When another attack splinters the small town of Pikeville, Charlotte is the first witness on the scene. Now a lawyer like her father, she\u2019s forced to confront her own demons as the case twists through one shocking revelation after another. In the end, both she and Samantha find themselves wondering if the price of being the good daughter was worth it after all.",
       "releaseInfo": "2026",
-      "imdbRating": "8.0",
+      "imdbRating": "7.9",
       "background": "https://image.tmdb.org/t/p/w500/qJPvyo9Pxz3MQndd3tKSocLz1Nt.jpg"
     },
     {
@@ -117,7 +117,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39957390.jpg",
       "description": "In a steampunk West overrun by outlaws, machines and supernatural forces, a father is forced to become judge, jury and executioner to protect his family.",
       "releaseInfo": "2026",
-      "imdbRating": "7.7",
+      "imdbRating": "7.8",
       "background": "https://image.tmdb.org/t/p/w500/q7eWmFOfdHqm15YrKiYmR8XEVRx.jpg"
     },
     {
@@ -131,14 +131,14 @@
       "background": "https://image.tmdb.org/t/p/w500/tdnHaR0vlKMQbjmaCs2V3LDmzSd.jpg"
     },
     {
-      "id": "tt50135019",
+      "id": "tt37762350",
       "type": "series",
-      "name": "Get Huge: Looksmaxxing to Death",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt50135019.jpg",
-      "description": "An unflinching portrait of masculinity in the influencer age, where extreme biohacking, online performance and a series of suspicious deaths converge.",
+      "name": "Under Siege",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37762350.jpg",
+      "description": "Caught in the crossfire, hostages, militaries and guerrillas are swept into a tragedy that brings turmoil to Colombia.",
       "releaseInfo": "2026",
-      "imdbRating": "8.0",
-      "background": "https://image.tmdb.org/t/p/w500/9qODvXSjoQmRKU9Xp24Oiucv9aZ.jpg"
+      "imdbRating": "7.0",
+      "background": "https://image.tmdb.org/t/p/w500/ikJ62NkEVyCwwar4UFrdyc0gMlq.jpg"
     },
     {
       "id": "tt41054228",
@@ -151,14 +151,34 @@
       "background": "https://image.tmdb.org/t/p/w500/dRflgHEhzpy12nsYR11hvdoHEoK.jpg"
     },
     {
+      "id": "tt50135019",
+      "type": "series",
+      "name": "Get Huge: Looksmaxxing to Death",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt50135019.jpg",
+      "description": "An unflinching portrait of masculinity in the influencer age, where extreme biohacking, online performance and a series of suspicious deaths converge.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.0",
+      "background": "https://image.tmdb.org/t/p/w500/9qODvXSjoQmRKU9Xp24Oiucv9aZ.jpg"
+    },
+    {
+      "id": "tt21952924",
+      "type": "series",
+      "name": "Phony",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt21952924.jpg",
+      "description": "After waking up from a freak car accident, Sonny discovers that his mother has been replaced by an impostor.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.0",
+      "background": "https://image.tmdb.org/t/p/w500/iCyQc8cSSHkxUHbkvzbC77owALt.jpg"
+    },
+    {
       "id": "tt37214564",
       "type": "series",
       "name": "ChiaroScuro",
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37214564.jpg",
       "description": "After a body is found in a Roman museum, an art expert must apply his instincts and skills to help police solve a mystery connected to his own past.",
       "releaseInfo": "2026",
-      "imdbRating": "7.5",
-      "background": "https://image.tmdb.org/t/p/w500/m9eZy0jzWCHSUUzbzIpysOrLgFb.jpg"
+      "imdbRating": "7.7",
+      "background": "https://image.tmdb.org/t/p/w500/h4dM4FjqSJihwGpo3x0llMvNSfg.jpg"
     },
     {
       "id": "tt47657141",
@@ -181,14 +201,14 @@
       "background": "https://image.tmdb.org/t/p/w500/4Pn7Qjfe4Jne7nZzLDe6vfPUM1f.jpg"
     },
     {
-      "id": "tt21952924",
+      "id": "tt38961437",
       "type": "series",
-      "name": "Phony",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt21952924.jpg",
-      "description": "After waking up from a freak car accident, Sonny discovers that his mother has been replaced by an impostor.",
+      "name": "Silent Night",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38961437.jpg",
+      "description": "Follow the aftermath of a brutal Christmas Eve crime and its impact on a rural Polish community.",
       "releaseInfo": "2026",
-      "imdbRating": "7.0",
-      "background": "https://image.tmdb.org/t/p/w500/iCyQc8cSSHkxUHbkvzbC77owALt.jpg"
+      "imdbRating": "7.9",
+      "background": "https://image.tmdb.org/t/p/w500/qRf44yrp9BkhNLREi2mU3ikx4dG.jpg"
     },
     {
       "id": "tt45854934",
@@ -221,16 +241,6 @@
       "background": "https://image.tmdb.org/t/p/w500/6hNf9che0KvninHhKDuniNa2OWQ.jpg"
     },
     {
-      "id": "tt44914557",
-      "type": "series",
-      "name": "ROCK PAPER LANDMINE",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44914557.jpg",
-      "description": "Glico, Daruma-san ga Koronda... A game everyone knows\u2014transformed into the ultimate battle of wits!?",
-      "releaseInfo": "2026",
-      "imdbRating": "8.5",
-      "background": "https://image.tmdb.org/t/p/w500/kK5p5DJTS2rAzOVrvjhLMg7rsmm.jpg"
-    },
-    {
       "id": "tt49250618",
       "type": "series",
       "name": "The Fall of El Mayo",
@@ -248,17 +258,17 @@
       "description": "Once Japan's most renowned actor, Gen is suddenly forgotten. Fueled by a need for recognition, he claws his way back from zero in this comedy.",
       "releaseInfo": "2026",
       "imdbRating": "7.7",
-      "background": "https://image.tmdb.org/t/p/w500/cqqfz3t8xsuPLwl5Obo7f9KwFDE.jpg"
+      "background": "https://image.tmdb.org/t/p/w500/wC91d4hwTv4fqeUzXy8RzE9nGQD.jpg"
     },
     {
-      "id": "tt43681696",
+      "id": "tt44914557",
       "type": "series",
-      "name": "Taken: Natalee Holloway",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt43681696.jpg",
-      "description": "Beth Holloway, Natalee's mother, tells the full, definitive story of the case that's haunted her for the past 20 years - from the day of Natalee's disappearance to the dramatic confession two decades later.",
+      "name": "ROCK PAPER LANDMINE",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44914557.jpg",
+      "description": "Glico, Daruma-san ga Koronda... A game everyone knows\u2014transformed into the ultimate battle of wits!?",
       "releaseInfo": "2026",
-      "imdbRating": "7.7",
-      "background": "https://image.tmdb.org/t/p/w500/rKyjcuSbsDDDcIisa6cx5k5yQNa.jpg"
+      "imdbRating": "8.5",
+      "background": "https://image.tmdb.org/t/p/w500/kK5p5DJTS2rAzOVrvjhLMg7rsmm.jpg"
     },
     {
       "id": "tt44941753",
@@ -267,18 +277,18 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44941753.jpg",
       "description": "Told through intimate testimonies from close family and friends, this documentary event reveals the real Matthew Perry\u2014generous, funny, vulnerable, larger than life\u2014and the battles he fought to become the man behind the icon. A raw record of a life lived in full, and the honesty that became his greatest legacy.",
       "releaseInfo": "2026",
-      "imdbRating": "7.5",
+      "imdbRating": "7.6",
       "background": "https://image.tmdb.org/t/p/w500/zDSjGvywwyWUqnMIpYYwFDyA7Az.jpg"
     },
     {
-      "id": "tt45643443",
+      "id": "tt43681696",
       "type": "series",
-      "name": "Clangold",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt45643443.jpg",
-      "description": "A 100-kilogram gold coin called the Big Maple Leaf is stolen from Berlin's Bode Museum, leading investigators into the city's clan gang milieu in a cat-and-mouse pursuit of the perpetrators.",
+      "name": "Taken: Natalee Holloway",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt43681696.jpg",
+      "description": "Beth Holloway, Natalee's mother, tells the full, definitive story of the case that's haunted her for the past 20 years - from the day of Natalee's disappearance to the dramatic confession two decades later.",
       "releaseInfo": "2026",
-      "imdbRating": "8.5",
-      "background": "https://image.tmdb.org/t/p/w500/9Y8DXNSG0NfTL98S9b9qiqaIzzw.jpg"
+      "imdbRating": "7.6",
+      "background": "https://image.tmdb.org/t/p/w500/rKyjcuSbsDDDcIisa6cx5k5yQNa.jpg"
     },
     {
       "id": "tt46658083",
@@ -301,14 +311,14 @@
       "background": "https://image.tmdb.org/t/p/w500/6LZBleoBdvT02XHAaHKzPJIEVx9.jpg"
     },
     {
-      "id": "tt50986266",
+      "id": "tt45643443",
       "type": "series",
-      "name": "Maniacs of the Truth",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt50986266.jpg",
-      "description": "This two-part documentary series explores Hungary\u2019s most notorious and high-profile criminal cases following the fall of communism through the regular dinner gatherings of a unique group of friends - including retired detective Ern\u0151 T\u00f3th and his former colleagues.",
+      "name": "Clangold",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt45643443.jpg",
+      "description": "A 100-kilogram gold coin called the Big Maple Leaf is stolen from Berlin's Bode Museum, leading investigators into the city's clan gang milieu in a cat-and-mouse pursuit of the perpetrators.",
       "releaseInfo": "2026",
-      "imdbRating": "10.0",
-      "background": "https://image.tmdb.org/t/p/w500/kseV4cI5bRnNfKrgOEKsJ1WKoFr.jpg"
+      "imdbRating": "8.5",
+      "background": "https://image.tmdb.org/t/p/w500/9Y8DXNSG0NfTL98S9b9qiqaIzzw.jpg"
     },
     {
       "id": "tt48356732",
@@ -321,6 +331,16 @@
       "background": "https://image.tmdb.org/t/p/w500/oW8Bz7jYpJ6Z7IktvXMym9hdgci.jpg"
     },
     {
+      "id": "tt50986266",
+      "type": "series",
+      "name": "Maniacs of the Truth",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt50986266.jpg",
+      "description": "This two-part documentary series explores Hungary\u2019s most notorious and high-profile criminal cases following the fall of communism through the regular dinner gatherings of a unique group of friends - including retired detective Ern\u0151 T\u00f3th and his former colleagues.",
+      "releaseInfo": "2026",
+      "imdbRating": "10.0",
+      "background": "https://image.tmdb.org/t/p/w500/kseV4cI5bRnNfKrgOEKsJ1WKoFr.jpg"
+    },
+    {
       "id": "tt48499601",
       "type": "series",
       "name": "Cannibal Poet",
@@ -329,16 +349,6 @@
       "releaseInfo": "2026",
       "imdbRating": "8.0",
       "background": "https://image.tmdb.org/t/p/w500/h65U3K1evI9MWv2m8kzUgNLnoqq.jpg"
-    },
-    {
-      "id": "tt39044730",
-      "type": "series",
-      "name": "Oxytoxin",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39044730.jpg",
-      "description": "The elite, popular girls known as Toxxxxin rule the school, but an unexpected bond with a scholarship student could unravel their carefully kept secrets.",
-      "releaseInfo": "2026",
-      "imdbRating": "10.0",
-      "background": "https://image.tmdb.org/t/p/w500/mcjgiKrhHldOqRs7bmfIyCc3cfJ.jpg"
     },
     {
       "id": "tt39602642",
@@ -351,6 +361,26 @@
       "background": "https://image.tmdb.org/t/p/w500/e7OGE2mfvhfDCd1jJNju5G155hX.jpg"
     },
     {
+      "id": "tt39044730",
+      "type": "series",
+      "name": "Oxytoxin",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39044730.jpg",
+      "description": "The elite, popular girls known as Toxxxxin rule the school, but an unexpected bond with a scholarship student could unravel their carefully kept secrets.",
+      "releaseInfo": "2026",
+      "imdbRating": "10.0",
+      "background": "https://image.tmdb.org/t/p/w500/mcjgiKrhHldOqRs7bmfIyCc3cfJ.jpg"
+    },
+    {
+      "id": "tt40939600",
+      "type": "series",
+      "name": "Crime and Punishment in America",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt40939600.jpg",
+      "description": "The story of criminal justice in America from the colonial era to today, and how Americans have wrestled with the problem of crime, the purpose of punishment and the meaning of justice for more than 250 years.",
+      "releaseInfo": "2026",
+      "imdbRating": "10.0",
+      "background": "https://image.tmdb.org/t/p/w500/acfpMRRWRgVrsyA2Rb2gxV3BDgQ.jpg"
+    },
+    {
       "id": "tt49702110",
       "type": "series",
       "name": "Matargashti",
@@ -359,16 +389,6 @@
       "releaseInfo": "2026",
       "imdbRating": "7.0",
       "background": "https://image.tmdb.org/t/p/w500/dVEU36dwQpk4IF0jdtziF1P8LPc.jpg"
-    },
-    {
-      "id": "tt46269844",
-      "type": "series",
-      "name": "A Course Called Ireland",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt46269844.jpg",
-      "description": "Bill Murray and friends go on an unpredictable road trip around the Republic of Ireland and Northern Ireland, playing their way across some of the island\u2019s most legendary golf courses.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.7",
-      "background": "https://image.tmdb.org/t/p/w500/fqry4uxJuyFcSR3locllFwxES3K.jpg"
     }
   ],
   "cacheMaxAge": 3600

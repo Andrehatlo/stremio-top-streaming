@@ -361,16 +361,6 @@
       "background": "https://image.tmdb.org/t/p/w500/lbBWwxBht4JFP5PsuJ5onpMqugW.jpg"
     },
     {
-      "id": "tt5950044",
-      "type": "movie",
-      "name": "Superman",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5950044.jpg",
-      "description": "Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.",
-      "releaseInfo": "2025",
-      "imdbRating": "7.3",
-      "background": "https://image.tmdb.org/t/p/w500/ombsmhYUqR4qqOLOxAyr5V8hbyv.jpg"
-    },
-    {
       "id": "tt32246771",
       "type": "movie",
       "name": "Bring Her Back",
@@ -381,14 +371,14 @@
       "background": "https://image.tmdb.org/t/p/w500/1Q3GlCXGYWELifxANYZ5OVMRVZl.jpg"
     },
     {
-      "id": "tt12300742",
+      "id": "tt5950044",
       "type": "movie",
-      "name": "Bugonia",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt12300742.jpg",
-      "description": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
+      "name": "Superman",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt5950044.jpg",
+      "description": "Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.",
       "releaseInfo": "2025",
       "imdbRating": "7.3",
-      "background": "https://image.tmdb.org/t/p/w500/rSdOua3wKMEaFWDcKAYWRjXQWOt.jpg"
+      "background": "https://image.tmdb.org/t/p/w500/ombsmhYUqR4qqOLOxAyr5V8hbyv.jpg"
     },
     {
       "id": "tt20969586",
@@ -399,6 +389,16 @@
       "releaseInfo": "2025",
       "imdbRating": "7.3",
       "background": "https://image.tmdb.org/t/p/w500/hqcexYHbiTBfDIdDWxrxPtVndBX.jpg"
+    },
+    {
+      "id": "tt12300742",
+      "type": "movie",
+      "name": "Bugonia",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt12300742.jpg",
+      "description": "Two conspiracy obsessed young men kidnap the high-powered CEO of a major company, convinced that she is an alien intent on destroying planet Earth.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.3",
+      "background": "https://image.tmdb.org/t/p/w500/rSdOua3wKMEaFWDcKAYWRjXQWOt.jpg"
     }
   ],
   "cacheMaxAge": 3600
