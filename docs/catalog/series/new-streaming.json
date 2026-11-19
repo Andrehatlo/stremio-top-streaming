@@ -1,34 +1,24 @@
 {
   "metas": [
     {
-      "id": "tt8014982",
-      "type": "series",
-      "name": "The Body",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt8014982.jpg",
-      "description": "On Halloween night, an all-girls dance squad tumbles into Catholic guilt, unholy desires and ghostly visions when an initiation goes to hell.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.8",
-      "background": "https://image.tmdb.org/t/p/w500/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg"
-    },
-    {
       "id": "tt39325975",
       "type": "series",
       "name": "The Remarried Empress",
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39325975.jpg",
       "description": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
       "releaseInfo": "2026",
-      "imdbRating": "8.7",
+      "imdbRating": "8.8",
       "background": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg"
     },
     {
-      "id": "tt45246384",
+      "id": "tt8014982",
       "type": "series",
-      "name": "Love in Disguise",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt45246384.jpg",
-      "description": "Taekang Group's successor, Yoon Yi-jun, is the prime suspect of a shocking murder. To uncover the truth, Kang Jae-hee goes undercover as a male secretary to keep an eye on Yi-jun. The closer they get to what really happened, the closer Yi-jun and Jae-hee become. Will Jae-hee, who is hiding her identity, and Yi-jun, who is hiding a secret, be able to let their true feelings be known to one another?",
+      "name": "The Body",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt8014982.jpg",
+      "description": "On Halloween night, an all-girls dance squad tumbles into Catholic guilt, unholy desires and ghostly visions when an initiation goes to hell.",
       "releaseInfo": "2026",
-      "imdbRating": "9.1",
-      "background": "https://image.tmdb.org/t/p/w500/c9DEtqCDZBPL9i06WmbDrcndrBy.jpg"
+      "imdbRating": "7.9",
+      "background": "https://image.tmdb.org/t/p/w500/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg"
     },
     {
       "id": "tt39943756",
@@ -37,7 +27,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39943756.jpg",
       "description": "Lois arrives in Belrose with Max, the love of her life. Lane, the creator of Campus Drivers, the hottest app on campus, is known for never getting attached. Their paths were never meant to cross. But some encounters change everything, reopening old wounds. And when love appears unexpectedly, nothing is certain anymore.",
       "releaseInfo": "2026",
-      "imdbRating": "7.9",
+      "imdbRating": "7.8",
       "background": "https://image.tmdb.org/t/p/w500/kTgV6VLp70QOBpCZqvEuTWAA4Ng.jpg"
     },
     {
@@ -77,7 +67,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31842126.jpg",
       "description": "Sisters Charlotte and Samantha Quinn have spent the last twenty-eight years trying to piece together the lives that were fractured by a single night of violence. When another attack splinters the small town of Pikeville, Charlotte is the first witness on the scene. Now a lawyer like her father, she\u2019s forced to confront her own demons as the case twists through one shocking revelation after another. In the end, both she and Samantha find themselves wondering if the price of being the good daughter was worth it after all.",
       "releaseInfo": "2026",
-      "imdbRating": "7.9",
+      "imdbRating": "7.6",
       "background": "https://image.tmdb.org/t/p/w500/qJPvyo9Pxz3MQndd3tKSocLz1Nt.jpg"
     },
     {
@@ -91,14 +81,44 @@
       "background": "https://image.tmdb.org/t/p/w500/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg"
     },
     {
+      "id": "tt44079238",
+      "type": "series",
+      "name": "The Law of Beasts",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44079238.jpg",
+      "description": "When the case of a child serial killer resurfaces after 25 years as an unresolved legal and social problem, two former friends are forced to confront the choices that broke their friendship and shaped their lives.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.0",
+      "background": "https://image.tmdb.org/t/p/w500/KnhUSXgKqiG96mf4GofisAhhS2.jpg"
+    },
+    {
+      "id": "tt41559886",
+      "type": "series",
+      "name": "Gordon",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt41559886.jpg",
+      "description": "An\u00edbal Gordon rises from a small-time thief to a convicted murderer in Argentina during the '70s.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.3",
+      "background": "https://image.tmdb.org/t/p/w500/wzY5EjF8X1plKUWHwIRW6eNCqFU.jpg"
+    },
+    {
       "id": "tt49692512",
       "type": "series",
       "name": "Final Table",
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt49692512.jpg",
       "description": "The Table: K-Chef 2026 brings together Korea's top chefs to compete for the title of the country's best chef. Mysterious world-renowned chef Chris K., also known as Kang Han, Song-yi, who is fighting to save her restaurant, perfectionist star chef Woo-jin, and chefs with stories of their own face off in a fierce culinary battle. More than a competition, they find comfort in food and one another.",
       "releaseInfo": "2026",
-      "imdbRating": "8.3",
+      "imdbRating": "8.9",
       "background": "https://image.tmdb.org/t/p/w500/uaMjtALuvZC7dGkYllGKKWEWW1J.jpg"
+    },
+    {
+      "id": "tt29625288",
+      "type": "series",
+      "name": "Akka",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt29625288.jpg",
+      "description": "In a kingdom ruled by women, matriarch Bhavani faces her biggest threat in Rudra, a ruthless rebel eyeing her land and legacy.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.6",
+      "background": "https://image.tmdb.org/t/p/w500/tdnHaR0vlKMQbjmaCs2V3LDmzSd.jpg"
     },
     {
       "id": "tt39980704",
@@ -121,24 +141,24 @@
       "background": "https://image.tmdb.org/t/p/w500/q7eWmFOfdHqm15YrKiYmR8XEVRx.jpg"
     },
     {
-      "id": "tt29625288",
-      "type": "series",
-      "name": "Akka",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt29625288.jpg",
-      "description": "In a kingdom ruled by women, matriarch Bhavani faces her biggest threat in Rudra, a ruthless rebel eyeing her land and legacy.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.6",
-      "background": "https://image.tmdb.org/t/p/w500/tdnHaR0vlKMQbjmaCs2V3LDmzSd.jpg"
-    },
-    {
       "id": "tt37762350",
       "type": "series",
       "name": "Under Siege",
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37762350.jpg",
       "description": "Caught in the crossfire, hostages, militaries and guerrillas are swept into a tragedy that brings turmoil to Colombia.",
       "releaseInfo": "2026",
-      "imdbRating": "7.0",
+      "imdbRating": "7.2",
       "background": "https://image.tmdb.org/t/p/w500/ikJ62NkEVyCwwar4UFrdyc0gMlq.jpg"
+    },
+    {
+      "id": "tt21952924",
+      "type": "series",
+      "name": "Phony",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt21952924.jpg",
+      "description": "After waking up from a freak car accident, Sonny discovers that his mother has been replaced by an impostor.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.0",
+      "background": "https://image.tmdb.org/t/p/w500/iCyQc8cSSHkxUHbkvzbC77owALt.jpg"
     },
     {
       "id": "tt41054228",
@@ -161,16 +181,6 @@
       "background": "https://image.tmdb.org/t/p/w500/9qODvXSjoQmRKU9Xp24Oiucv9aZ.jpg"
     },
     {
-      "id": "tt21952924",
-      "type": "series",
-      "name": "Phony",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt21952924.jpg",
-      "description": "After waking up from a freak car accident, Sonny discovers that his mother has been replaced by an impostor.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.0",
-      "background": "https://image.tmdb.org/t/p/w500/iCyQc8cSSHkxUHbkvzbC77owALt.jpg"
-    },
-    {
       "id": "tt37214564",
       "type": "series",
       "name": "ChiaroScuro",
@@ -179,6 +189,16 @@
       "releaseInfo": "2026",
       "imdbRating": "7.7",
       "background": "https://image.tmdb.org/t/p/w500/h4dM4FjqSJihwGpo3x0llMvNSfg.jpg"
+    },
+    {
+      "id": "tt38961437",
+      "type": "series",
+      "name": "Silent Night",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38961437.jpg",
+      "description": "Follow the aftermath of a brutal Christmas Eve crime and its impact on a rural Polish community.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.9",
+      "background": "https://image.tmdb.org/t/p/w500/qRf44yrp9BkhNLREi2mU3ikx4dG.jpg"
     },
     {
       "id": "tt47657141",
@@ -201,16 +221,6 @@
       "background": "https://image.tmdb.org/t/p/w500/4Pn7Qjfe4Jne7nZzLDe6vfPUM1f.jpg"
     },
     {
-      "id": "tt38961437",
-      "type": "series",
-      "name": "Silent Night",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38961437.jpg",
-      "description": "Follow the aftermath of a brutal Christmas Eve crime and its impact on a rural Polish community.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.9",
-      "background": "https://image.tmdb.org/t/p/w500/qRf44yrp9BkhNLREi2mU3ikx4dG.jpg"
-    },
-    {
       "id": "tt45854934",
       "type": "series",
       "name": "The Gift of Deceit",
@@ -227,7 +237,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt42220724.jpg",
       "description": "Teens struggle to run a local pizzeria while juggling school, a manic boss and minimum wage in this series based on the hit social media shorts.",
       "releaseInfo": "2026",
-      "imdbRating": "7.5",
+      "imdbRating": "7.3",
       "background": "https://image.tmdb.org/t/p/w500/iTVhDUbzUFUJ18jrcYM4rw7qGk.jpg"
     },
     {
@@ -239,6 +249,16 @@
       "releaseInfo": "2026",
       "imdbRating": "9.3",
       "background": "https://image.tmdb.org/t/p/w500/6hNf9che0KvninHhKDuniNa2OWQ.jpg"
+    },
+    {
+      "id": "tt44914557",
+      "type": "series",
+      "name": "Rock, Paper, Landmines",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44914557.jpg",
+      "description": "Glico, Daruma-san ga Koronda... A game everyone knows\u2014transformed into the ultimate battle of wits!?",
+      "releaseInfo": "2026",
+      "imdbRating": "8.5",
+      "background": "https://image.tmdb.org/t/p/w500/kK5p5DJTS2rAzOVrvjhLMg7rsmm.jpg"
     },
     {
       "id": "tt49250618",
@@ -261,16 +281,6 @@
       "background": "https://image.tmdb.org/t/p/w500/wC91d4hwTv4fqeUzXy8RzE9nGQD.jpg"
     },
     {
-      "id": "tt44914557",
-      "type": "series",
-      "name": "ROCK PAPER LANDMINE",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44914557.jpg",
-      "description": "Glico, Daruma-san ga Koronda... A game everyone knows\u2014transformed into the ultimate battle of wits!?",
-      "releaseInfo": "2026",
-      "imdbRating": "8.5",
-      "background": "https://image.tmdb.org/t/p/w500/kK5p5DJTS2rAzOVrvjhLMg7rsmm.jpg"
-    },
-    {
       "id": "tt44941753",
       "type": "series",
       "name": "The One About Matthew Perry",
@@ -287,8 +297,18 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt43681696.jpg",
       "description": "Beth Holloway, Natalee's mother, tells the full, definitive story of the case that's haunted her for the past 20 years - from the day of Natalee's disappearance to the dramatic confession two decades later.",
       "releaseInfo": "2026",
-      "imdbRating": "7.6",
+      "imdbRating": "7.4",
       "background": "https://image.tmdb.org/t/p/w500/rKyjcuSbsDDDcIisa6cx5k5yQNa.jpg"
+    },
+    {
+      "id": "tt45643443",
+      "type": "series",
+      "name": "Clangold",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt45643443.jpg",
+      "description": "A 100-kilogram gold coin called the Big Maple Leaf is stolen from Berlin's Bode Museum, leading investigators into the city's clan gang milieu in a cat-and-mouse pursuit of the perpetrators.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.5",
+      "background": "https://image.tmdb.org/t/p/w500/9Y8DXNSG0NfTL98S9b9qiqaIzzw.jpg"
     },
     {
       "id": "tt46658083",
@@ -311,14 +331,14 @@
       "background": "https://image.tmdb.org/t/p/w500/6LZBleoBdvT02XHAaHKzPJIEVx9.jpg"
     },
     {
-      "id": "tt45643443",
+      "id": "tt50986266",
       "type": "series",
-      "name": "Clangold",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt45643443.jpg",
-      "description": "A 100-kilogram gold coin called the Big Maple Leaf is stolen from Berlin's Bode Museum, leading investigators into the city's clan gang milieu in a cat-and-mouse pursuit of the perpetrators.",
+      "name": "Maniacs of the Truth",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt50986266.jpg",
+      "description": "This two-part documentary series explores Hungary\u2019s most notorious and high-profile criminal cases following the fall of communism through the regular dinner gatherings of a unique group of friends - including retired detective Ern\u0151 T\u00f3th and his former colleagues.",
       "releaseInfo": "2026",
       "imdbRating": "8.5",
-      "background": "https://image.tmdb.org/t/p/w500/9Y8DXNSG0NfTL98S9b9qiqaIzzw.jpg"
+      "background": "https://image.tmdb.org/t/p/w500/kseV4cI5bRnNfKrgOEKsJ1WKoFr.jpg"
     },
     {
       "id": "tt48356732",
@@ -331,16 +351,6 @@
       "background": "https://image.tmdb.org/t/p/w500/oW8Bz7jYpJ6Z7IktvXMym9hdgci.jpg"
     },
     {
-      "id": "tt50986266",
-      "type": "series",
-      "name": "Maniacs of the Truth",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt50986266.jpg",
-      "description": "This two-part documentary series explores Hungary\u2019s most notorious and high-profile criminal cases following the fall of communism through the regular dinner gatherings of a unique group of friends - including retired detective Ern\u0151 T\u00f3th and his former colleagues.",
-      "releaseInfo": "2026",
-      "imdbRating": "10.0",
-      "background": "https://image.tmdb.org/t/p/w500/kseV4cI5bRnNfKrgOEKsJ1WKoFr.jpg"
-    },
-    {
       "id": "tt48499601",
       "type": "series",
       "name": "Cannibal Poet",
@@ -351,34 +361,24 @@
       "background": "https://image.tmdb.org/t/p/w500/h65U3K1evI9MWv2m8kzUgNLnoqq.jpg"
     },
     {
-      "id": "tt39602642",
+      "id": "tt28450216",
       "type": "series",
-      "name": "The Golden Life",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39602642.jpg",
-      "description": "Bound by decades of shared history, fallouts and friendship, this fan-favorite group of New Yorkers are starting fresh together in the Sunshine State. In this new \u2018golden\u2019 era of life, the longtime friends are thriving in and around Palm Beach with fabulous second homes and a bustling social scene. With their signature humor and non-stop hijinks, the group navigates dating, family, and career milestones. Though skies are bright in Florida, unresolved drama looms as they reconnect after years of highs and lows.",
+      "name": "Student of the Year: After Dark",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt28450216.jpg",
+      "description": "Student of the Year: After Dark reimagines the St. Teresa's campus as the setting of a murder mystery after the school's queen bee, Aayesha Malik, is found dead in a frozen lake. Refusing to believe it was an accident, her introverted twin sister Aditi goes undercover at the elite institution to investigate her death.",
       "releaseInfo": "2026",
       "imdbRating": "8.0",
-      "background": "https://image.tmdb.org/t/p/w500/e7OGE2mfvhfDCd1jJNju5G155hX.jpg"
+      "background": "https://image.tmdb.org/t/p/w500/qhIGdVcH2eSIRckuPTrjryJJxvv.jpg"
     },
     {
-      "id": "tt39044730",
+      "id": "tt31844371",
       "type": "series",
-      "name": "Oxytoxin",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39044730.jpg",
-      "description": "The elite, popular girls known as Toxxxxin rule the school, but an unexpected bond with a scholarship student could unravel their carefully kept secrets.",
+      "name": "Vienna Game",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31844371.jpg",
+      "description": "While Napoleon Bonaparte is exiled on Elba, kings and crown princes, ministers and spies, noblewomen and mistresses, adventurers, inventors, artists, and concubines gather in Vienna to celebrate and negotiate. Here, the fate of Europe is decided on the dance floor and in the boudoir.",
       "releaseInfo": "2026",
-      "imdbRating": "10.0",
-      "background": "https://image.tmdb.org/t/p/w500/mcjgiKrhHldOqRs7bmfIyCc3cfJ.jpg"
-    },
-    {
-      "id": "tt40939600",
-      "type": "series",
-      "name": "Crime and Punishment in America",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt40939600.jpg",
-      "description": "The story of criminal justice in America from the colonial era to today, and how Americans have wrestled with the problem of crime, the purpose of punishment and the meaning of justice for more than 250 years.",
-      "releaseInfo": "2026",
-      "imdbRating": "10.0",
-      "background": "https://image.tmdb.org/t/p/w500/acfpMRRWRgVrsyA2Rb2gxV3BDgQ.jpg"
+      "imdbRating": "8.5",
+      "background": "https://image.tmdb.org/t/p/w500/eX6E7u6AicwNsMAZ2lm8zFM8lz2.jpg"
     },
     {
       "id": "tt49702110",
@@ -389,6 +389,16 @@
       "releaseInfo": "2026",
       "imdbRating": "7.0",
       "background": "https://image.tmdb.org/t/p/w500/dVEU36dwQpk4IF0jdtziF1P8LPc.jpg"
+    },
+    {
+      "id": "tt39044730",
+      "type": "series",
+      "name": "Oxytoxin",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39044730.jpg",
+      "description": "The elite, popular girls known as Toxxxxin rule the school, but an unexpected bond with a scholarship student could unravel their carefully kept secrets.",
+      "releaseInfo": "2026",
+      "imdbRating": "10.0",
+      "background": "https://image.tmdb.org/t/p/w500/mcjgiKrhHldOqRs7bmfIyCc3cfJ.jpg"
     }
   ],
   "cacheMaxAge": 3600

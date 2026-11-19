@@ -1,16 +1,6 @@
 {
   "metas": [
     {
-      "id": "tt39370926",
-      "type": "movie",
-      "name": "Never Surrender",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39370926.jpg",
-      "description": "When a deadly gang descends on his remote home, a guilt-ridden veteran and the estranged grandchildren he barely knows must unite to survive.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.1",
-      "background": "https://image.tmdb.org/t/p/w500/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg"
-    },
-    {
       "id": "tt37180686",
       "type": "movie",
       "name": "Drive - The Pretenders",
@@ -19,6 +9,16 @@
       "releaseInfo": "2026",
       "imdbRating": "7.6",
       "background": "https://image.tmdb.org/t/p/w500/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg"
+    },
+    {
+      "id": "tt6611324",
+      "type": "movie",
+      "name": "Guarding Stars",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6611324.jpg",
+      "description": "When a no-nonsense bodyguard is assigned to protect a charming action star over the holidays, sparks fly, secrets unravel, and Christmas gets a whole lot more complicated.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.2",
+      "background": "https://image.tmdb.org/t/p/w500/wWNizZ4IcSld3xXH1WEXziJiNJN.jpg"
     },
     {
       "id": "tt38515310",
@@ -47,7 +47,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38420997.jpg",
       "description": "A struggling pastor moves his family to a troubled New York neighborhood, where they must save a neglected church from foreclosure before Christmas.",
       "releaseInfo": "2026",
-      "imdbRating": "7.3",
+      "imdbRating": "7.0",
       "background": "https://image.tmdb.org/t/p/w500/ihbN6lNDXKe6w9xE6IBFMVF2Rkr.jpg"
     },
     {
@@ -57,7 +57,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt47791876.jpg",
       "description": "Eager to get off Santa's naughty list, Snoopy goes all out to be the nicest beagle in town.",
       "releaseInfo": "2026",
-      "imdbRating": "7.4",
+      "imdbRating": "7.6",
       "background": "https://image.tmdb.org/t/p/w500/9wZAvvAZgwp2Lxbhjkp9N6HHJBm.jpg"
     },
     {
@@ -67,7 +67,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt15095848.jpg",
       "description": "Scrappy, defiant, and done being treated like a burden, Judy Heumann turns her outrage into a revolution. In 1977, she and more than 100 disability rights protestors send a very loud message: The system is broken\u2014not us.",
       "releaseInfo": "2026",
-      "imdbRating": "7.0",
+      "imdbRating": "7.1",
       "background": "https://image.tmdb.org/t/p/w500/ouGH1PS0xjDyfTQOhppn7QzJqQZ.jpg"
     },
     {
@@ -97,18 +97,18 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt49241977.jpg",
       "description": "Reconnecting with a pack of wolves he has followed for seven years, Bertie sets out to capture one of the Arctic's most dangerous and rarely filmed hunts: wolves taking on a bull moose, prey roughly ten times their size. Led by Kona, a striking white breeding male, the pack faces a critical winter as dwindling food supplies, an encroaching rival wolf and an aging leader threaten its survival.",
       "releaseInfo": "2026",
-      "imdbRating": "7.2",
+      "imdbRating": "7.3",
       "background": "https://image.tmdb.org/t/p/w500/fopmDU345HPkMC9iUaNQEY0uRkk.jpg"
     },
     {
-      "id": "tt44825373",
+      "id": "tt50016818",
       "type": "movie",
-      "name": "SCTV: The Greatest Show You've Never Heard Of",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44825373.jpg",
-      "description": "Second City Television cast members reunite in this documentary for a funny and heartfelt celebration of how a scrappy Canadian sketch show made comedy history.",
+      "name": "Last Dinner",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt50016818.jpg",
+      "description": "The film focuses on what it means to truly love someone \"in sickness and in health.\" In the story, talented pianist Canan embarks on a passionate affair with Bekir, a mysterious agent, after saving his life. However, Bekir suddenly disappears. When he returns years later, he finds Canan married someone else. This encounter rekindles a love that had been interrupted years before. Canan is forced to make an impossible choice between her past passion and her present-day loyalty.",
       "releaseInfo": "2026",
-      "imdbRating": "7.0",
-      "background": "https://image.tmdb.org/t/p/w500/vBqVyTpzv5RzHSsQdu8ECxAqSvd.jpg"
+      "imdbRating": "8.0",
+      "background": "https://image.tmdb.org/t/p/w500/kdz0fHndmpFKb0iwJvauyPHRAh7.jpg"
     },
     {
       "id": "tt39578551",
@@ -119,6 +119,16 @@
       "releaseInfo": "2026",
       "imdbRating": "10.0",
       "background": "https://image.tmdb.org/t/p/w500/9CNUWleZWN9EGMZjvaSTcxmAAGg.jpg"
+    },
+    {
+      "id": "tt44825373",
+      "type": "movie",
+      "name": "SCTV: The Greatest Show You've Never Heard Of",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44825373.jpg",
+      "description": "Second City Television cast members reunite in this documentary for a funny and heartfelt celebration of how a scrappy Canadian sketch show made comedy history.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.0",
+      "background": "https://image.tmdb.org/t/p/w500/vBqVyTpzv5RzHSsQdu8ECxAqSvd.jpg"
     },
     {
       "id": "tt50245863",
