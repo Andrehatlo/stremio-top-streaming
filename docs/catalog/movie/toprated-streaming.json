@@ -261,16 +261,6 @@
       "background": "https://image.tmdb.org/t/p/w500/g4JtvGlQO7DByTI6frUobqvSL3R.jpg"
     },
     {
-      "id": "tt29567915",
-      "type": "movie",
-      "name": "Nuremberg",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt29567915.jpg",
-      "description": "In postwar Germany, an American psychiatrist must determine whether Nazi prisoners are fit to go on trial for war crimes, and finds himself in a complex battle of intellect and ethics with Hermann G\u00f6ring, Hitler's right-hand man.",
-      "releaseInfo": "2025",
-      "imdbRating": "7.6",
-      "background": "https://image.tmdb.org/t/p/w500/xthXNYltOOm80vW5Kxjzxx5gvQ6.jpg"
-    },
-    {
       "id": "tt6263850",
       "type": "movie",
       "name": "Deadpool & Wolverine",
@@ -279,6 +269,16 @@
       "releaseInfo": "2024",
       "imdbRating": "7.6",
       "background": "https://image.tmdb.org/t/p/w500/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg"
+    },
+    {
+      "id": "tt29567915",
+      "type": "movie",
+      "name": "Nuremberg",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt29567915.jpg",
+      "description": "In postwar Germany, an American psychiatrist must determine whether Nazi prisoners are fit to go on trial for war crimes, and finds himself in a complex battle of intellect and ethics with Hermann G\u00f6ring, Hitler's right-hand man.",
+      "releaseInfo": "2025",
+      "imdbRating": "7.6",
+      "background": "https://image.tmdb.org/t/p/w500/xthXNYltOOm80vW5Kxjzxx5gvQ6.jpg"
     },
     {
       "id": "tt31170389",
@@ -337,7 +337,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt30825738.jpg",
       "description": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
       "releaseInfo": "2026",
-      "imdbRating": "7.5",
+      "imdbRating": "7.4",
       "background": "https://image.tmdb.org/t/p/w500/uwMKWjcNID0D9jjplsjkQS2OrB4.jpg"
     },
     {

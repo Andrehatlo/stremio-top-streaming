@@ -1,6 +1,16 @@
 {
   "metas": [
     {
+      "id": "tt6611324",
+      "type": "movie",
+      "name": "Guarding Stars",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6611324.jpg",
+      "description": "When a no-nonsense bodyguard is assigned to protect a charming action star over the holidays, sparks fly, secrets unravel, and Christmas gets a whole lot more complicated.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.4",
+      "background": "https://image.tmdb.org/t/p/w500/wWNizZ4IcSld3xXH1WEXziJiNJN.jpg"
+    },
+    {
       "id": "tt37180686",
       "type": "movie",
       "name": "Drive - The Pretenders",
@@ -11,14 +21,14 @@
       "background": "https://image.tmdb.org/t/p/w500/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg"
     },
     {
-      "id": "tt6611324",
+      "id": "tt24818230",
       "type": "movie",
-      "name": "Guarding Stars",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6611324.jpg",
-      "description": "When a no-nonsense bodyguard is assigned to protect a charming action star over the holidays, sparks fly, secrets unravel, and Christmas gets a whole lot more complicated.",
+      "name": "Madden",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt24818230.jpg",
+      "description": "Chronicles John Madden's incredible journey alongside best friend and true original Al Davis\u2014from a Super Bowl-winning partnership with the Raiders, to becoming football's most recognizable voice, to building the worldwide Madden NFL video game.",
       "releaseInfo": "2026",
-      "imdbRating": "7.2",
-      "background": "https://image.tmdb.org/t/p/w500/wWNizZ4IcSld3xXH1WEXziJiNJN.jpg"
+      "imdbRating": "7.6",
+      "background": "https://image.tmdb.org/t/p/w500/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg"
     },
     {
       "id": "tt38515310",
@@ -27,7 +37,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38515310.jpg",
       "description": "When a medical emergency pulls the Goss family apart, determined dog Winstead will do all he can to bring his humans back together before Christmas Eve.",
       "releaseInfo": "2026",
-      "imdbRating": "7.2",
+      "imdbRating": "7.1",
       "background": "https://image.tmdb.org/t/p/w500/zvsNAohDHRWcGvbPSD7r3WojpKb.jpg"
     },
     {
@@ -41,23 +51,13 @@
       "background": "https://image.tmdb.org/t/p/w500/chZa8Jd9kSDj11bekGjwwotFPEw.jpg"
     },
     {
-      "id": "tt38420997",
-      "type": "movie",
-      "name": "The Gospel of Christmas",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38420997.jpg",
-      "description": "A struggling pastor moves his family to a troubled New York neighborhood, where they must save a neglected church from foreclosure before Christmas.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.0",
-      "background": "https://image.tmdb.org/t/p/w500/ihbN6lNDXKe6w9xE6IBFMVF2Rkr.jpg"
-    },
-    {
       "id": "tt47791876",
       "type": "movie",
       "name": "Snoopy Presents: 12 Days of Snoopy",
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt47791876.jpg",
       "description": "Eager to get off Santa's naughty list, Snoopy goes all out to be the nicest beagle in town.",
       "releaseInfo": "2026",
-      "imdbRating": "7.6",
+      "imdbRating": "7.5",
       "background": "https://image.tmdb.org/t/p/w500/9wZAvvAZgwp2Lxbhjkp9N6HHJBm.jpg"
     },
     {
@@ -67,7 +67,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt15095848.jpg",
       "description": "Scrappy, defiant, and done being treated like a burden, Judy Heumann turns her outrage into a revolution. In 1977, she and more than 100 disability rights protestors send a very loud message: The system is broken\u2014not us.",
       "releaseInfo": "2026",
-      "imdbRating": "7.1",
+      "imdbRating": "7.0",
       "background": "https://image.tmdb.org/t/p/w500/ouGH1PS0xjDyfTQOhppn7QzJqQZ.jpg"
     },
     {
@@ -81,14 +81,14 @@
       "background": "https://image.tmdb.org/t/p/w500/fez7kLyGzpowduJapTFZZ1feCS0.jpg"
     },
     {
-      "id": "tt49317723",
+      "id": "tt50016818",
       "type": "movie",
-      "name": "Hot Wheels Let's Race: Attack of the T-Rex",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt49317723.jpg",
-      "description": "When a giant T-Rex threatens Hot Wheels City, it's up to Coop and his friends to race to the rescue and save the day.",
+      "name": "Last Meal",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt50016818.jpg",
+      "description": "The passionate love between pianist Sebahat and Bekir is cut short when he vanishes without a trace. Years later, when fate reunites them, they realize that neither time, distance, nor the life Sebahat has built could ever break their bond. Together, they embark on a journey that pushes the very limits of love, loyalty, and sacrifice because some loves are worth fighting for, no matter what.",
       "releaseInfo": "2026",
-      "imdbRating": "7.2",
-      "background": "https://image.tmdb.org/t/p/w500/iIc0OkYnf06kv5Zp0IYVwuvffgh.jpg"
+      "imdbRating": "7.5",
+      "background": "https://image.tmdb.org/t/p/w500/kdz0fHndmpFKb0iwJvauyPHRAh7.jpg"
     },
     {
       "id": "tt49241977",
@@ -101,14 +101,24 @@
       "background": "https://image.tmdb.org/t/p/w500/fopmDU345HPkMC9iUaNQEY0uRkk.jpg"
     },
     {
-      "id": "tt50016818",
+      "id": "tt39163238",
       "type": "movie",
-      "name": "Last Dinner",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt50016818.jpg",
-      "description": "The film focuses on what it means to truly love someone \"in sickness and in health.\" In the story, talented pianist Canan embarks on a passionate affair with Bekir, a mysterious agent, after saving his life. However, Bekir suddenly disappears. When he returns years later, he finds Canan married someone else. This encounter rekindles a love that had been interrupted years before. Canan is forced to make an impossible choice between her past passion and her present-day loyalty.",
+      "name": "When a Witness Recants",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39163238.jpg",
+      "description": "In 1983, author Ta-Nehisi Coates learned that a 14-year-old boy was murdered in his Baltimore middle school. Upon revisiting the case, he uncovers the truth: Three innocent teenagers were wrongfully convicted and spent 36 years in prison \u2014 creating a lasting impact on the accused, the witnesses, and their community.",
       "releaseInfo": "2026",
       "imdbRating": "8.0",
-      "background": "https://image.tmdb.org/t/p/w500/kdz0fHndmpFKb0iwJvauyPHRAh7.jpg"
+      "background": "https://image.tmdb.org/t/p/w500/jWHwiwbLAjLCg9WZlE1eMKvV5Nr.jpg"
+    },
+    {
+      "id": "tt49065977",
+      "type": "movie",
+      "name": "Expedition: Saving Our Seas",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt49065977.jpg",
+      "description": "Follows National Geographic Explorers investigating the global Ocean from seashore to seafloor as they chase discoveries and solutions needed to protect the seas amid rapid environmental change.",
+      "releaseInfo": "2026",
+      "imdbRating": "10.0",
+      "background": "https://image.tmdb.org/t/p/w500/9sKVTdLSw8d6nEbwJ7XryEUlxRm.jpg"
     },
     {
       "id": "tt39578551",
@@ -167,7 +177,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt50712960.jpg",
       "description": "Snow has arrived in Arendelle, and Anna and Olaf are excited for their first sled ride of the winter! When the hills aren't thrilling enough, Elsa uses her ice magic to create an epic sledding course filled with giant jumps, twists, and icy surprises. But when royal duties call Elsa away, Anna and Olaf come up with a special plan to bring the winter fun back and surprise their sister.",
       "releaseInfo": "2026",
-      "imdbRating": "10.0",
+      "imdbRating": "8.0",
       "background": "https://image.tmdb.org/t/p/w500/b01qAKFX9Vb2Bf8xO5SfBlvGYbj.jpg"
     },
     {
