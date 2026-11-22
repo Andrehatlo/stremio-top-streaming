@@ -7,28 +7,18 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39325975.jpg",
       "description": "Beloved Empress Navier rules the Eastern Empire alongside Emperor Sovieshu. But when Sovieshu falls for a runaway slave and demands a divorce, Navier will agree on one condition: that she's given approval to remarry rival Prince Heinrey of the Western Kingdom.",
       "releaseInfo": "2026",
-      "imdbRating": "8.8",
+      "imdbRating": "8.7",
       "background": "https://image.tmdb.org/t/p/w500/zn3IXZzGavH3qle3o3g1r32eXDy.jpg"
     },
     {
       "id": "tt8014982",
       "type": "series",
-      "name": "The Body",
+      "name": "Ticket+1-888-805-5591 or US +1-888-805-5591",
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt8014982.jpg",
-      "description": "On Halloween night, an all-girls dance squad tumbles into Catholic guilt, unholy desires and ghostly visions when an initiation goes to hell.",
+      "description": "Guide to Name Update Rules, Ticket+1-888-805-5591 or US +1-888-805-5591 Modification Procedures, and Spelling+1-888-805-5591 or US +1-888-805-5591 Error Corrections In accordance with United Airlines name change policy(US), you can call +1-888-805-5591 or US +18-888-055-591 [UK] (US) or +1-888-805-5591 or +18-888-055-591 [UK] (USA) (NoWait) with your booking number available. United Airlines",
       "releaseInfo": "2026",
       "imdbRating": "8.0",
       "background": "https://image.tmdb.org/t/p/w500/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg"
-    },
-    {
-      "id": "tt39943756",
-      "type": "series",
-      "name": "Campus Drivers",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39943756.jpg",
-      "description": "Lois arrives in Belrose with Max, the love of her life. Lane, the creator of Campus Drivers, the hottest app on campus, is known for never getting attached. Their paths were never meant to cross. But some encounters change everything, reopening old wounds. And when love appears unexpectedly, nothing is certain anymore.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.8",
-      "background": "https://image.tmdb.org/t/p/w500/kTgV6VLp70QOBpCZqvEuTWAA4Ng.jpg"
     },
     {
       "id": "tt26598805",
@@ -39,6 +29,16 @@
       "releaseInfo": "2026",
       "imdbRating": "7.6",
       "background": "https://image.tmdb.org/t/p/w500/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg"
+    },
+    {
+      "id": "tt39943756",
+      "type": "series",
+      "name": "Campus Drivers",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39943756.jpg",
+      "description": "Lois arrives in Belrose with Max, the love of her life. Lane, the creator of Campus Drivers, the hottest app on campus, is known for never getting attached. Their paths were never meant to cross. But some encounters change everything, reopening old wounds. And when love appears unexpectedly, nothing is certain anymore.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.7",
+      "background": "https://image.tmdb.org/t/p/w500/kTgV6VLp70QOBpCZqvEuTWAA4Ng.jpg"
     },
     {
       "id": "tt36458668",
@@ -81,16 +81,6 @@
       "background": "https://image.tmdb.org/t/p/w500/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg"
     },
     {
-      "id": "tt39980704",
-      "type": "series",
-      "name": "YAGA",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39980704.jpg",
-      "description": "While a private investigator probes the disappearance of the young heir to a powerful fishery, he finds himself at odds with an apprehensive local detective, a charismatic university professor with a taste for younger men, and a labyrinth of enigmatic suspects, secret lives, and ancient magic.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.1",
-      "background": "https://image.tmdb.org/t/p/w500/kp8xgZ8SrikHQrPn2lC3hb50KD5.jpg"
-    },
-    {
       "id": "tt49692512",
       "type": "series",
       "name": "Final Table",
@@ -101,6 +91,16 @@
       "background": "https://image.tmdb.org/t/p/w500/uaMjtALuvZC7dGkYllGKKWEWW1J.jpg"
     },
     {
+      "id": "tt39980704",
+      "type": "series",
+      "name": "YAGA",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39980704.jpg",
+      "description": "While a private investigator probes the disappearance of the young heir to a powerful fishery, he finds himself at odds with an apprehensive local detective, a charismatic university professor with a taste for younger men, and a labyrinth of enigmatic suspects, secret lives, and ancient magic.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.1",
+      "background": "https://image.tmdb.org/t/p/w500/kp8xgZ8SrikHQrPn2lC3hb50KD5.jpg"
+    },
+    {
       "id": "tt39957390",
       "type": "series",
       "name": "Bass X Machina",
@@ -109,16 +109,6 @@
       "releaseInfo": "2026",
       "imdbRating": "7.8",
       "background": "https://image.tmdb.org/t/p/w500/q7eWmFOfdHqm15YrKiYmR8XEVRx.jpg"
-    },
-    {
-      "id": "tt31844371",
-      "type": "series",
-      "name": "Vienna Game",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31844371.jpg",
-      "description": "While Napoleon Bonaparte is exiled on Elba, kings and crown princes, ministers and spies, noblewomen and mistresses, adventurers, inventors, artists, and concubines gather in Vienna to celebrate and negotiate. Here, the fate of Europe is decided on the dance floor and in the boudoir.",
-      "releaseInfo": "2026",
-      "imdbRating": "9.0",
-      "background": "https://image.tmdb.org/t/p/w500/eX6E7u6AicwNsMAZ2lm8zFM8lz2.jpg"
     },
     {
       "id": "tt29625288",
@@ -151,14 +141,14 @@
       "background": "https://image.tmdb.org/t/p/w500/dRflgHEhzpy12nsYR11hvdoHEoK.jpg"
     },
     {
-      "id": "tt38961437",
+      "id": "tt31844371",
       "type": "series",
-      "name": "Silent Night",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38961437.jpg",
-      "description": "Follow the aftermath of a brutal Christmas Eve crime and its impact on a rural Polish community.",
+      "name": "Vienna Game",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31844371.jpg",
+      "description": "While Napoleon Bonaparte is exiled on Elba, kings and crown princes, ministers and spies, noblewomen and mistresses, adventurers, inventors, artists, and concubines gather in Vienna to celebrate and negotiate. Here, the fate of Europe is decided on the dance floor and in the boudoir.",
       "releaseInfo": "2026",
-      "imdbRating": "7.9",
-      "background": "https://image.tmdb.org/t/p/w500/qRf44yrp9BkhNLREi2mU3ikx4dG.jpg"
+      "imdbRating": "9.0",
+      "background": "https://image.tmdb.org/t/p/w500/eX6E7u6AicwNsMAZ2lm8zFM8lz2.jpg"
     },
     {
       "id": "tt47657141",
@@ -171,6 +161,16 @@
       "background": "https://image.tmdb.org/t/p/w500/frvRrn3QclVP76RkBBKEmwcXEaV.jpg"
     },
     {
+      "id": "tt38961437",
+      "type": "series",
+      "name": "Silent Night",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38961437.jpg",
+      "description": "Follow the aftermath of a brutal Christmas Eve crime and its impact on a rural Polish community.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.9",
+      "background": "https://image.tmdb.org/t/p/w500/qRf44yrp9BkhNLREi2mU3ikx4dG.jpg"
+    },
+    {
       "id": "tt37762350",
       "type": "series",
       "name": "Under Siege",
@@ -179,16 +179,6 @@
       "releaseInfo": "2026",
       "imdbRating": "7.2",
       "background": "https://image.tmdb.org/t/p/w500/ikJ62NkEVyCwwar4UFrdyc0gMlq.jpg"
-    },
-    {
-      "id": "tt50135019",
-      "type": "series",
-      "name": "Get Huge: Looksmaxxing to Death",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt50135019.jpg",
-      "description": "An unflinching portrait of masculinity in the influencer age, where extreme biohacking, online performance and a series of suspicious deaths converge.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.0",
-      "background": "https://image.tmdb.org/t/p/w500/9qODvXSjoQmRKU9Xp24Oiucv9aZ.jpg"
     },
     {
       "id": "tt38681812",
@@ -241,14 +231,14 @@
       "background": "https://image.tmdb.org/t/p/w500/mAfYj5ZtR2V5ad6uham1PwAh0mc.jpg"
     },
     {
-      "id": "tt38337376",
+      "id": "tt50135019",
       "type": "series",
-      "name": "Did Someone Happen to Mention Me?",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38337376.jpg",
-      "description": "Once Japan's most renowned actor, Gen is suddenly forgotten. Fueled by a need for recognition, he claws his way back from zero in this comedy.",
+      "name": "Get Huge: Looksmaxxing to Death",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt50135019.jpg",
+      "description": "An unflinching portrait of masculinity in the influencer age, where extreme biohacking, online performance and a series of suspicious deaths converge.",
       "releaseInfo": "2026",
-      "imdbRating": "7.7",
-      "background": "https://image.tmdb.org/t/p/w500/wC91d4hwTv4fqeUzXy8RzE9nGQD.jpg"
+      "imdbRating": "8.0",
+      "background": "https://image.tmdb.org/t/p/w500/9qODvXSjoQmRKU9Xp24Oiucv9aZ.jpg"
     },
     {
       "id": "tt44914557",
@@ -301,16 +291,6 @@
       "background": "https://image.tmdb.org/t/p/w500/9Y8DXNSG0NfTL98S9b9qiqaIzzw.jpg"
     },
     {
-      "id": "tt48313964",
-      "type": "series",
-      "name": "The Flores Massacre",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt48313964.jpg",
-      "description": "The story of Mat\u00edas Bagnato, the sole survivor of the Flores Massacre, one of the most shocking criminal cases in Argentine history.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.0",
-      "background": "https://image.tmdb.org/t/p/w500/6LZBleoBdvT02XHAaHKzPJIEVx9.jpg"
-    },
-    {
       "id": "tt50986266",
       "type": "series",
       "name": "Maniacs of the Truth",
@@ -319,16 +299,6 @@
       "releaseInfo": "2026",
       "imdbRating": "8.5",
       "background": "https://image.tmdb.org/t/p/w500/kseV4cI5bRnNfKrgOEKsJ1WKoFr.jpg"
-    },
-    {
-      "id": "tt48356732",
-      "type": "series",
-      "name": "Swipe Right on the Devil",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt48356732.jpg",
-      "description": "Revisits the 2017 murder of 24-year-old Sydney Loofe, who disappeared and was later found dead after going on a Tinder date with Bailey Boswell.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.0",
-      "background": "https://image.tmdb.org/t/p/w500/oW8Bz7jYpJ6Z7IktvXMym9hdgci.jpg"
     },
     {
       "id": "tt48499601",
@@ -341,16 +311,6 @@
       "background": "https://image.tmdb.org/t/p/w500/h65U3K1evI9MWv2m8kzUgNLnoqq.jpg"
     },
     {
-      "id": "tt38336631",
-      "type": "series",
-      "name": "The Blue Road",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38336631.jpg",
-      "description": "Two detectives join forces when brutal murders and cryptic messages surface across borders \u2014 but the deadly truth lurks dangerously close.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.8",
-      "background": "https://image.tmdb.org/t/p/w500/cVbilrgtgKi7gN74KK4voyV7iDR.jpg"
-    },
-    {
       "id": "tt28450216",
       "type": "series",
       "name": "Student of the Year: After Dark",
@@ -359,6 +319,16 @@
       "releaseInfo": "2026",
       "imdbRating": "8.0",
       "background": "https://image.tmdb.org/t/p/w500/qhIGdVcH2eSIRckuPTrjryJJxvv.jpg"
+    },
+    {
+      "id": "tt39044730",
+      "type": "series",
+      "name": "Oxytoxin",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39044730.jpg",
+      "description": "The elite, popular girls known as Toxxxxin rule the school, but an unexpected bond with a scholarship student could unravel their carefully kept secrets.",
+      "releaseInfo": "2026",
+      "imdbRating": "10.0",
+      "background": "https://image.tmdb.org/t/p/w500/mcjgiKrhHldOqRs7bmfIyCc3cfJ.jpg"
     },
     {
       "id": "tt40939600",

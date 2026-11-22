@@ -1,14 +1,14 @@
 {
   "metas": [
     {
-      "id": "tt6611324",
+      "id": "tt18351090",
       "type": "movie",
-      "name": "Guarding Stars",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt6611324.jpg",
-      "description": "When a no-nonsense bodyguard is assigned to protect a charming action star over the holidays, sparks fly, secrets unravel, and Christmas gets a whole lot more complicated.",
+      "name": "Perfect Liars",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt18351090.jpg",
+      "description": "Jude Derry arrives at the exclusive Tagus university with a hidden mission: to infiltrate the circle of the Cash brothers and uncover the truth about her brother's death. What begins as revenge turns into a dangerous triangle of seduction, forbidden attraction and lies, drawing her toward a truth she may not be ready to face.",
       "releaseInfo": "2026",
-      "imdbRating": "7.0",
-      "background": "https://image.tmdb.org/t/p/w500/5bsXFYXOlbzHBpl9mPaxmOPIQJ9.jpg"
+      "imdbRating": "7.2",
+      "background": "https://image.tmdb.org/t/p/w500/kej8EipJOvfHUHFg5wtT7gQ6bNb.jpg"
     },
     {
       "id": "tt37180686",
@@ -21,16 +21,6 @@
       "background": "https://image.tmdb.org/t/p/w500/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg"
     },
     {
-      "id": "tt24818230",
-      "type": "movie",
-      "name": "Madden",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt24818230.jpg",
-      "description": "Chronicles John Madden's incredible journey alongside best friend and true original Al Davis\u2014from a Super Bowl-winning partnership with the Raiders, to becoming football's most recognizable voice, to building the worldwide Madden NFL video game.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.2",
-      "background": "https://image.tmdb.org/t/p/w500/bRa83oPFFPqaAF3wrpVWPqqfFel.jpg"
-    },
-    {
       "id": "tt38515310",
       "type": "movie",
       "name": "A Dog's Perfect Christmas",
@@ -39,6 +29,16 @@
       "releaseInfo": "2026",
       "imdbRating": "7.1",
       "background": "https://image.tmdb.org/t/p/w500/zvsNAohDHRWcGvbPSD7r3WojpKb.jpg"
+    },
+    {
+      "id": "tt47791876",
+      "type": "movie",
+      "name": "Snoopy Presents: 12 Days of Snoopy",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt47791876.jpg",
+      "description": "Eager to get off Santa's naughty list, Snoopy goes all out to be the nicest beagle in town.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.7",
+      "background": "https://image.tmdb.org/t/p/w500/9wZAvvAZgwp2Lxbhjkp9N6HHJBm.jpg"
     },
     {
       "id": "tt37961714",
@@ -51,33 +51,13 @@
       "background": "https://image.tmdb.org/t/p/w500/chZa8Jd9kSDj11bekGjwwotFPEw.jpg"
     },
     {
-      "id": "tt47791876",
-      "type": "movie",
-      "name": "Snoopy Presents: 12 Days of Snoopy",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt47791876.jpg",
-      "description": "Eager to get off Santa's naughty list, Snoopy goes all out to be the nicest beagle in town.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.6",
-      "background": "https://image.tmdb.org/t/p/w500/9wZAvvAZgwp2Lxbhjkp9N6HHJBm.jpg"
-    },
-    {
-      "id": "tt15095848",
-      "type": "movie",
-      "name": "Being Heumann",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt15095848.jpg",
-      "description": "Scrappy, defiant, and done being treated like a burden, Judy Heumann turns her outrage into a revolution. In 1977, she and more than 100 disability rights protestors send a very loud message: The system is broken\u2014not us.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.1",
-      "background": "https://image.tmdb.org/t/p/w500/ouGH1PS0xjDyfTQOhppn7QzJqQZ.jpg"
-    },
-    {
       "id": "tt50016818",
       "type": "movie",
       "name": "Last Meal",
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt50016818.jpg",
       "description": "The passionate love between pianist Sebahat and Bekir is cut short when he vanishes without a trace. Years later, when fate reunites them, they realize that neither time, distance, nor the life Sebahat has built could ever break their bond. Together, they embark on a journey that pushes the very limits of love, loyalty, and sacrifice because some loves are worth fighting for, no matter what.",
       "releaseInfo": "2026",
-      "imdbRating": "7.5",
+      "imdbRating": "7.9",
       "background": "https://image.tmdb.org/t/p/w500/kdz0fHndmpFKb0iwJvauyPHRAh7.jpg"
     },
     {
@@ -118,7 +98,7 @@
       "description": "Follows National Geographic Explorers investigating the global Ocean from seashore to seafloor as they chase discoveries and solutions needed to protect the seas amid rapid environmental change.",
       "releaseInfo": "2026",
       "imdbRating": "10.0",
-      "background": "https://image.tmdb.org/t/p/w500/9sKVTdLSw8d6nEbwJ7XryEUlxRm.jpg"
+      "background": "https://image.tmdb.org/t/p/w500/gvDT4GGE04bknYuT4dcni9TrLi4.jpg"
     },
     {
       "id": "tt39578551",
@@ -167,8 +147,38 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33402927.jpg",
       "description": "Vicentina struggles to cope with the death of her son Wesley after a tragic bus accident, in which he was the driver. As the investigation unfolds, evidence suggests that Wesley\u2019s actions may have been suicidal. Vicentina then embarks on a journey to seek out the victims\u2019 families and apologize, while confronting her own grief and uncertainty.",
       "releaseInfo": "2026",
-      "imdbRating": "7.8",
+      "imdbRating": "7.4",
       "background": "https://image.tmdb.org/t/p/w500/EE0nu2jPKGio3ICEG193Z7DDSe.jpg"
+    },
+    {
+      "id": "tt48434154",
+      "type": "movie",
+      "name": "Primetime Preacher$",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt48434154.jpg",
+      "description": "Chronicles the 1980s golden age of Christian broadcasting, detailing how three of America's most prominent televangelists shifted evangelical Christianity into a massive political force.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.0",
+      "background": "https://image.tmdb.org/t/p/w500/ilFRKYUhsYyW0mpSifpFZmpR9yo.jpg"
+    },
+    {
+      "id": "tt39239818",
+      "type": "movie",
+      "name": "Haiku",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39239818.jpg",
+      "description": "A charismatic young man uses poetry to navigate the complex maze of modern romance to protect his fragile relationship. Later, he must overcome deep generational divides to keep his love alive.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.0",
+      "background": "https://image.tmdb.org/t/p/w500/7kdhwEauV07gbHXdlBtVp6AhqZk.jpg"
+    },
+    {
+      "id": "tt36303063",
+      "type": "movie",
+      "name": "Unbearable Christmas",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36303063.jpg",
+      "description": "Out-of-work weatherman Troy Tipton has one Christmas mission: retrieve the beloved teddy bear he pawned for holiday cash. With wife Becca, mother-in-law Dawn, and the kids in tow, Troy hits the road from Ohio to Florida in his old news van. But the family road trip gets even wilder when they discover the cherished bear is actually a priceless Teddy Roosevelt antique worth millions.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.0",
+      "background": "https://image.tmdb.org/t/p/w500/8GFwwkwj4X7a5ejPlsRGuWSZ6PU.jpg"
     },
     {
       "id": "tt50712960",
