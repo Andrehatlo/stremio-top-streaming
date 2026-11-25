@@ -1,13 +1,23 @@
 {
   "metas": [
     {
+      "id": "tt39370926",
+      "type": "movie",
+      "name": "Never Surrender",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39370926.jpg",
+      "description": "When a deadly gang descends on his remote home, a guilt-ridden veteran and the estranged grandchildren he barely knows must unite to survive.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.0",
+      "background": "https://image.tmdb.org/t/p/w500/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg"
+    },
+    {
       "id": "tt14413964",
       "type": "movie",
       "name": "Steps",
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt14413964.jpg",
       "description": "After being blamed for disrupting the Royal Ball with a stolen magic wand, a misunderstood stepsister accidentally turns her sister into a frog and must team up with Cinderella and an unlikely ally to save the kingdom and rewrite their fairytale ending.",
       "releaseInfo": "2026",
-      "imdbRating": "7.1",
+      "imdbRating": "7.2",
       "background": "https://image.tmdb.org/t/p/w500/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg"
     },
     {
@@ -17,7 +27,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt18351090.jpg",
       "description": "Jude Derry arrives at the exclusive Tagus university with a hidden mission: to infiltrate the circle of the Cash brothers and uncover the truth about her brother's death. What begins as revenge turns into a dangerous triangle of seduction, forbidden attraction and lies, drawing her toward a truth she may not be ready to face.",
       "releaseInfo": "2026",
-      "imdbRating": "7.5",
+      "imdbRating": "7.3",
       "background": "https://image.tmdb.org/t/p/w500/kej8EipJOvfHUHFg5wtT7gQ6bNb.jpg"
     },
     {
@@ -37,7 +47,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38515310.jpg",
       "description": "When a medical emergency pulls the Goss family apart, determined dog Winstead will do all he can to bring his humans back together before Christmas Eve.",
       "releaseInfo": "2026",
-      "imdbRating": "7.1",
+      "imdbRating": "7.2",
       "background": "https://image.tmdb.org/t/p/w500/zvsNAohDHRWcGvbPSD7r3WojpKb.jpg"
     },
     {
@@ -47,7 +57,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt50016818.jpg",
       "description": "The passionate love between pianist Sebahat and Bekir is cut short when he vanishes without a trace. Years later, when fate reunites them, they realize that neither time, distance, nor the life Sebahat has built could ever break their bond. Together, they embark on a journey that pushes the very limits of love, loyalty, and sacrifice because some loves are worth fighting for, no matter what.",
       "releaseInfo": "2026",
-      "imdbRating": "8.1",
+      "imdbRating": "7.5",
       "background": "https://image.tmdb.org/t/p/w500/kdz0fHndmpFKb0iwJvauyPHRAh7.jpg"
     },
     {
@@ -67,7 +77,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33402927.jpg",
       "description": "Vicentina struggles to cope with the death of her son Wesley after a tragic bus accident, in which he was the driver. As the investigation unfolds, evidence suggests that Wesley\u2019s actions may have been suicidal. Vicentina then embarks on a journey to seek out the victims\u2019 families and apologize, while confronting her own grief and uncertainty.",
       "releaseInfo": "2026",
-      "imdbRating": "7.6",
+      "imdbRating": "8.0",
       "background": "https://image.tmdb.org/t/p/w500/EE0nu2jPKGio3ICEG193Z7DDSe.jpg"
     },
     {
@@ -79,6 +89,16 @@
       "releaseInfo": "2026",
       "imdbRating": "7.1",
       "background": "https://image.tmdb.org/t/p/w500/fez7kLyGzpowduJapTFZZ1feCS0.jpg"
+    },
+    {
+      "id": "tt32213169",
+      "type": "movie",
+      "name": "Way of the Warrior Kid",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32213169.jpg",
+      "description": "Jake is an injured Navy SEAL who becomes a mentor for his shy, struggling nephew Marc. Using the principles of his military training, Jake teaches Marc how to be a Warrior Kid as he enters high school.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.0",
+      "background": "https://image.tmdb.org/t/p/w500/6xjTWjhusoJn8MXMYY9oWdOuHil.jpg"
     },
     {
       "id": "tt49241977",
@@ -121,16 +141,6 @@
       "background": "https://image.tmdb.org/t/p/w500/vBqVyTpzv5RzHSsQdu8ECxAqSvd.jpg"
     },
     {
-      "id": "tt39578551",
-      "type": "movie",
-      "name": "BTS: THE RETURN",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39578551.jpg",
-      "description": "They're back! BTS gathers in LA to record their album \"Arirang\" in this documentary offering unprecedented access to the band as they enter a new era.",
-      "releaseInfo": "2026",
-      "imdbRating": "10.0",
-      "background": "https://image.tmdb.org/t/p/w500/9CNUWleZWN9EGMZjvaSTcxmAAGg.jpg"
-    },
-    {
       "id": "tt50245863",
       "type": "movie",
       "name": "Instadocs: Jane Doe v. Cornell",
@@ -169,16 +179,6 @@
       "releaseInfo": "2026",
       "imdbRating": "8.0",
       "background": "https://image.tmdb.org/t/p/w500/b01qAKFX9Vb2Bf8xO5SfBlvGYbj.jpg"
-    },
-    {
-      "id": "tt34224950",
-      "type": "movie",
-      "name": "LARA - The Man Who Took on Escobar",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt34224950.jpg",
-      "description": "",
-      "releaseInfo": "2026",
-      "imdbRating": "7.0",
-      "background": "https://image.tmdb.org/t/p/w500/bD1axNzUONxX7jodVaeSpDNVsO0.jpg"
     }
   ],
   "cacheMaxAge": 3600

@@ -31,6 +31,16 @@
       "background": "https://image.tmdb.org/t/p/w500/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg"
     },
     {
+      "id": "tt38336631",
+      "type": "series",
+      "name": "The Blue Road",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38336631.jpg",
+      "description": "Two detectives join forces when brutal murders and cryptic messages surface across borders \u2014 but the deadly truth lurks dangerously close.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.9",
+      "background": "https://image.tmdb.org/t/p/w500/cVbilrgtgKi7gN74KK4voyV7iDR.jpg"
+    },
+    {
       "id": "tt39943756",
       "type": "series",
       "name": "Campus Drivers",
@@ -41,16 +51,6 @@
       "background": "https://image.tmdb.org/t/p/w500/kTgV6VLp70QOBpCZqvEuTWAA4Ng.jpg"
     },
     {
-      "id": "tt38336631",
-      "type": "series",
-      "name": "The Blue Road",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38336631.jpg",
-      "description": "Two detectives join forces when brutal murders and cryptic messages surface across borders \u2014 but the deadly truth lurks dangerously close.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.6",
-      "background": "https://image.tmdb.org/t/p/w500/cVbilrgtgKi7gN74KK4voyV7iDR.jpg"
-    },
-    {
       "id": "tt36458668",
       "type": "series",
       "name": "Dead-End Job",
@@ -59,6 +59,16 @@
       "releaseInfo": "2026",
       "imdbRating": "7.5",
       "background": "https://image.tmdb.org/t/p/w500/wUvzMC7EToPgci31ZZRCeqCmQ6d.jpg"
+    },
+    {
+      "id": "tt41559886",
+      "type": "series",
+      "name": "Gordon",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt41559886.jpg",
+      "description": "An\u00edbal Gordon rises from a small-time thief to a convicted murderer in Argentina during the '70s.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.2",
+      "background": "https://image.tmdb.org/t/p/w500/yLgl70D5Up0MlvBWP2MJTLAbFAF.jpg"
     },
     {
       "id": "tt31842126",
@@ -101,14 +111,14 @@
       "background": "https://image.tmdb.org/t/p/w500/q7eWmFOfdHqm15YrKiYmR8XEVRx.jpg"
     },
     {
-      "id": "tt39161219",
+      "id": "tt29625288",
       "type": "series",
-      "name": "Valentina and the 12 Signs",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39161219.jpg",
-      "description": "After a devastating breakup, Valentina decides to date one man from every zodiac sign. But the universe has other plans.",
+      "name": "Akka",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt29625288.jpg",
+      "description": "In a kingdom ruled by women, matriarch Bhavani faces her biggest threat in Rudra, a ruthless rebel eyeing her land and legacy.",
       "releaseInfo": "2026",
-      "imdbRating": "7.0",
-      "background": "https://image.tmdb.org/t/p/w500/ihjonCRR5gEUEH8RG2Qbk4Fy3HB.jpg"
+      "imdbRating": "7.9",
+      "background": "https://image.tmdb.org/t/p/w500/tdnHaR0vlKMQbjmaCs2V3LDmzSd.jpg"
     },
     {
       "id": "tt41054228",
@@ -121,34 +131,24 @@
       "background": "https://image.tmdb.org/t/p/w500/dRflgHEhzpy12nsYR11hvdoHEoK.jpg"
     },
     {
+      "id": "tt39161219",
+      "type": "series",
+      "name": "Valentina and the 12 Signs",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39161219.jpg",
+      "description": "After a devastating breakup, Valentina decides to date one man from every zodiac sign. But the universe has other plans.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.0",
+      "background": "https://image.tmdb.org/t/p/w500/ihjonCRR5gEUEH8RG2Qbk4Fy3HB.jpg"
+    },
+    {
       "id": "tt31844371",
       "type": "series",
       "name": "Vienna Game",
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31844371.jpg",
       "description": "While Napoleon Bonaparte is exiled on Elba, kings and crown princes, ministers and spies, noblewomen and mistresses, adventurers, inventors, artists, and concubines gather in Vienna to celebrate and negotiate. Here, the fate of Europe is decided on the dance floor and in the boudoir.",
       "releaseInfo": "2026",
-      "imdbRating": "9.0",
+      "imdbRating": "9.2",
       "background": "https://image.tmdb.org/t/p/w500/eX6E7u6AicwNsMAZ2lm8zFM8lz2.jpg"
-    },
-    {
-      "id": "tt29625288",
-      "type": "series",
-      "name": "Akka",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt29625288.jpg",
-      "description": "In a kingdom ruled by women, matriarch Bhavani faces her biggest threat in Rudra, a ruthless rebel eyeing her land and legacy.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.9",
-      "background": "https://image.tmdb.org/t/p/w500/tdnHaR0vlKMQbjmaCs2V3LDmzSd.jpg"
-    },
-    {
-      "id": "tt47657141",
-      "type": "series",
-      "name": "The Perfect Lie",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt47657141.jpg",
-      "description": "After a heart-fluttering date, Joonho, a heart surgeon with a perfect smile, and Jisun, a free-spirited teacher-librarian, share a special night. The next day, they meet at a police station with completely different memories. A shocking polygraph result turns their lives upside down.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.5",
-      "background": "https://image.tmdb.org/t/p/w500/frvRrn3QclVP76RkBBKEmwcXEaV.jpg"
     },
     {
       "id": "tt38961437",
@@ -171,16 +171,6 @@
       "background": "https://image.tmdb.org/t/p/w500/78tzKjQPyZEjOSL0THlWRxH5IAj.jpg"
     },
     {
-      "id": "tt33004920",
-      "type": "series",
-      "name": "The Trials of Karen Read",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt33004920.jpg",
-      "description": "An accident, a deadly fight or an elaborate cover-up? This true-crime series digs into the murder trials of Karen Read that sparked viral conspiracies.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.0",
-      "background": "https://image.tmdb.org/t/p/w500/449rpusr7ZtAqSsLcYHXqiIJfw7.jpg"
-    },
-    {
       "id": "tt37762350",
       "type": "series",
       "name": "Under Siege",
@@ -191,13 +181,23 @@
       "background": "https://image.tmdb.org/t/p/w500/ikJ62NkEVyCwwar4UFrdyc0gMlq.jpg"
     },
     {
+      "id": "tt42220724",
+      "type": "series",
+      "name": "Minimum Wage",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt42220724.jpg",
+      "description": "Teens struggle to run a local pizzeria while juggling school, a manic boss and minimum wage in this series based on the hit social media shorts.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.5",
+      "background": "https://image.tmdb.org/t/p/w500/iTVhDUbzUFUJ18jrcYM4rw7qGk.jpg"
+    },
+    {
       "id": "tt37214564",
       "type": "series",
       "name": "ChiaroScuro",
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37214564.jpg",
       "description": "After a body is found in a Roman museum, an art expert must apply his instincts and skills to help police solve a mystery connected to his own past.",
       "releaseInfo": "2026",
-      "imdbRating": "7.9",
+      "imdbRating": "7.8",
       "background": "https://image.tmdb.org/t/p/w500/h4dM4FjqSJihwGpo3x0llMvNSfg.jpg"
     },
     {
@@ -211,16 +211,6 @@
       "background": "https://image.tmdb.org/t/p/w500/6hNf9che0KvninHhKDuniNa2OWQ.jpg"
     },
     {
-      "id": "tt42220724",
-      "type": "series",
-      "name": "Minimum Wage",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt42220724.jpg",
-      "description": "Teens struggle to run a local pizzeria while juggling school, a manic boss and minimum wage in this series based on the hit social media shorts.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.3",
-      "background": "https://image.tmdb.org/t/p/w500/iTVhDUbzUFUJ18jrcYM4rw7qGk.jpg"
-    },
-    {
       "id": "tt45854934",
       "type": "series",
       "name": "The Gift of Deceit",
@@ -229,6 +219,16 @@
       "releaseInfo": "2026",
       "imdbRating": "7.2",
       "background": "https://image.tmdb.org/t/p/w500/mAfYj5ZtR2V5ad6uham1PwAh0mc.jpg"
+    },
+    {
+      "id": "tt44941753",
+      "type": "series",
+      "name": "The One About Matthew Perry",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44941753.jpg",
+      "description": "Told through intimate testimonies from close family and friends, this documentary event reveals the real Matthew Perry\u2014generous, funny, vulnerable, larger than life\u2014and the battles he fought to become the man behind the icon. A raw record of a life lived in full, and the honesty that became his greatest legacy.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.5",
+      "background": "https://image.tmdb.org/t/p/w500/zDSjGvywwyWUqnMIpYYwFDyA7Az.jpg"
     },
     {
       "id": "tt44914557",
@@ -259,16 +259,6 @@
       "releaseInfo": "2026",
       "imdbRating": "8.4",
       "background": "https://image.tmdb.org/t/p/w500/zp5lT15wR0cfCYcR12DXcVNsrnh.jpg"
-    },
-    {
-      "id": "tt44941753",
-      "type": "series",
-      "name": "The One About Matthew Perry",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44941753.jpg",
-      "description": "Told through intimate testimonies from close family and friends, this documentary event reveals the real Matthew Perry\u2014generous, funny, vulnerable, larger than life\u2014and the battles he fought to become the man behind the icon. A raw record of a life lived in full, and the honesty that became his greatest legacy.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.5",
-      "background": "https://image.tmdb.org/t/p/w500/zDSjGvywwyWUqnMIpYYwFDyA7Az.jpg"
     },
     {
       "id": "tt43681696",
