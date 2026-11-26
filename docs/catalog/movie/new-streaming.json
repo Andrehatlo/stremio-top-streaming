@@ -1,23 +1,13 @@
 {
   "metas": [
     {
-      "id": "tt39370926",
-      "type": "movie",
-      "name": "Never Surrender",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39370926.jpg",
-      "description": "When a deadly gang descends on his remote home, a guilt-ridden veteran and the estranged grandchildren he barely knows must unite to survive.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.0",
-      "background": "https://image.tmdb.org/t/p/w500/hKROmLddpzpjkxKKVFYFRAOXX1b.jpg"
-    },
-    {
       "id": "tt14413964",
       "type": "movie",
       "name": "Steps",
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt14413964.jpg",
       "description": "After being blamed for disrupting the Royal Ball with a stolen magic wand, a misunderstood stepsister accidentally turns her sister into a frog and must team up with Cinderella and an unlikely ally to save the kingdom and rewrite their fairytale ending.",
       "releaseInfo": "2026",
-      "imdbRating": "7.2",
+      "imdbRating": "7.1",
       "background": "https://image.tmdb.org/t/p/w500/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg"
     },
     {
@@ -27,7 +17,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt18351090.jpg",
       "description": "Jude Derry arrives at the exclusive Tagus university with a hidden mission: to infiltrate the circle of the Cash brothers and uncover the truth about her brother's death. What begins as revenge turns into a dangerous triangle of seduction, forbidden attraction and lies, drawing her toward a truth she may not be ready to face.",
       "releaseInfo": "2026",
-      "imdbRating": "7.3",
+      "imdbRating": "7.2",
       "background": "https://image.tmdb.org/t/p/w500/kej8EipJOvfHUHFg5wtT7gQ6bNb.jpg"
     },
     {
@@ -41,13 +31,33 @@
       "background": "https://image.tmdb.org/t/p/w500/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg"
     },
     {
+      "id": "tt36413910",
+      "type": "movie",
+      "name": "The Mosquito Bowl",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36413910.jpg",
+      "description": "In the aftermath of Pearl Harbor, four college football stars enlist in the US Marines, discovering the strength of brotherhood and the cost of war.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.2",
+      "background": "https://image.tmdb.org/t/p/w500/uxYs0bNTF4XzM8LThJk2x3AJ0Iv.jpg"
+    },
+    {
+      "id": "tt32213169",
+      "type": "movie",
+      "name": "Way of the Warrior Kid",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32213169.jpg",
+      "description": "Jake is an injured Navy SEAL who becomes a mentor for his shy, struggling nephew Marc. Using the principles of his military training, Jake teaches Marc how to be a Warrior Kid as he enters high school.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.5",
+      "background": "https://image.tmdb.org/t/p/w500/atI81xXKNVah7PJFBo3aXqQKtnG.jpg"
+    },
+    {
       "id": "tt38515310",
       "type": "movie",
       "name": "A Dog's Perfect Christmas",
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38515310.jpg",
       "description": "When a medical emergency pulls the Goss family apart, determined dog Winstead will do all he can to bring his humans back together before Christmas Eve.",
       "releaseInfo": "2026",
-      "imdbRating": "7.2",
+      "imdbRating": "7.1",
       "background": "https://image.tmdb.org/t/p/w500/zvsNAohDHRWcGvbPSD7r3WojpKb.jpg"
     },
     {
@@ -91,16 +101,6 @@
       "background": "https://image.tmdb.org/t/p/w500/fez7kLyGzpowduJapTFZZ1feCS0.jpg"
     },
     {
-      "id": "tt32213169",
-      "type": "movie",
-      "name": "Way of the Warrior Kid",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32213169.jpg",
-      "description": "Jake is an injured Navy SEAL who becomes a mentor for his shy, struggling nephew Marc. Using the principles of his military training, Jake teaches Marc how to be a Warrior Kid as he enters high school.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.0",
-      "background": "https://image.tmdb.org/t/p/w500/6xjTWjhusoJn8MXMYY9oWdOuHil.jpg"
-    },
-    {
       "id": "tt49241977",
       "type": "movie",
       "name": "Wolves Up Close with Bertie Gregory",
@@ -137,7 +137,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44825373.jpg",
       "description": "The rise, fall, and enduring legacy of Second City Television, one of the most influential sketch comedy series in television history. Through intimate interviews with surviving members of its cast and an emotional reunion in Toronto, it explores the creative partnership that transformed a small Canadian television production into a cultural phenomenon that launched some of comedy's most celebrated icons.",
       "releaseInfo": "2026",
-      "imdbRating": "7.4",
+      "imdbRating": "7.5",
       "background": "https://image.tmdb.org/t/p/w500/vBqVyTpzv5RzHSsQdu8ECxAqSvd.jpg"
     },
     {
@@ -167,7 +167,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36303063.jpg",
       "description": "Out-of-work weatherman Troy Tipton has one Christmas mission: retrieve the beloved teddy bear he pawned for holiday cash. With wife Becca, mother-in-law Dawn, and the kids in tow, Troy hits the road from Ohio to Florida in his old news van. But the family road trip gets even wilder when they discover the cherished bear is actually a priceless Teddy Roosevelt antique worth millions.",
       "releaseInfo": "2026",
-      "imdbRating": "8.5",
+      "imdbRating": "9.0",
       "background": "https://image.tmdb.org/t/p/w500/8GFwwkwj4X7a5ejPlsRGuWSZ6PU.jpg"
     },
     {
