@@ -7,28 +7,8 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt14413964.jpg",
       "description": "After being blamed for disrupting the Royal Ball with a stolen magic wand, a misunderstood stepsister accidentally turns her sister into a frog and must team up with Cinderella and an unlikely ally to save the kingdom and rewrite their fairytale ending.",
       "releaseInfo": "2026",
-      "imdbRating": "7.1",
+      "imdbRating": "7.0",
       "background": "https://image.tmdb.org/t/p/w500/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg"
-    },
-    {
-      "id": "tt18351090",
-      "type": "movie",
-      "name": "Perfect Liars",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt18351090.jpg",
-      "description": "Jude Derry arrives at the exclusive Tagus university with a hidden mission: to infiltrate the circle of the Cash brothers and uncover the truth about her brother's death. What begins as revenge turns into a dangerous triangle of seduction, forbidden attraction and lies, drawing her toward a truth she may not be ready to face.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.2",
-      "background": "https://image.tmdb.org/t/p/w500/kej8EipJOvfHUHFg5wtT7gQ6bNb.jpg"
-    },
-    {
-      "id": "tt37180686",
-      "type": "movie",
-      "name": "Drive - The Pretenders",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37180686.jpg",
-      "description": "A young mechanic fakes an engagement with racing's most scandalous star \u2014 officially for his reputation, secretly for her own shot behind the wheel. But soon the lie threatens to destroy everything \u2014 including what's already become so much more than just a deal.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.6",
-      "background": "https://image.tmdb.org/t/p/w500/s9syckECnUYhKePQ1A0DC0mFVZ9.jpg"
     },
     {
       "id": "tt36413910",
@@ -37,8 +17,18 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36413910.jpg",
       "description": "In the aftermath of Pearl Harbor, four college football stars enlist in the US Marines, discovering the strength of brotherhood and the cost of war.",
       "releaseInfo": "2026",
-      "imdbRating": "7.2",
+      "imdbRating": "7.7",
       "background": "https://image.tmdb.org/t/p/w500/uxYs0bNTF4XzM8LThJk2x3AJ0Iv.jpg"
+    },
+    {
+      "id": "tt18351090",
+      "type": "movie",
+      "name": "Perfect Liars",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt18351090.jpg",
+      "description": "Jude Derry arrives at the exclusive Tagus university with a hidden mission: to infiltrate the circle of the Cash brothers and uncover the truth about her brother's death. What begins as revenge turns into a dangerous triangle of seduction, forbidden attraction and lies, drawing her toward a truth she may not be ready to face.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.1",
+      "background": "https://image.tmdb.org/t/p/w500/kej8EipJOvfHUHFg5wtT7gQ6bNb.jpg"
     },
     {
       "id": "tt32213169",
@@ -47,7 +37,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32213169.jpg",
       "description": "Jake is an injured Navy SEAL who becomes a mentor for his shy, struggling nephew Marc. Using the principles of his military training, Jake teaches Marc how to be a Warrior Kid as he enters high school.",
       "releaseInfo": "2026",
-      "imdbRating": "7.5",
+      "imdbRating": "7.4",
       "background": "https://image.tmdb.org/t/p/w500/atI81xXKNVah7PJFBo3aXqQKtnG.jpg"
     },
     {
@@ -111,16 +101,6 @@
       "background": "https://image.tmdb.org/t/p/w500/fopmDU345HPkMC9iUaNQEY0uRkk.jpg"
     },
     {
-      "id": "tt39163238",
-      "type": "movie",
-      "name": "When a Witness Recants",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39163238.jpg",
-      "description": "In 1983, author Ta-Nehisi Coates learned that a 14-year-old boy was murdered in his Baltimore middle school. Upon revisiting the case, he uncovers the truth: Three innocent teenagers were wrongfully convicted and spent 36 years in prison \u2014 creating a lasting impact on the accused, the witnesses, and their community.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.0",
-      "background": "https://image.tmdb.org/t/p/w500/jWHwiwbLAjLCg9WZlE1eMKvV5Nr.jpg"
-    },
-    {
       "id": "tt49065977",
       "type": "movie",
       "name": "Expedition: Saving Our Seas",
@@ -129,6 +109,16 @@
       "releaseInfo": "2026",
       "imdbRating": "8.0",
       "background": "https://image.tmdb.org/t/p/w500/gvDT4GGE04bknYuT4dcni9TrLi4.jpg"
+    },
+    {
+      "id": "tt39163238",
+      "type": "movie",
+      "name": "When a Witness Recants",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39163238.jpg",
+      "description": "In 1983, author Ta-Nehisi Coates learned that a 14-year-old boy was murdered in his Baltimore middle school. Upon revisiting the case, he uncovers the truth: Three innocent teenagers were wrongfully convicted and spent 36 years in prison \u2014 creating a lasting impact on the accused, the witnesses, and their community.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.0",
+      "background": "https://image.tmdb.org/t/p/w500/jWHwiwbLAjLCg9WZlE1eMKvV5Nr.jpg"
     },
     {
       "id": "tt44825373",
@@ -151,16 +141,6 @@
       "background": "https://image.tmdb.org/t/p/w500/7lSCZqdOhjsCI1BqZMUr8eNOOl5.jpg"
     },
     {
-      "id": "tt46670803",
-      "type": "movie",
-      "name": "Zainab Johnson: Toxically Optimistic",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt46670803.jpg",
-      "description": "Zainab Johnson has a gun revelation, a Tesla crisis and an unshakable belief that she can find the upside in everything in this sharp stand-up hour.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.5",
-      "background": "https://image.tmdb.org/t/p/w500/45aRvdvuLz2mooiHAe3j1bCFfHL.jpg"
-    },
-    {
       "id": "tt36303063",
       "type": "movie",
       "name": "Unbearable Christmas",
@@ -169,6 +149,16 @@
       "releaseInfo": "2026",
       "imdbRating": "9.0",
       "background": "https://image.tmdb.org/t/p/w500/8GFwwkwj4X7a5ejPlsRGuWSZ6PU.jpg"
+    },
+    {
+      "id": "tt39201392",
+      "type": "movie",
+      "name": "All for Christmas",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39201392.jpg",
+      "description": "Podcaster Winona is forced to test love online by a holiday dating-app partnership, connecting with a mystery man who feels like everything she\u2019s been missing. What she doesn\u2019t know is that he\u2019s Luke, the rugged renovator transforming her grandmother\u2019s Christmas Eve venue \u2014 and the last guy she\u2019d ever expect to fall for in real life.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.0",
+      "background": "https://image.tmdb.org/t/p/w500/oGdv5eh69qZBws5vjIFJvvSH1Uz.jpg"
     },
     {
       "id": "tt50712960",

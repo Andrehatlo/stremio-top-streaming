@@ -17,8 +17,8 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt8014982.jpg",
       "description": "On Halloween night, an all-girls dance squad tumbles into Catholic guilt, unholy desires and ghostly visions when an initiation goes to hell.",
       "releaseInfo": "2026",
-      "imdbRating": "8.1",
-      "background": "https://image.tmdb.org/t/p/w500/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg"
+      "imdbRating": "8.0",
+      "background": "https://image.tmdb.org/t/p/w500/zleCYDRbW5mKwgZwVK4SNIrKXWx.jpg"
     },
     {
       "id": "tt26598805",
@@ -27,7 +27,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt26598805.jpg",
       "description": "When a victim of notorious serial killer Jurek Walter unexpectedly turns up alive, detective Jonah Lynn races against time to find the one person still missing, while his prot\u00e9g\u00e9 Saga Bauer goes undercover to get answers from the killer himself.",
       "releaseInfo": "2026",
-      "imdbRating": "7.7",
+      "imdbRating": "7.6",
       "background": "https://image.tmdb.org/t/p/w500/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg"
     },
     {
@@ -47,7 +47,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38336631.jpg",
       "description": "Two detectives join forces when brutal murders and cryptic messages surface across borders \u2014 but the deadly truth lurks dangerously close.",
       "releaseInfo": "2026",
-      "imdbRating": "7.9",
+      "imdbRating": "8.0",
       "background": "https://image.tmdb.org/t/p/w500/cVbilrgtgKi7gN74KK4voyV7iDR.jpg"
     },
     {
@@ -61,13 +61,23 @@
       "background": "https://image.tmdb.org/t/p/w500/wUvzMC7EToPgci31ZZRCeqCmQ6d.jpg"
     },
     {
+      "id": "tt43613803",
+      "type": "series",
+      "name": "Fool Night",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt43613803.jpg",
+      "description": "In a sunless future where humans become plants to make oxygen, a desperate young man begins the transformation \u2014 and unearths a deep-rooted conspiracy.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.7",
+      "background": "https://image.tmdb.org/t/p/w500/7kHLQwQZKbQOZJGx1mIDYIKeBYv.jpg"
+    },
+    {
       "id": "tt41559886",
       "type": "series",
       "name": "Gordon",
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt41559886.jpg",
       "description": "An\u00edbal Gordon rises from a small-time thief to a convicted murderer in Argentina during the '70s.",
       "releaseInfo": "2026",
-      "imdbRating": "7.2",
+      "imdbRating": "7.1",
       "background": "https://image.tmdb.org/t/p/w500/yLgl70D5Up0MlvBWP2MJTLAbFAF.jpg"
     },
     {
@@ -79,6 +89,16 @@
       "releaseInfo": "2026",
       "imdbRating": "7.7",
       "background": "https://image.tmdb.org/t/p/w500/qJPvyo9Pxz3MQndd3tKSocLz1Nt.jpg"
+    },
+    {
+      "id": "tt36951910",
+      "type": "series",
+      "name": "Always on Call",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36951910.jpg",
+      "description": "A devoted team of medical professionals navigate personal struggles, political pressure and a risky new hire at an overwhelmed emergency room in Oslo.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.1",
+      "background": "https://image.tmdb.org/t/p/w500/oQUJId55qF6YZ3bhPZ12WP1c5m4.jpg"
     },
     {
       "id": "tt39494650",
@@ -111,16 +131,6 @@
       "background": "https://image.tmdb.org/t/p/w500/q7eWmFOfdHqm15YrKiYmR8XEVRx.jpg"
     },
     {
-      "id": "tt29625288",
-      "type": "series",
-      "name": "Akka",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt29625288.jpg",
-      "description": "In a kingdom ruled by women, matriarch Bhavani faces her biggest threat in Rudra, a ruthless rebel eyeing her land and legacy.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.9",
-      "background": "https://image.tmdb.org/t/p/w500/tdnHaR0vlKMQbjmaCs2V3LDmzSd.jpg"
-    },
-    {
       "id": "tt41054228",
       "type": "series",
       "name": "Devils' Crest",
@@ -131,14 +141,14 @@
       "background": "https://image.tmdb.org/t/p/w500/dRflgHEhzpy12nsYR11hvdoHEoK.jpg"
     },
     {
-      "id": "tt39161219",
+      "id": "tt29625288",
       "type": "series",
-      "name": "Valentina and the 12 Signs",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39161219.jpg",
-      "description": "After a devastating breakup, Valentina decides to date one man from every zodiac sign. But the universe has other plans.",
+      "name": "Akka",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt29625288.jpg",
+      "description": "In a kingdom ruled by women, matriarch Bhavani faces her biggest threat in Rudra, a ruthless rebel eyeing her land and legacy.",
       "releaseInfo": "2026",
-      "imdbRating": "7.0",
-      "background": "https://image.tmdb.org/t/p/w500/ihjonCRR5gEUEH8RG2Qbk4Fy3HB.jpg"
+      "imdbRating": "7.9",
+      "background": "https://image.tmdb.org/t/p/w500/tdnHaR0vlKMQbjmaCs2V3LDmzSd.jpg"
     },
     {
       "id": "tt31844371",
@@ -151,14 +161,14 @@
       "background": "https://image.tmdb.org/t/p/w500/eX6E7u6AicwNsMAZ2lm8zFM8lz2.jpg"
     },
     {
-      "id": "tt38961437",
+      "id": "tt39161219",
       "type": "series",
-      "name": "Silent Night",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38961437.jpg",
-      "description": "Follow the aftermath of a brutal Christmas Eve crime and its impact on a rural Polish community.",
+      "name": "Valentina and the 12 Signs",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39161219.jpg",
+      "description": "After a devastating breakup, Valentina decides to date one man from every zodiac sign. But the universe has other plans.",
       "releaseInfo": "2026",
-      "imdbRating": "7.9",
-      "background": "https://image.tmdb.org/t/p/w500/qRf44yrp9BkhNLREi2mU3ikx4dG.jpg"
+      "imdbRating": "7.0",
+      "background": "https://image.tmdb.org/t/p/w500/ihjonCRR5gEUEH8RG2Qbk4Fy3HB.jpg"
     },
     {
       "id": "tt38681812",
@@ -171,14 +181,14 @@
       "background": "https://image.tmdb.org/t/p/w500/78tzKjQPyZEjOSL0THlWRxH5IAj.jpg"
     },
     {
-      "id": "tt37214564",
+      "id": "tt38961437",
       "type": "series",
-      "name": "ChiaroScuro",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37214564.jpg",
-      "description": "After a body is found in a Roman museum, an art expert must apply his instincts and skills to help police solve a mystery connected to his own past.",
+      "name": "Silent Night",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38961437.jpg",
+      "description": "Follow the aftermath of a brutal Christmas Eve crime and its impact on a rural Polish community.",
       "releaseInfo": "2026",
-      "imdbRating": "7.8",
-      "background": "https://image.tmdb.org/t/p/w500/h4dM4FjqSJihwGpo3x0llMvNSfg.jpg"
+      "imdbRating": "7.9",
+      "background": "https://image.tmdb.org/t/p/w500/qRf44yrp9BkhNLREi2mU3ikx4dG.jpg"
     },
     {
       "id": "tt37762350",
@@ -189,6 +199,16 @@
       "releaseInfo": "2026",
       "imdbRating": "7.2",
       "background": "https://image.tmdb.org/t/p/w500/ikJ62NkEVyCwwar4UFrdyc0gMlq.jpg"
+    },
+    {
+      "id": "tt37214564",
+      "type": "series",
+      "name": "ChiaroScuro",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37214564.jpg",
+      "description": "After a body is found in a Roman museum, an art expert must apply his instincts and skills to help police solve a mystery connected to his own past.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.8",
+      "background": "https://image.tmdb.org/t/p/w500/h4dM4FjqSJihwGpo3x0llMvNSfg.jpg"
     },
     {
       "id": "tt45114341",
@@ -221,16 +241,6 @@
       "background": "https://image.tmdb.org/t/p/w500/kK5p5DJTS2rAzOVrvjhLMg7rsmm.jpg"
     },
     {
-      "id": "tt44941753",
-      "type": "series",
-      "name": "The One About Matthew Perry",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt44941753.jpg",
-      "description": "Told through intimate testimonies from close family and friends, this documentary event reveals the real Matthew Perry\u2014generous, funny, vulnerable, larger than life\u2014and the battles he fought to become the man behind the icon. A raw record of a life lived in full, and the honesty that became his greatest legacy.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.5",
-      "background": "https://image.tmdb.org/t/p/w500/zDSjGvywwyWUqnMIpYYwFDyA7Az.jpg"
-    },
-    {
       "id": "tt50135019",
       "type": "series",
       "name": "Get Huge: Looksmaxxing to Death",
@@ -239,16 +249,6 @@
       "releaseInfo": "2026",
       "imdbRating": "7.0",
       "background": "https://image.tmdb.org/t/p/w500/9qODvXSjoQmRKU9Xp24Oiucv9aZ.jpg"
-    },
-    {
-      "id": "tt49250618",
-      "type": "series",
-      "name": "The Fall of El Mayo",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt49250618.jpg",
-      "description": "Co-founder of the Sinaloa Cartel, longtime partner of \"El Chapo\", and a ghost to authorities for over three decades. The documentary that tells the story of his downfall.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.4",
-      "background": "https://image.tmdb.org/t/p/w500/zp5lT15wR0cfCYcR12DXcVNsrnh.jpg"
     },
     {
       "id": "tt43681696",
@@ -261,6 +261,16 @@
       "background": "https://image.tmdb.org/t/p/w500/rKyjcuSbsDDDcIisa6cx5k5yQNa.jpg"
     },
     {
+      "id": "tt49250618",
+      "type": "series",
+      "name": "The Fall of El Mayo",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt49250618.jpg",
+      "description": "Co-founder of the Sinaloa Cartel, longtime partner of \"El Chapo\", and a ghost to authorities for over three decades. The documentary that tells the story of his downfall.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.4",
+      "background": "https://image.tmdb.org/t/p/w500/zp5lT15wR0cfCYcR12DXcVNsrnh.jpg"
+    },
+    {
       "id": "tt45643443",
       "type": "series",
       "name": "Clangold",
@@ -271,14 +281,14 @@
       "background": "https://image.tmdb.org/t/p/w500/9Y8DXNSG0NfTL98S9b9qiqaIzzw.jpg"
     },
     {
-      "id": "tt50986266",
+      "id": "tt52071013",
       "type": "series",
-      "name": "Maniacs of the Truth",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt50986266.jpg",
-      "description": "This two-part documentary series explores Hungary\u2019s most notorious and high-profile criminal cases following the fall of communism through the regular dinner gatherings of a unique group of friends - including retired detective Ern\u0151 T\u00f3th and his former colleagues.",
+      "name": "Alan Carr's Great Big Bucket List",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt52071013.jpg",
+      "description": "This series sees Alan and some of his comic friends embark on an international mission to road-test classic 'bucket list' experiences, determining which of them are truly 'try before you die' \u2014 and which should never be spoken of again\u2026",
       "releaseInfo": "2026",
-      "imdbRating": "8.5",
-      "background": "https://image.tmdb.org/t/p/w500/kseV4cI5bRnNfKrgOEKsJ1WKoFr.jpg"
+      "imdbRating": "9.0",
+      "background": "https://image.tmdb.org/t/p/w500/nb2igvS4qWtWHqsiJeEBeHizIfc.jpg"
     },
     {
       "id": "tt48499601",
@@ -289,6 +299,16 @@
       "releaseInfo": "2026",
       "imdbRating": "8.5",
       "background": "https://image.tmdb.org/t/p/w500/h65U3K1evI9MWv2m8kzUgNLnoqq.jpg"
+    },
+    {
+      "id": "tt50986266",
+      "type": "series",
+      "name": "Maniacs of the Truth",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt50986266.jpg",
+      "description": "This two-part documentary series explores Hungary\u2019s most notorious and high-profile criminal cases following the fall of communism through the regular dinner gatherings of a unique group of friends - including retired detective Ern\u0151 T\u00f3th and his former colleagues.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.5",
+      "background": "https://image.tmdb.org/t/p/w500/kseV4cI5bRnNfKrgOEKsJ1WKoFr.jpg"
     },
     {
       "id": "tt28450216",
