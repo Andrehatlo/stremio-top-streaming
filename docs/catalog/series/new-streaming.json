@@ -18,7 +18,7 @@
       "description": "On Halloween night, an all-girls dance squad tumbles into Catholic guilt, unholy desires and ghostly visions when an initiation goes to hell.",
       "releaseInfo": "2026",
       "imdbRating": "8.0",
-      "background": "https://image.tmdb.org/t/p/w500/zleCYDRbW5mKwgZwVK4SNIrKXWx.jpg"
+      "background": "https://image.tmdb.org/t/p/w500/195kCuy2RqGaEAZDDpGTx7gBUBZ.jpg"
     },
     {
       "id": "tt26598805",
@@ -41,6 +41,16 @@
       "background": "https://image.tmdb.org/t/p/w500/kTgV6VLp70QOBpCZqvEuTWAA4Ng.jpg"
     },
     {
+      "id": "tt43613803",
+      "type": "series",
+      "name": "Fool Night",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt43613803.jpg",
+      "description": "In a sunless future where humans become plants to make oxygen, a desperate young man begins the transformation \u2014 and unearths a deep-rooted conspiracy.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.8",
+      "background": "https://image.tmdb.org/t/p/w500/7kHLQwQZKbQOZJGx1mIDYIKeBYv.jpg"
+    },
+    {
       "id": "tt38336631",
       "type": "series",
       "name": "The Blue Road",
@@ -57,18 +67,8 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36458668.jpg",
       "description": "Drowning in debt, a young man takes lucrative part-time jobs from a mysterious agency \u2014 only to find his hustle for more money turning nightmarish.",
       "releaseInfo": "2026",
-      "imdbRating": "7.6",
+      "imdbRating": "7.5",
       "background": "https://image.tmdb.org/t/p/w500/wUvzMC7EToPgci31ZZRCeqCmQ6d.jpg"
-    },
-    {
-      "id": "tt43613803",
-      "type": "series",
-      "name": "Fool Night",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt43613803.jpg",
-      "description": "In a sunless future where humans become plants to make oxygen, a desperate young man begins the transformation \u2014 and unearths a deep-rooted conspiracy.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.7",
-      "background": "https://image.tmdb.org/t/p/w500/7kHLQwQZKbQOZJGx1mIDYIKeBYv.jpg"
     },
     {
       "id": "tt41559886",
@@ -81,16 +81,6 @@
       "background": "https://image.tmdb.org/t/p/w500/yLgl70D5Up0MlvBWP2MJTLAbFAF.jpg"
     },
     {
-      "id": "tt31842126",
-      "type": "series",
-      "name": "The Good Daughter",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31842126.jpg",
-      "description": "Sisters Charlotte and Samantha Quinn have spent the last twenty-eight years trying to piece together the lives that were fractured by a single night of violence. When another attack splinters the small town of Pikeville, Charlotte is the first witness on the scene. Now a lawyer like her father, she\u2019s forced to confront her own demons as the case twists through one shocking revelation after another. In the end, both she and Samantha find themselves wondering if the price of being the good daughter was worth it after all.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.7",
-      "background": "https://image.tmdb.org/t/p/w500/qJPvyo9Pxz3MQndd3tKSocLz1Nt.jpg"
-    },
-    {
       "id": "tt36951910",
       "type": "series",
       "name": "Always on Call",
@@ -101,14 +91,24 @@
       "background": "https://image.tmdb.org/t/p/w500/oQUJId55qF6YZ3bhPZ12WP1c5m4.jpg"
     },
     {
-      "id": "tt39494650",
+      "id": "tt31842126",
       "type": "series",
-      "name": "Miracles of the ER",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39494650.jpg",
-      "description": "A bold decision brings an average med student to an elite ER team, where he encounters medical crises, ethical dilemmas, and personal growth.",
+      "name": "The Good Daughter",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31842126.jpg",
+      "description": "Sisters Charlotte and Samantha Quinn have spent the last twenty-eight years trying to piece together the lives that were fractured by a single night of violence. When another attack splinters the small town of Pikeville, Charlotte is the first witness on the scene. Now a lawyer like her father, she\u2019s forced to confront her own demons as the case twists through one shocking revelation after another. In the end, both she and Samantha find themselves wondering if the price of being the good daughter was worth it after all.",
       "releaseInfo": "2026",
-      "imdbRating": "7.5",
-      "background": "https://image.tmdb.org/t/p/w500/AaeU5NdIyoRl3qXy1z2sT5hDyio.jpg"
+      "imdbRating": "7.7",
+      "background": "https://image.tmdb.org/t/p/w500/qJPvyo9Pxz3MQndd3tKSocLz1Nt.jpg"
+    },
+    {
+      "id": "tt38681811",
+      "type": "series",
+      "name": "Toos: The Van der Valk Kidnapping",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38681811.jpg",
+      "description": "1982. When the matriarch of a Dutch hotel empire is kidnapped for ransom, her family launches a desperate effort to free her.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.0",
+      "background": "https://image.tmdb.org/t/p/w500/wVMnb4zWFeLGUJF7y6SqNbXSgV6.jpg"
     },
     {
       "id": "tt47021035",
@@ -121,6 +121,16 @@
       "background": "https://image.tmdb.org/t/p/w500/zrrRRvavkLQupkC6aEkdA8sX4E8.jpg"
     },
     {
+      "id": "tt41054228",
+      "type": "series",
+      "name": "Devils' Crest",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt41054228.jpg",
+      "description": "Yuma Ashihara was set to enjoy a test session of Actual Magic (AM)\u2014the world's first fulldive VRMMO-RPG\u2014together with his classmates Sawa Ashihara, Kenji Kondo, and Minagi Sano. The plan was simple: defeat the boss as a party of four, log out, and finish the test play safely \u2014 or at least, that's how it was supposed to go.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.0",
+      "background": "https://image.tmdb.org/t/p/w500/dRflgHEhzpy12nsYR11hvdoHEoK.jpg"
+    },
+    {
       "id": "tt39957390",
       "type": "series",
       "name": "Bass X Machina",
@@ -131,14 +141,24 @@
       "background": "https://image.tmdb.org/t/p/w500/q7eWmFOfdHqm15YrKiYmR8XEVRx.jpg"
     },
     {
-      "id": "tt41054228",
+      "id": "tt39494650",
       "type": "series",
-      "name": "Devils' Crest",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt41054228.jpg",
-      "description": "Yuma Ashihara was set to enjoy a test session of Actual Magic (AM)\u2014the world's first fulldive VRMMO-RPG\u2014together with his classmates Sawa Ashihara, Kenji Kondo, and Minagi Sano. The plan was simple: defeat the boss as a party of four, log out, and finish the test play safely \u2014 or at least, that's how it was supposed to go.",
+      "name": "Miracles of the ER",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39494650.jpg",
+      "description": "A bold decision brings an average med student to an elite ER team, where he encounters medical crises, ethical dilemmas, and personal growth.",
       "releaseInfo": "2026",
-      "imdbRating": "8.0",
-      "background": "https://image.tmdb.org/t/p/w500/dRflgHEhzpy12nsYR11hvdoHEoK.jpg"
+      "imdbRating": "7.5",
+      "background": "https://image.tmdb.org/t/p/w500/AaeU5NdIyoRl3qXy1z2sT5hDyio.jpg"
+    },
+    {
+      "id": "tt38961437",
+      "type": "series",
+      "name": "Silent Night",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38961437.jpg",
+      "description": "Follow the aftermath of a brutal Christmas Eve crime and its impact on a rural Polish community.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.9",
+      "background": "https://image.tmdb.org/t/p/w500/qRf44yrp9BkhNLREi2mU3ikx4dG.jpg"
     },
     {
       "id": "tt29625288",
@@ -151,14 +171,14 @@
       "background": "https://image.tmdb.org/t/p/w500/tdnHaR0vlKMQbjmaCs2V3LDmzSd.jpg"
     },
     {
-      "id": "tt31844371",
+      "id": "tt45114341",
       "type": "series",
-      "name": "Vienna Game",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31844371.jpg",
-      "description": "While Napoleon Bonaparte is exiled on Elba, kings and crown princes, ministers and spies, noblewomen and mistresses, adventurers, inventors, artists, and concubines gather in Vienna to celebrate and negotiate. Here, the fate of Europe is decided on the dance floor and in the boudoir.",
+      "name": "Melania Rea",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt45114341.jpg",
+      "description": "The tragic story of Melania Rea, whose case reveals a toxic marriage marked by lies and manipulation.",
       "releaseInfo": "2026",
-      "imdbRating": "9.2",
-      "background": "https://image.tmdb.org/t/p/w500/eX6E7u6AicwNsMAZ2lm8zFM8lz2.jpg"
+      "imdbRating": "9.3",
+      "background": "https://image.tmdb.org/t/p/w500/6hNf9che0KvninHhKDuniNa2OWQ.jpg"
     },
     {
       "id": "tt39161219",
@@ -167,7 +187,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39161219.jpg",
       "description": "After a devastating breakup, Valentina decides to date one man from every zodiac sign. But the universe has other plans.",
       "releaseInfo": "2026",
-      "imdbRating": "7.0",
+      "imdbRating": "7.8",
       "background": "https://image.tmdb.org/t/p/w500/ihjonCRR5gEUEH8RG2Qbk4Fy3HB.jpg"
     },
     {
@@ -181,24 +201,24 @@
       "background": "https://image.tmdb.org/t/p/w500/78tzKjQPyZEjOSL0THlWRxH5IAj.jpg"
     },
     {
-      "id": "tt38961437",
+      "id": "tt31844371",
       "type": "series",
-      "name": "Silent Night",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38961437.jpg",
-      "description": "Follow the aftermath of a brutal Christmas Eve crime and its impact on a rural Polish community.",
+      "name": "Vienna Game",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt31844371.jpg",
+      "description": "While Napoleon Bonaparte is exiled on Elba, kings and crown princes, ministers and spies, noblewomen and mistresses, adventurers, inventors, artists, and concubines gather in Vienna to celebrate and negotiate. Here, the fate of Europe is decided on the dance floor and in the boudoir.",
       "releaseInfo": "2026",
-      "imdbRating": "7.9",
-      "background": "https://image.tmdb.org/t/p/w500/qRf44yrp9BkhNLREi2mU3ikx4dG.jpg"
+      "imdbRating": "9.2",
+      "background": "https://image.tmdb.org/t/p/w500/eX6E7u6AicwNsMAZ2lm8zFM8lz2.jpg"
     },
     {
-      "id": "tt37762350",
+      "id": "tt39741417",
       "type": "series",
-      "name": "Under Siege",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37762350.jpg",
-      "description": "Caught in the crossfire, hostages, militaries and guerrillas are swept into a tragedy that brings turmoil to Colombia.",
+      "name": "A Filipino Christmas",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39741417.jpg",
+      "description": "Discover the true meaning of the season in this touching anthology featuring estranged friends, a snowy Christmas, office rivals, and clashing sisters.",
       "releaseInfo": "2026",
-      "imdbRating": "7.2",
-      "background": "https://image.tmdb.org/t/p/w500/ikJ62NkEVyCwwar4UFrdyc0gMlq.jpg"
+      "imdbRating": "7.0",
+      "background": "https://image.tmdb.org/t/p/w500/zYUsYASG6gLiSnddKEj2fNRS4R3.jpg"
     },
     {
       "id": "tt37214564",
@@ -211,24 +231,24 @@
       "background": "https://image.tmdb.org/t/p/w500/h4dM4FjqSJihwGpo3x0llMvNSfg.jpg"
     },
     {
-      "id": "tt45114341",
+      "id": "tt37762350",
       "type": "series",
-      "name": "Melania Rea",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt45114341.jpg",
-      "description": "The tragic story of Melania Rea, whose case reveals a toxic marriage marked by lies and manipulation.",
-      "releaseInfo": "2026",
-      "imdbRating": "9.3",
-      "background": "https://image.tmdb.org/t/p/w500/6hNf9che0KvninHhKDuniNa2OWQ.jpg"
-    },
-    {
-      "id": "tt45854934",
-      "type": "series",
-      "name": "The Gift of Deceit",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt45854934.jpg",
-      "description": "Desperate to find a cure for the unknown illness affecting her daughter, art collector L\u00facia Rossetti turns to a spiritual healer. When L\u00facia falls victim to a scam, a series of secrets is revealed, intertwining two families marked by love, control, resentment, and guilt.",
+      "name": "Under Siege",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37762350.jpg",
+      "description": "Caught in the crossfire, hostages, militaries and guerrillas are swept into a tragedy that brings turmoil to Colombia.",
       "releaseInfo": "2026",
       "imdbRating": "7.2",
-      "background": "https://image.tmdb.org/t/p/w500/mAfYj5ZtR2V5ad6uham1PwAh0mc.jpg"
+      "background": "https://image.tmdb.org/t/p/w500/ikJ62NkEVyCwwar4UFrdyc0gMlq.jpg"
+    },
+    {
+      "id": "tt52071013",
+      "type": "series",
+      "name": "Alan Carr's Great Big Bucket List",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt52071013.jpg",
+      "description": "This series sees Alan and some of his comic friends embark on an international mission to road-test classic 'bucket list' experiences, determining which of them are truly 'try before you die' \u2014 and which should never be spoken of again\u2026",
+      "releaseInfo": "2026",
+      "imdbRating": "9.0",
+      "background": "https://image.tmdb.org/t/p/w500/nb2igvS4qWtWHqsiJeEBeHizIfc.jpg"
     },
     {
       "id": "tt44914557",
@@ -239,16 +259,6 @@
       "releaseInfo": "2026",
       "imdbRating": "8.5",
       "background": "https://image.tmdb.org/t/p/w500/kK5p5DJTS2rAzOVrvjhLMg7rsmm.jpg"
-    },
-    {
-      "id": "tt50135019",
-      "type": "series",
-      "name": "Get Huge: Looksmaxxing to Death",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt50135019.jpg",
-      "description": "An unflinching portrait of masculinity in the influencer age, where extreme biohacking, online performance and a series of suspicious deaths converge.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.0",
-      "background": "https://image.tmdb.org/t/p/w500/9qODvXSjoQmRKU9Xp24Oiucv9aZ.jpg"
     },
     {
       "id": "tt43681696",
@@ -281,16 +291,6 @@
       "background": "https://image.tmdb.org/t/p/w500/9Y8DXNSG0NfTL98S9b9qiqaIzzw.jpg"
     },
     {
-      "id": "tt52071013",
-      "type": "series",
-      "name": "Alan Carr's Great Big Bucket List",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt52071013.jpg",
-      "description": "This series sees Alan and some of his comic friends embark on an international mission to road-test classic 'bucket list' experiences, determining which of them are truly 'try before you die' \u2014 and which should never be spoken of again\u2026",
-      "releaseInfo": "2026",
-      "imdbRating": "9.0",
-      "background": "https://image.tmdb.org/t/p/w500/nb2igvS4qWtWHqsiJeEBeHizIfc.jpg"
-    },
-    {
       "id": "tt48499601",
       "type": "series",
       "name": "Cannibal Poet",
@@ -309,16 +309,6 @@
       "releaseInfo": "2026",
       "imdbRating": "8.5",
       "background": "https://image.tmdb.org/t/p/w500/kseV4cI5bRnNfKrgOEKsJ1WKoFr.jpg"
-    },
-    {
-      "id": "tt28450216",
-      "type": "series",
-      "name": "Student of the Year: After Dark",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt28450216.jpg",
-      "description": "Student of the Year: After Dark reimagines the St. Teresa's campus as the setting of a murder mystery after the school's queen bee, Aayesha Malik, is found dead in a frozen lake. Refusing to believe it was an accident, her introverted twin sister Aditi goes undercover at the elite institution to investigate her death.",
-      "releaseInfo": "2026",
-      "imdbRating": "8.0",
-      "background": "https://image.tmdb.org/t/p/w500/qhIGdVcH2eSIRckuPTrjryJJxvv.jpg"
     },
     {
       "id": "tt39044730",
@@ -349,6 +339,16 @@
       "releaseInfo": "2026",
       "imdbRating": "10.0",
       "background": "https://image.tmdb.org/t/p/w500/vZ7UAWBmSxSaBtk8weABX0oqC01.jpg"
+    },
+    {
+      "id": "tt52456115",
+      "type": "series",
+      "name": "Picturelogue \uff5eEscape From Oogiri Labyrinth\uff5e",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt52456115.jpg",
+      "description": "Contestants race to escape a mind-bending maze in 90 minutes, using their wit to caption photos and teaming up with partners for physical challenges.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.0",
+      "background": "https://image.tmdb.org/t/p/w500/1y5QobUcGzCZuaEk4iAf06C8wXW.jpg"
     }
   ],
   "cacheMaxAge": 3600

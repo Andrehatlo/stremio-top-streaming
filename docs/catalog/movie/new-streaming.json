@@ -7,7 +7,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt14413964.jpg",
       "description": "After being blamed for disrupting the Royal Ball with a stolen magic wand, a misunderstood stepsister accidentally turns her sister into a frog and must team up with Cinderella and an unlikely ally to save the kingdom and rewrite their fairytale ending.",
       "releaseInfo": "2026",
-      "imdbRating": "7.0",
+      "imdbRating": "7.1",
       "background": "https://image.tmdb.org/t/p/w500/jtfCcWZ3ZyKdgi0u7JVOxEOSSJP.jpg"
     },
     {
@@ -17,8 +17,18 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36413910.jpg",
       "description": "In the aftermath of Pearl Harbor, four college football stars enlist in the US Marines, discovering the strength of brotherhood and the cost of war.",
       "releaseInfo": "2026",
-      "imdbRating": "7.7",
+      "imdbRating": "7.5",
       "background": "https://image.tmdb.org/t/p/w500/uxYs0bNTF4XzM8LThJk2x3AJ0Iv.jpg"
+    },
+    {
+      "id": "tt32213169",
+      "type": "movie",
+      "name": "Way of the Warrior Kid",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32213169.jpg",
+      "description": "Jake is an injured Navy SEAL who becomes a mentor for his shy, struggling nephew Marc. Using the principles of his military training, Jake teaches Marc how to be a Warrior Kid as he enters high school.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.5",
+      "background": "https://image.tmdb.org/t/p/w500/atI81xXKNVah7PJFBo3aXqQKtnG.jpg"
     },
     {
       "id": "tt18351090",
@@ -31,24 +41,14 @@
       "background": "https://image.tmdb.org/t/p/w500/kej8EipJOvfHUHFg5wtT7gQ6bNb.jpg"
     },
     {
-      "id": "tt32213169",
+      "id": "tt37267166",
       "type": "movie",
-      "name": "Way of the Warrior Kid",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt32213169.jpg",
-      "description": "Jake is an injured Navy SEAL who becomes a mentor for his shy, struggling nephew Marc. Using the principles of his military training, Jake teaches Marc how to be a Warrior Kid as he enters high school.",
+      "name": "The Hunchback, Soul of Paris",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt37267166.jpg",
+      "description": "Paris, 1830. As cholera threatens to ravage the city, a hunchback hunted for medical experiments is caught between political turmoil and impossible love.",
       "releaseInfo": "2026",
       "imdbRating": "7.4",
-      "background": "https://image.tmdb.org/t/p/w500/atI81xXKNVah7PJFBo3aXqQKtnG.jpg"
-    },
-    {
-      "id": "tt38515310",
-      "type": "movie",
-      "name": "A Dog's Perfect Christmas",
-      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38515310.jpg",
-      "description": "When a medical emergency pulls the Goss family apart, determined dog Winstead will do all he can to bring his humans back together before Christmas Eve.",
-      "releaseInfo": "2026",
-      "imdbRating": "7.1",
-      "background": "https://image.tmdb.org/t/p/w500/zvsNAohDHRWcGvbPSD7r3WojpKb.jpg"
+      "background": "https://image.tmdb.org/t/p/w500/3dHSDFEyUsjwRldplaRGygC5zkJ.jpg"
     },
     {
       "id": "tt50016818",
@@ -81,6 +81,16 @@
       "background": "https://image.tmdb.org/t/p/w500/EE0nu2jPKGio3ICEG193Z7DDSe.jpg"
     },
     {
+      "id": "tt38420997",
+      "type": "movie",
+      "name": "The Gospel of Christmas",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt38420997.jpg",
+      "description": "A struggling pastor moves his family to a troubled New York neighborhood, where they must save a neglected church from foreclosure before Christmas.",
+      "releaseInfo": "2026",
+      "imdbRating": "7.1",
+      "background": "https://image.tmdb.org/t/p/w500/ihbN6lNDXKe6w9xE6IBFMVF2Rkr.jpg"
+    },
+    {
       "id": "tt39400541",
       "type": "movie",
       "name": "One Year to Live, Buy a Man",
@@ -97,8 +107,18 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt49241977.jpg",
       "description": "Reconnecting with a pack of wolves he has followed for seven years, Bertie sets out to capture one of the Arctic's most dangerous and rarely filmed hunts: wolves taking on a bull moose, prey roughly ten times their size. Led by Kona, a striking white breeding male, the pack faces a critical winter as dwindling food supplies, an encroaching rival wolf and an aging leader threaten its survival.",
       "releaseInfo": "2026",
-      "imdbRating": "7.3",
+      "imdbRating": "7.2",
       "background": "https://image.tmdb.org/t/p/w500/fopmDU345HPkMC9iUaNQEY0uRkk.jpg"
+    },
+    {
+      "id": "tt50828463",
+      "type": "movie",
+      "name": "Nate Bargatze: Good for Nathan",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt50828463.jpg",
+      "description": "Nate Bargatze brings his dry wit and deadpan charm to overzealous parking sensors, the walking politics of marriage and an unhinged family group chat.",
+      "releaseInfo": "2026",
+      "imdbRating": "9.0",
+      "background": "https://image.tmdb.org/t/p/w500/aqm45GsPV9G2tKJJivOaNOPYxIi.jpg"
     },
     {
       "id": "tt49065977",
@@ -117,7 +137,7 @@
       "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt39163238.jpg",
       "description": "In 1983, author Ta-Nehisi Coates learned that a 14-year-old boy was murdered in his Baltimore middle school. Upon revisiting the case, he uncovers the truth: Three innocent teenagers were wrongfully convicted and spent 36 years in prison \u2014 creating a lasting impact on the accused, the witnesses, and their community.",
       "releaseInfo": "2026",
-      "imdbRating": "8.0",
+      "imdbRating": "9.0",
       "background": "https://image.tmdb.org/t/p/w500/jWHwiwbLAjLCg9WZlE1eMKvV5Nr.jpg"
     },
     {
@@ -129,6 +149,16 @@
       "releaseInfo": "2026",
       "imdbRating": "7.5",
       "background": "https://image.tmdb.org/t/p/w500/vBqVyTpzv5RzHSsQdu8ECxAqSvd.jpg"
+    },
+    {
+      "id": "tt36939482",
+      "type": "movie",
+      "name": "Terrell & T.O.",
+      "poster": "https://api.ratingposterdb.com/t0-free-rpdb/imdb/poster-default/tt36939482.jpg",
+      "description": "This feature-length documentary traces the meteoric rise of one of the most talented, accomplished, and polarizing athletes of America's most popular sport and examines his role as the preeminent \"prima donna\" wide receiver of his era, while catching up with Owens in present-day to see how he is evolving and discovering a new personal path forward.",
+      "releaseInfo": "2026",
+      "imdbRating": "8.0",
+      "background": "https://image.tmdb.org/t/p/w500/tur8rRYXYeWN7Kq2CWEPC5PiJr0.jpg"
     },
     {
       "id": "tt50245863",
@@ -158,7 +188,7 @@
       "description": "Podcaster Winona is forced to test love online by a holiday dating-app partnership, connecting with a mystery man who feels like everything she\u2019s been missing. What she doesn\u2019t know is that he\u2019s Luke, the rugged renovator transforming her grandmother\u2019s Christmas Eve venue \u2014 and the last guy she\u2019d ever expect to fall for in real life.",
       "releaseInfo": "2026",
       "imdbRating": "7.0",
-      "background": "https://image.tmdb.org/t/p/w500/oGdv5eh69qZBws5vjIFJvvSH1Uz.jpg"
+      "background": "https://image.tmdb.org/t/p/w500/h0IsIi6QxeFfsobZHABfyP3krHV.jpg"
     },
     {
       "id": "tt50712960",
